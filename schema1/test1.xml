@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/E:/2-BDCC/1-second_year/1-S3/xml/labs/schema1/test1.xsd">
+    <!-- namespace n'est définie dans le schema -->
+    <person>
+        <fname>Essadeq</fname>
+        <lname>Elaamiri</lname>
+        <age>19</age>
+        <birth>1999-01-07</birth>
+        <colorPref>red green #001133</colorPref>
+        <phone type="home">(+212)632858666</phone>
+        
+    </person>
+</persons>

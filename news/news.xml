@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="news.css"?>
+<news>
+    <article id="1">
+        <date-publication>2021-03-19</date-publication>
+        <auteur>
+            <nom>Orton Crayton</nom>
+        </auteur>
+        <titre>Bad Ronald</titre>
+        <resume>Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.	</resume>
+        <image src="http://dummyimage.com/300x300.png/5fa2dd/ffffff"></image>
+        <corps>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.
+        </corps>
+        <lien>http://virginia.edu/nec/nisi/volutpat/eleifend/donec.html	</lien>
+    </article>
+    <article id="2">
+        <date-publication>2021-04-27</date-publication>
+        <auteur>
+            <nom>Giffie Dewitt	</nom>
+        </auteur>
+        <titre>My Way Home (Így jöttem)	</titre>
+        <resume>Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.	</resume>
+        <image src="http://dummyimage.com/300x300.png/5fa2dd/ffffff"></image>
+        <corps>Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.
+        </corps>
+        <lien>https://webnode.com/molestie.xml</lien>
+    </article>
+    <article id="3">
+        <date-publication>2021-11-07</date-publication>
+        <auteur>
+            <nom>Davide Waudby	</nom>
+        </auteur>
+        <titre>First Time, The	</titre>
+        <resume>Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.	</resume>
+        <image src="http://dummyimage.com/300x300.png/cc0000/ffffff"></image>
+        <corps>Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo.
+        </corps>
+        <lien>https://va.gov/sapien/placerat/ante/nulla.jsp	</lien>
+    </article>
+    
+</news>

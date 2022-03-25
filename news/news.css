@@ -1,0 +1,39 @@
+*{
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+news{
+    background: #aaa;
+}
+
+news article{
+    display: block;
+    padding: 15px 10px;
+    background-color: #fff;
+    margin: 15px 10px;
+}
+
+news article *{
+    display: inline-block;
+    margin-bottom: 6px;
+}
+
+news article auteur::before{
+    content: "By: ";
+}
+
+news article date-publication{
+    color: #999;
+}
+news article titre{
+    font-weight: bold;
+    display: block;
+}
+
+news article image[src]{
+    display:block;
+    width: 200px;
+    height: 200px;
+    background-color: #fe4;
+    /*background-image: oxy_url('attr(src)');*/
+}

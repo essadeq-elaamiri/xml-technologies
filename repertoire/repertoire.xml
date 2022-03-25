@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- processing instruction -->
+<?xml-stylesheet type="text/css" href="repertoire.css"?>
+<!-- la declaration d'un DTD iterne -->
+<!-- <!DOCTYPE élement-racine [déclaration-d-éléments]> -->
+<!-- <!DOCTYPE repertoire [
+<!ELEMENT repertoire (contact)>  ******** element repertoire doit contenir l'elemetn contact 
+<!ELEMENT contact (nom, prenom?, tele+, adresse-mail*)>
+ ******** l'element contact doit contenit : nom obligatoirement une seule fois,
+prenom facultatif soit une fois soit sans prenom,
+tele une fois au minimum
+adresse-mail plusieurs fois ou sans adresse-mail 
+<!ELEMENT nom (#PCDATA)>
+ ******** PC DATA = parsed character data (à traduire si il est une entité...)
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT tele (#PCDATA)>
+<!ELEMENT adresse-mail (#PCDATA)>
+]> -->
+
+<!-- la declaration d'un DTD iterne -->
+<!-- <!DOCTYPE element-racine SYSTEM "nom-fichier"> -->
+<!DOCTYPE repertoire SYSTEM "repertoire.dtd" >
+
+<repertoire>
+    
+    <contact type="pro" id="h12">
+        <nom>Essadeq</nom>
+        <prenom>Elaamiri</prenom> <!-- facultatif -->
+        <tele type="mobile">0700763650</tele> <!-- un ou plusieur -->
+        <tele type="bureau">0632858665</tele>
+        <!-- @gmail.com => to be an entity -->
+        <adresse-mail>essadeq0701&gml;</adresse-mail> <!-- un ou plusieur -->
+        <adresse-mail>essadeqelaamiri&gml;</adresse-mail>
+    </contact>
+    <contact type="perso" id="h13">
+        <nom>Essadeq</nom>
+        <prenom>Elaamiri</prenom> <!-- facultatif -->
+        <!--<tele type="mobile">0700763650</tele>--> <!-- un ou plusieur -->
+        <tele type="bureau">0632858665</tele>
+        <!-- @gmail.com => to be an entity -->
+        <adresse-mail>essadeq0701&gml;</adresse-mail> <!-- un ou plusieur -->
+        <adresse-mail>essadeqelaamiri&gml;</adresse-mail>
+    </contact>
+    <contact type="pro" id="h14">
+        <nom>Essadeq</nom>
+        <prenom>Elaamiri</prenom> <!-- facultatif -->
+        <tele type="mobile">0700763650</tele> <!-- un ou plusieur -->
+        <tele type="bureau">0632858665</tele>
+        <!-- @gmail.com => to be an entity -->
+        <adresse-mail>essadeq0701&gml;</adresse-mail> <!-- un ou plusieur -->
+        <adresse-mail>essadeqelaamiri&gml;</adresse-mail>
+    </contact>
+    <contact type="perso" id="h15">
+        <nom>Essadeq</nom>
+        <!--<prenom>Elaamiri</prenom>--> <!-- facultatif -->
+        <!--<tele type="mobile">0700763650</tele>--> <!-- un ou plusieur -->
+        <tele type="bureau">0632858665</tele>
+        <!-- @gmail.com => to be an entity -->
+        <adresse-mail>essadeq0701&gml;</adresse-mail> <!-- un ou plusieur -->
+        <adresse-mail>essadeqelaamiri&gml;</adresse-mail>
+    </contact>
+    <contact type="perso" id="h16">
+        <nom>Essadeq</nom>
+        <!--<prenom>Elaamiri</prenom>--> <!-- facultatif -->
+        <tele type="mobile">0700763650</tele> <!-- un ou plusieur -->
+        <tele type="bureau">0632858665</tele>
+        <!-- @gmail.com => to be an entity -->
+        <adresse-mail>essadeq0701&gml;</adresse-mail> <!-- un ou plusieur -->
+        <adresse-mail>essadeqelaamiri&gml;</adresse-mail>
+    </contact>
+    
+</repertoire>
+

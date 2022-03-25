@@ -1,0 +1,143 @@
+<!--  basic shapes -->
+<!-- https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial -->
+<svg
+  version="1.1"
+  width="300"
+  height="5000"
+  xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="#eee" stroke="#999" stroke-width="2"/>
+
+  <rect x="100" y="10" rx="30" ry="30" width="100" height="100" stroke="#ABC" stroke-width="3"/>
+  <rect x="80" y="120" width="140" height="100" fill="transparent" stroke="#AE1" stroke-width="3"/>
+
+  <circle cx="150" cy="280" r="50" fill="transparent" stroke="#111" stroke-width="3"/>
+  <ellipse cx="150" cy="390" rx="70" ry="50" fill="#1AE"/>
+
+  <line x1="30" y1="450" x2="100" y2="450" stroke="#A78" stroke-width="6"/>
+  <line x1="105" y1="450" x2="200" y2="450" stroke="#A78" stroke-width="6" stroke-linecap="round"/>
+  <line x1="205" y1="450" x2="290" y2="450" stroke="#A78" stroke-width="6" stroke-dasharray="2 5"/>
+
+  <polyline points="20 463 250 463 250 490 20 463"
+      stroke="orange" fill="transparent" stroke-width="5"/>
+  <polyline points="150 505 220 575 200 645 100 645 80 575 150 505" stroke="red" fill="gray" stroke-width="3"/>
+
+  <!-- A list of points. Each number must be separated by a space, comma, EOL, or a line feed character. Each point must contain two numbers: an x coordinate and a y coordinate. So, the list (0,0), (1,1), and (2,2) would be written as 0, 0 1, 1 2, 2.-->
+
+  <polyline points="110,755 200,695 100,695 190,755 150,655 110,755" stroke-linecap="round" stroke-linejoin="round" stroke="green" fill="transparent" stroke-width="3"/>
+
+  <!-- A <polygon> is similar to a <polyline>, in that it is composed of straight line segments connecting a list of points. For polygons though, the path automatically connects the last point with the first, creating a closed shape. -->
+
+  <polygon points="90 765 200 765 "
+      stroke="black" fill="transparent" stroke-width="5"/>
+
+  <polygon points="150,775 100,845 200,845" stroke-linecap="round" stroke-linejoin="round" stroke="red" fill="transparent" stroke-width="4"/>
+
+  <!--
+  The shape of a <path> element is defined by one parameter: d. (See more in basic shapes.) The d attribute contains a series of commands and parameters used by those commands.
+
+  Each of the commands is instantiated (for example, creating a class, naming and locating it) by a specific letter. For instance, let's move to the x and y coordinates (10, 10). The "Move to" command is called with the letter M. When the parser runs into this letter, it knows it needs to move to a point. So, to move to (10,10) the command to use would be M 10 10. After that, the parser begins reading for the next command.
+
+  All of the commands also come in two variants. An **uppercase** letter specifies absolute coordinates on the page, and a **lowercase** letter specifies relative coordinates (e.g., move 10px up and 7px to the left from the last point).
+
+  Coordinates in the d parameter are always unitless and hence in the user coordinate system
+  -->
+  <!--
+    Commandes :
+    1) Mx,y/ mdx,dy => move to point (x,y).
+    The "Move To" command appears at the beginning of paths to specify where the drawing should start. For example:
+    2) Lx,y/ ldx,dy => Line to ponit (x,y).
+    2) Hx/ hdx => Horizontal line to x.
+    4) Vy/ vdx => vertical Line to y.
+    5) Z => "Close Path" command
+    This command draws a straight line from the current position back to the first point of the path. It is often placed at the end of a path node
+
+  -->
+   <path d="M20,865 L150,865 V900 H230 V865 H150 V900 H20 L100,930 Z" fill="green" stroke="blue" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+   <circle cx="20" cy="865" r="5" fill="red"/>
+   <circle cx="150" cy="865" r="5" fill="yellow"/>
+   <circle cx="150" cy="900" r="5" fill="brown"/>
+   <circle cx="230" cy="900" r="5" fill="black"/>
+   <!--
+   The relative forms of these commands can also be used to draw the same picture. Relative commands are called by using lowercase letters, and rather than moving the cursor to an exact coordinate, they move it relative to its last position
+   -->
+
+   <path d="M30,950 h220 v220 h-220 Z" fill="red" />
+   <path d="M140,980 l70,150 l-140,-100 h150 l-140,100 Z" fill="none" stroke="green" stroke-width="8"/>
+
+   <!-- Curve commands
+   Bézier Curves:
+   The cubic curve, C, is the slightly more complex curve. Cubic Béziers take in two control points for each point. Therefore, to create a cubic Bézier, three sets of coordinates need to be specified.
+
+   C x1 y1, x2 y2, x y
+   (or)
+   c dx1 dy1, dx2 dy2, dx dy
+
+   The last set of coordinates here (x,y) specify where the line should end. The other two are control points. (x1,y1) is the control point for the start of the curve, and (x2,y2) is the control point for the end. The control points essentially describe the slope of the line starting at each point. The Bézier function then creates a smooth curve that transfers from the slope established at the beginning of the line, to the slope at the other end.
+  -->
+
+  <path d="M20,1250 C40,1500 260,1500 280,1250" fill="transparent" stroke="black" stroke-width="3"/>
+
+  <path d="M20,1250 C20,1500 280,1500 280,1250" fill="transparent" stroke="red" stroke-width="3"/>
+
+  <path d="M20,1250 C20,1200 280,1500 280,1250" fill="transparent" stroke="green" stroke-width="3"/>
+
+  <!--
+  The other type of Bézier curve, the quadratic curve called with Q, is actually a simpler curve than the cubic one. It requires one control point which determines the slope of the curve at both the start point and the end point. It takes two parameters: the control point and the end point of the curve.
+
+  Note: The co-ordinate deltas for q are both relative to the previous point (that is, dx and dy are not relative to dx1 and dy1).
+
+   Q x1 y1, x y
+   (or)
+   q dx1 dy1, dx dy
+  -->
+
+  <path d="M20,1500 q60,500 200,0" fill="transparent" stroke="black" stroke-width="3"/>
+
+  <path d="M20,1500 q100,500 200,0" fill="transparent" stroke="red" stroke-width="3"/>
+
+  <path d="M20,1500 q-30,500 200,0" fill="transparent" stroke="green" stroke-width="3"/>
+
+  <!-- Heart -->
+  <path d="M150,1800 q-100,-50 0,100"  fill="red" stroke="Red" stroke-width="3"/>
+  <path d="M150,1800 q100,-50 0,100"  fill="red" stroke="Red" stroke-width="3"/>
+
+  <!--
+  there is a shortcut for stringing together multiple quadratic Béziers, called with T.
+   T x y
+   (or)
+   t dx dy
+  Copy to Clipboard
+  This shortcut looks at the previous control point used and infers a new one from it. This means that after the first control point, fairly complex shapes can be made by specifying only end points.
+
+  This only works if the previous command was a Q or a T command. If not, then the control point is assumed to be the same as the previous point, and only lines will be drawn.
+  -->
+
+  <path d="M150,1950 q-120,-50 0,100 t0,100"  fill="transparent" stroke="Red" stroke-width="3"/>
+  <path d="M150,1950 q120,-50 0,100 t0,100"  fill="transparent" stroke="Red" stroke-width="3"/>
+
+  <!-- Arcs
+  The other type of curved line that can be created using SVG is the arc, called with the A command. Arcs are sections of circles or ellipses.
+
+  For a given x-radius and y-radius, there are two ellipses that can connect any two points (as long as they're within the radius of the circle). Along either of those circles, there are two possible paths that can be taken to connect the points—so in any situation, there are four possible arcs available.
+
+  Because of that, arcs require quite a few parameters:
+
+   A rx ry x-axis-rotation large-arc-flag sweep-flag x y
+   a rx ry x-axis-rotation large-arc-flag sweep-flag dx dy
+
+ At its start, the arc element takes in two parameters for the x-radius and y-radius.
+ The final two parameters designate the x and y coordinates to end the stroke. Together, these four values define the basic structure of the arc.
+ The third parameter describes the rotation of the arc.
+
+
+  -->
+
+  <path d="M100,2200 v100 a 15 15 0 1 0 50 0 v-100  " fill="#2e2" stroke="#111" stroke-width="3"/>
+
+  <path d="M100,2350 v100 a 15 15 0 1 0 0 100 v100  " fill="#2e2" stroke="#111" stroke-width="3"/>
+  <path d="M110,2350 v100 a 15 15 0 0 1 0 100 v100  " fill="#2e2" stroke="#111" stroke-width="3"/>
+
+  <path d="M100,2750 v100 a 15 15 0 1 0 0 100 h10 a 15 15 0 0 0 1 -100 v-100  " fill="#2e2" stroke="#111" stroke-width="3"/>
+
+
+</svg>

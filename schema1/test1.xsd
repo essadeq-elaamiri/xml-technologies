@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- xs == xml schema -->
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="persons">
+        <xs:complexType>
+            <xs:sequence minOccurs="0" maxOccurs="unbounded">
+                <xs:element name="person" >
+                    <xs:complexType>
+                       <xs:sequence>
+                           <xs:element name="fname" type="validName" ></xs:element>
+                           <xs:element name="lname" type="validName"></xs:element>
+                           <xs:element name="age" type="xs:positiveInteger"></xs:element>
+                           <xs:element name="birth" type="xs:date"></xs:element>
+                           <xs:element name="colorPref">
+                               <xs:simpleType>
+                                   <xs:list itemType="color"></xs:list>
+                               </xs:simpleType>
+                           </xs:element>
+                           
+                           <xs:element name="phone" type="phoneTypeComp" maxOccurs="3"> <!-- extension -->
+                           </xs:element>
+                       </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:simpleType name="color">
+        <xs:union memberTypes="colorHexa colorText"></xs:union>
+    </xs:simpleType>
+    
+    <xs:simpleType name="colorText">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="red"></xs:enumeration>
+            <xs:enumeration value="green"></xs:enumeration>
+            <xs:enumeration value="black"></xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="colorHexa">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="#[0-9A-Fa-f]{6}"/>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="validName">
+        <xs:restriction base="xs:string">
+            <xs:minLength value="2"></xs:minLength>
+            <xs:maxLength value="60"></xs:maxLength>
+            <xs:pattern value="[a-zA-Z][a-zA-Z\s]{1,9}"></xs:pattern>
+            
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="phoneType">
+        <xs:restriction base="xs:string">
+            <!--<xs:pattern value="\(?\+212\)?\s?0\d{8}"></xs:pattern> hhh i9dar idir gha we7da--> 
+            <xs:pattern value="(\(\+212\))|(\+212)6\d{8}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:complexType name="phoneTypeComp">
+        <xs:simpleContent>
+            <xs:extension base="phoneType">
+                <xs:attribute name="type">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="home"></xs:enumeration>
+                            <xs:enumeration value="work"></xs:enumeration>
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:attribute>
+            </xs:extension>
+        </xs:simpleContent>
+    </xs:complexType>
+    
+</xs:schema>

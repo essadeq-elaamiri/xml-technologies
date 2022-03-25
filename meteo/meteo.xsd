@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="meteo">
+        <xs:complexType>
+            <xs:sequence maxOccurs="unbounded">
+                <xs:element name="mesure">
+                    <xs:complexType>
+                        <xs:sequence maxOccurs="unbounded">
+                            <xs:element name="ville">
+                                <xs:complexType>
+                                    <xs:attribute name="nom" type="xs:string"></xs:attribute>
+                                    <xs:attribute name="temperature" type="xs:float"></xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attribute name="date" type="date_"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+            
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:simpleType name="date_">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="\d{4}\-\d{1,2}\-\d{1,2}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+</xs:schema>

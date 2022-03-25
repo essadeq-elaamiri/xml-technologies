@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="library">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="book" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="width_height" type="width_heigh"></xs:element>
+                            <xs:element name="title" type="xs:string"></xs:element>
+                            <xs:element name="author" maxOccurs="unbounded">
+                                <xs:complexType> 
+                                    <xs:sequence>
+                                        <xs:group ref="person_name_contact"></xs:group>
+                                        <xs:element name="reference" type="xs:string"></xs:element>
+                                        <xs:element name="email" type="email"></xs:element>
+                                    </xs:sequence>
+                                    <xs:attributeGroup ref="id_group"></xs:attributeGroup>
+                                    
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="published">
+                                <xs:complexType mixed="true">
+                                    <xs:choice>
+                                        <xs:element name="dateTime">
+                                            <xs:complexType>
+                                                <xs:all>
+                                                    <xs:element ref="date"></xs:element>
+                                                    <xs:element name="time" type="xs:time"></xs:element>
+                                                </xs:all>
+                                            </xs:complexType>
+                                        </xs:element>
+                                        <xs:element ref="date"></xs:element>
+                                    </xs:choice>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="description" type="xs:string"></xs:element>
+                            <xs:element name="price" >
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:float">
+                                        <xs:minInclusive value="10"></xs:minInclusive>
+                                        <xs:maxExclusive value="200"></xs:maxExclusive>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                        </xs:sequence>
+                        <xs:attributeGroup ref="id_group"></xs:attributeGroup>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="br">
+                    <xs:complexType>
+                        <xs:attribute name="color" default="#000000"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+        
+        
+    </xs:element>
+    
+    <!-- to be referenced -->
+    <xs:element name="date" type="xs:date"></xs:element>
+    
+    <!-- declaration des types -->
+    
+    <xs:group name="person_name_contact">
+        <xs:sequence>
+            <xs:element name="name" type="xs:string"></xs:element>
+            <xs:element name="contact" type="xs:string"></xs:element>
+        </xs:sequence>
+    </xs:group>
+    <xs:attributeGroup name="id_group">
+        <xs:attribute name="id" type="xs:ID" use="required"></xs:attribute>
+    </xs:attributeGroup>
+    <!-- create a list of floats -->
+    
+    <xs:simpleType name="max_mesure">
+        <xs:restriction base="xs:float">
+            <xs:minInclusive value="0"></xs:minInclusive>
+            <xs:maxInclusive value="40"></xs:maxInclusive>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="width_heigh">
+        <xs:list itemType="max_mesure">
+        </xs:list>
+    </xs:simpleType>
+    
+    <xs:simpleType name="email">
+        <xs:restriction base="xs:string">
+            <xs:pattern value="[a-zA-Z\-\.]+@gmail.com"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="date_str">
+        <xs:union memberTypes="xs:string xs:date"></xs:union>
+    </xs:simpleType>
+    
+</xs:schema>

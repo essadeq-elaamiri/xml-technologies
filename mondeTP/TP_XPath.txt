@@ -1,0 +1,111 @@
+1 – Quelle est le nom et la longueur de la rivière la plus longue dans le monde
+
+    Exp Xpath:
+    /mondial/river[length = max(/mondial/river/length)]/concat("Nom: ",name, "  Langueur: ", length)
+    
+    Reésultat:
+    Nom: é  Langueur: 6380
+
+
+2 – Quel est le pays le plus petit/ plus grand dans le monde
+
+    plus petit : 
+    
+         Exp Xpath:
+         /mondial/country[@area = min(/mondial/country/@area)]/name
+         
+         Reésultat:
+         Vatican City
+    
+    plus grand : 
+         Exp Xpath:
+         /mondial/country[@area = max(/mondial/country/@area)]/name
+         
+         Reésultat:
+         Russia
+    
+
+3 -  Quel est le pays le plus/moins peuplé au monde (valeurs)
+
+    plus peuplé : 
+    
+         Exp Xpath:
+         /mondial/country[population = max(/mondial/country/population[last()])]/name
+         
+         Reésultat:
+         China
+    
+    moins peuplé : 
+         Exp Xpath:
+         /mondial/country[population = min(/mondial/country/population[last()])]/name
+         
+         Reésultat:
+         Pitcairn
+
+
+4 – Quels sont les pays qui appartiennent à plus d’un continent
+
+    Xpath:
+    /mondial/country[count(encompassed[@continent]) > 1]/name
+    
+    Resultat:
+    Russia
+    Turkey
+    Kazakhstan
+    Indonesia
+    Egypt
+    
+
+5 – Quel est le plus grand pays d’afrique (en superficie)
+    
+    Xpath:
+    /mondial/country[encompassed[@continent  = "africa" ]][@area = max(/mondial/country[encompassed[@continent = "africa"]]/@area)]/name
+    
+    Resultat:
+    Algeria
+
+6 – Donner la liste des îles (pays dont les frontières ne sont pas communes avec d’autres pays.
+    
+    Xpath:
+    /mondial/country[count(border) = 0]/name
+    
+    Resultat:
+    
+7 – Quel est le nombre de juifs en Afrique (2 - dans le monde. Et leurs proportion par rapport à la population mondiale) ******
+    
+    en afrique:
+    Xpath:
+        /mondial/sum(country[encompassed[@continent = "africa"]][religion = "Jewish"]/(population[last()] *  (religion[text()="Jewish"]/@percentage) / 100) )
+    Reultat:
+    
+        1.99021867E10
+
+    
+    dans le monde
+    Xpath:
+        /mondial/sum(country[religion = "Jewish"]/(population[last()] *  (religion[text()="Jewish"]/@percentage) / 100) )
+        
+    Resultat:
+        1.106788026E11
+    
+    // pourcentage par rapport au monde
+    /mondial/(sum(country[religion = "Jewish"]/(population[last()] *  (religion[text()="Jewish"]/@percentage) / 100) ) / sum(country/population[last()]))
+
+    
+
+8 – Quel est le nombre de musulmans en europe / Amérique
+    
+    Xpath:
+    /mondial/sum(country[encompassed[@continent  = "europe"]][religion="Muslim"]/(population[last()] *  (religion[text()="Muslim"]/@percentage) / 100))
+    /mondial/sum(country[encompassed[@continent  = "southamerica"][@continent  = "northamerica"]][religion="Muslim"]/ ( population[last()] * (religion[text()="Muslim"]/@percentage )/100 ))
+    
+    Resultat:
+     7.69929218E10
+
+
+9 - Quelle est la longueur de la frontière du continent africain.
+
+    Xpath:
+    
+    Resultat:
+

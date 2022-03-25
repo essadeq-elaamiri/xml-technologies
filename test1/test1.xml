@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Hello this is a test, this is a comment  -->
+<!DOCTYPE repértoire SYSTEM "test1.dtd"> <!-- liaison avec dtd validating file -->
+<?xml-stylesheet type="text/css" href="test1.css"?> <!-- liaison avec css -->
+<repértoire>
+    <contact type="pro">
+        <nom>Ali</nom>
+        <prenom>Reda</prenom>
+        <téléphone type="home">001122</téléphone>
+        <téléphone type="mobile">00445533</téléphone>
+    </contact>
+    <contact type="pro">
+        <nom>Laayouni</nom>
+        <prenom>Mouaad</prenom>
+        <téléphone type="home">22336677</téléphone>
+        <téléphone type="mobile">00887799</téléphone>
+    </contact>
+    <contact type="pro">
+        <nom>Azizi</nom>
+        <prenom>Lamyae</prenom>
+        <téléphone type="mobile">998998</téléphone>
+    </contact>
+</repértoire>

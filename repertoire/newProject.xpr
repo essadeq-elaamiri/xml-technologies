@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <file name="repertoire.css"/>
+        <file name="repertoire.dtd"/>
+        <file name="repertoire.xml"/>
+    </projectTree>
+</project>

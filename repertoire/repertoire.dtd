@@ -1,0 +1,26 @@
+<!ELEMENT repertoire (contact+)>
+<!ELEMENT contact (nom, prenom?, tele+, adresse-mail*)>
+<!-- 
+<!ATTLIST 	nom-element 
+			  	nom-attribut 
+			  	type-attribut 
+			  	valeur-par-defaut
+>
+-->
+<!ATTLIST  contact type  (pro|perso) "pro">
+<!ATTLIST  contact id  ID #REQUIRED>
+
+<!ELEMENT nom (#PCDATA) >
+<!ELEMENT prenom (#PCDATA) >
+<!ELEMENT tele (#PCDATA) >
+<!ATTLIST tele type  (mobile|bureau|fixe) "mobile" >
+
+<!ELEMENT adresse-mail (#PCDATA) >
+
+<!-- Entities -->
+<!--  <!ENTITY nom "valeur"> -->
+<!ENTITY gml "@gmail.com" > <!-- interne -->
+
+<!-- Declaring entity-->
+<!--<!ENTITY ent SYSTEM "file.dtd">--> <!-- Externe -->
+<!--<!ELEMENT nom-element categorie> ou <!ELEMENT nom-element (contenu-element)> -->

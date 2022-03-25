@@ -1,0 +1,10 @@
+1 – Quelle est le nom et la longueur de la rivière la plus longue dans le monde
+2 – Quel est le pays le plus petit/ plus grand dans le monde
+3 -  Quel est le pays le plus/moins peuplé au monde (valeurs)
+4 – Quels sont les pays qui appartiennent à plus d’un continent
+5 – Quel est le plus grand pays d’afrique (en superficie)
+6 – Donner la liste des îles (pays dont les frontières ne sont pas communes avec d’autres pays.
+7 – Quel est le nombre de juifs en Afrique (2 - dans le monde. Et leurs proportion par rapport à la population mondiale)
+8 – Quel est le nombre de musulmans en europe / Amérique
+9 - Quelle est la longueur de la frontière du continent africain.
+

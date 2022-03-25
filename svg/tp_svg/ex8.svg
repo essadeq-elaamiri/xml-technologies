@@ -1,0 +1,32 @@
+
+<svg version="1.1"
+     width="400" height="300"
+     xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 400 300">
+
+     
+
+<!-- Création du motif -->
+    
+    <pattern  id="pat0" width="16" height="16" patternUnits="userSpaceOnUse">
+        <circle cx="8" cy="8" r="8" fill="#FFF" />
+    </pattern>
+    
+    
+
+    
+    <mask id="pattern-mask" x="0" y="0" width="300" height="200">
+        <!--<rect x="0" y="0" width="30" height="20" fill="#FFF"></rect>-->
+        <rect x="0" y="0" width="300" height="200" fill="url(#pat0)"></rect>
+    </mask>
+    
+    <image href="img.png" x="0" y="0" width="300" height="200" mask="url(#pattern-mask)"/>
+     <!--<circle cx="110" cy="110" r="100" fill="#9c6" mask="url(#pattern-mask)" /> -->
+
+    <!--<rect x="0" y="0" width="300" height="200" fill="url(#pat0)"></rect>-->
+
+       
+    
+    
+</svg>
+

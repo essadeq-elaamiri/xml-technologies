@@ -1,0 +1,21 @@
+
+<svg version="1.1"
+     width="400" height="300"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <!--
+    <pattern id="pat0" width="110" height="110" patternUnits="userSpaceOnUse">
+        
+    </pattern>
+
+    <rect x="50" y="10" width="110" height="110" fill="url(#pat0)"></rect>
+    -->
+    <rect x="50" y="10" width="50" height="50" fill="red"/>
+        <rect x="50" y="10" width="50" height="50" fill="red" transform="rotate(90, 110,70)"/>
+        <rect x="50" y="10" width="50" height="50" fill="red" transform="rotate(180, 110,70)"/>
+        <rect x="50" y="10" width="50" height="50" fill="red" transform="rotate(270, 110,70)"/>
+
+        <circle cx="110" cy="70" r="5" fill="green"/>
+    
+</svg>
+

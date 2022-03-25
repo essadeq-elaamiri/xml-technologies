@@ -1,0 +1,25 @@
+repertoire{
+    background-color: #EEE;
+    font-family: Ubuntu, sans-serif;
+}
+
+contact{
+    display: list-item;
+    background-color: #AA1555;
+    padding: 5px 10px 5px 15px;
+    color: #FFF;
+    border: 1px solid #FFF;
+    max-width: 50%;
+}
+
+contact *{
+    display: block;
+}
+
+contact *[type]::before{
+    content: attr(type)": ";
+}
+
+contact[type='pro']{
+    background-color: #EE2555;
+}

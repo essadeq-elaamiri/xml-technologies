@@ -1,0 +1,5083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monde>
+   <pays code="AL">
+      <nom>Albania</nom>
+      <capitale>Tirana</capitale>
+      <population annee="2011">2821977</population>
+      <religions>
+         <musulman>1.6593224759999998E6</musulman>
+         <cretien>476914.113</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Tirana</nom>
+         <longitude>19.82</longitude>
+         <latitude>41.33</latitude>
+      </ville>
+      <ville>
+         <nom>Shkodër</nom>
+         <longitude>19.5</longitude>
+         <latitude>42.07</latitude>
+      </ville>
+      <ville>
+         <nom>Durrës</nom>
+         <longitude>19.45</longitude>
+         <latitude>41.32</latitude>
+      </ville>
+      <ville>
+         <nom>Vlorë</nom>
+         <longitude>19.49</longitude>
+         <latitude>40.47</latitude>
+      </ville>
+      <ville>
+         <nom>Elbasan</nom>
+         <longitude>20.07</longitude>
+         <latitude>41.1</latitude>
+      </ville>
+      <ville>
+         <nom>Korçë</nom>
+         <longitude>20.77</longitude>
+         <latitude>40.62</latitude>
+      </ville>
+      <frontiere pays="GR" longeur="282"/>
+      <frontiere pays="MK" longeur="151"/>
+      <frontiere pays="MNE" longeur="172"/>
+      <frontiere pays="KOS" longeur="112"/>
+   </pays>
+   <pays code="GR">
+      <nom>Greece</nom>
+      <capitale/>
+      <population annee="2011">10816286</population>
+      <religions>
+         <musulman>216325.72</musulman>
+         <cretien>1.0091594838E7</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="AL" longeur="282"/>
+      <frontiere pays="MK" longeur="228"/>
+      <frontiere pays="BG" longeur="494"/>
+      <frontiere pays="TR" longeur="206"/>
+   </pays>
+   <pays code="CY">
+      <nom>Cyprus</nom>
+      <capitale>Lefkosia</capitale>
+      <population annee="2011">1133803</population>
+      <religions>
+         <musulman>286852.159</musulman>
+         <cretien>845817.038</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Lefkosia</nom>
+         <longitude>33.37</longitude>
+         <latitude>35.17</latitude>
+      </ville>
+      <ville>
+         <nom>Larnaka</nom>
+         <longitude>33.63</longitude>
+         <latitude>34.92</latitude>
+      </ville>
+      <ville>
+         <nom>Lemesos</nom>
+         <longitude>33.03</longitude>
+         <latitude>34.67</latitude>
+      </ville>
+   </pays>
+   <pays code="MK">
+      <nom>North Macedonia</nom>
+      <capitale>Skopje</capitale>
+      <population annee="2011">2059794</population>
+      <religions>
+         <musulman>685911.4019999999</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Skopje</nom>
+         <longitude>21.43</longitude>
+         <latitude>42</latitude>
+      </ville>
+      <ville>
+         <nom>Kumanovo</nom>
+         <longitude>21.72</longitude>
+         <latitude>42.14</latitude>
+      </ville>
+      <frontiere pays="AL" longeur="151"/>
+      <frontiere pays="GR" longeur="228"/>
+      <frontiere pays="SRB" longeur="62"/>
+      <frontiere pays="KOS" longeur="159"/>
+      <frontiere pays="BG" longeur="148"/>
+   </pays>
+   <pays code="SRB">
+      <nom>Serbia</nom>
+      <capitale>Beograd</capitale>
+      <population annee="2011">7120666</population>
+      <religions>
+         <musulman>213619.97999999998</musulman>
+         <cretien>6.472685393999999E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Beograd</nom>
+         <longitude>20.47</longitude>
+         <latitude>44.82</latitude>
+      </ville>
+      <ville>
+         <nom>Novi Sad</nom>
+         <longitude>19.85</longitude>
+         <latitude>45.25</latitude>
+      </ville>
+      <ville>
+         <nom>Niš</nom>
+         <longitude>21.9</longitude>
+         <latitude>43.32</latitude>
+      </ville>
+      <frontiere pays="H" longeur="151"/>
+      <frontiere pays="RO" longeur="476"/>
+      <frontiere pays="BG" longeur="318"/>
+      <frontiere pays="MK" longeur="62"/>
+      <frontiere pays="HR" longeur="241"/>
+      <frontiere pays="BIH" longeur="357"/>
+      <frontiere pays="MNE" longeur="124"/>
+      <frontiere pays="KOS" longeur="352"/>
+   </pays>
+   <pays code="MNE">
+      <nom>Montenegro</nom>
+      <capitale>Podgorica</capitale>
+      <population annee="2011">620029</population>
+      <religions>
+         <musulman>118425.539</musulman>
+         <cretien>468741.924</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Podgorica</nom>
+         <longitude>19.26</longitude>
+         <latitude>42.44</latitude>
+      </ville>
+      <frontiere pays="HR" longeur="25"/>
+      <frontiere pays="SRB" longeur="124"/>
+      <frontiere pays="BIH" longeur="249"/>
+      <frontiere pays="AL" longeur="172"/>
+      <frontiere pays="KOS" longeur="79"/>
+   </pays>
+   <pays code="KOS">
+      <nom>Kosovo</nom>
+      <capitale>Prishtine</capitale>
+      <population annee="2011">1733872</population>
+      <religions>
+         <musulman>1.657581632E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Prishtine</nom>
+         <longitude>21.17</longitude>
+         <latitude>42.67</latitude>
+      </ville>
+      <frontiere pays="MNE" longeur="79"/>
+      <frontiere pays="SRB" longeur="352"/>
+      <frontiere pays="MK" longeur="159"/>
+      <frontiere pays="AL" longeur="112"/>
+   </pays>
+   <pays code="AND">
+      <nom>Andorra</nom>
+      <capitale>Andorra la Vella</capitale>
+      <population annee="2011">78115</population>
+      <religions>
+         <musulman>2343.45</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Andorra la Vella</nom>
+         <longitude>1.5</longitude>
+         <latitude>42.5</latitude>
+      </ville>
+      <frontiere pays="F" longeur="60"/>
+      <frontiere pays="E" longeur="65"/>
+   </pays>
+   <pays code="F">
+      <nom>France</nom>
+      <capitale/>
+      <population annee="2015">64300821</population>
+      <religions>
+         <musulman>5.78707389E6</musulman>
+         <cretien>3.9159199989E7</cretien>
+         <juif>514406.568</juif>
+         <autre>578707.389</autre>
+      </religions>
+      <frontiere pays="AND" longeur="60"/>
+      <frontiere pays="E" longeur="623"/>
+      <frontiere pays="D" longeur="451"/>
+      <frontiere pays="I" longeur="488"/>
+      <frontiere pays="CH" longeur="573"/>
+      <frontiere pays="B" longeur="620"/>
+      <frontiere pays="L" longeur="73"/>
+      <frontiere pays="MC" longeur="4.4"/>
+   </pays>
+   <pays code="E">
+      <nom>Spain</nom>
+      <capitale/>
+      <population annee="2011">46815916</population>
+      <religions>
+         <musulman>1.9194525559999999E6</musulman>
+         <cretien>3.440969826E7</cretien>
+         <juif>65542.28240000001</juif>
+         <autre>163855.70599999998</autre>
+      </religions>
+      <frontiere pays="AND" longeur="65"/>
+      <frontiere pays="F" longeur="623"/>
+      <frontiere pays="GBZ" longeur="1.2"/>
+      <frontiere pays="P" longeur="1214"/>
+   </pays>
+   <pays code="CZ">
+      <nom>Czech Republic</nom>
+      <capitale/>
+      <population annee="2011">10562214</population>
+      <religions>
+         <musulman>21124.428</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="A" longeur="362"/>
+      <frontiere pays="D" longeur="646"/>
+      <frontiere pays="SK" longeur="215"/>
+      <frontiere pays="PL" longeur="658"/>
+   </pays>
+   <pays code="SK">
+      <nom>Slovakia</nom>
+      <capitale/>
+      <population annee="2011">5397036</population>
+      <religions>
+         <cretien>4.0801592159999995E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="A" longeur="91"/>
+      <frontiere pays="CZ" longeur="215"/>
+      <frontiere pays="H" longeur="515"/>
+      <frontiere pays="PL" longeur="444"/>
+      <frontiere pays="UA" longeur="90"/>
+   </pays>
+   <pays code="D">
+      <nom>Germany</nom>
+      <capitale/>
+      <population annee="2016">82521653</population>
+      <religions>
+         <musulman>5.363907445E6</musulman>
+         <cretien>4.786255874E7</cretien>
+         <juif>206304.1325</juif>
+         <autre>495129.918</autre>
+      </religions>
+      <frontiere pays="F" longeur="451"/>
+      <frontiere pays="A" longeur="784"/>
+      <frontiere pays="CZ" longeur="646"/>
+      <frontiere pays="CH" longeur="334"/>
+      <frontiere pays="PL" longeur="456"/>
+      <frontiere pays="B" longeur="167"/>
+      <frontiere pays="L" longeur="138"/>
+      <frontiere pays="NL" longeur="577"/>
+      <frontiere pays="DK" longeur="68"/>
+   </pays>
+   <pays code="H">
+      <nom>Hungary</nom>
+      <capitale/>
+      <population annee="2011">9937628</population>
+      <religions>
+         <cretien>5.257005211999999E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="SRB" longeur="151"/>
+      <frontiere pays="A" longeur="366"/>
+      <frontiere pays="SK" longeur="515"/>
+      <frontiere pays="SLO" longeur="102"/>
+      <frontiere pays="UA" longeur="103"/>
+      <frontiere pays="HR" longeur="329"/>
+      <frontiere pays="RO" longeur="443"/>
+   </pays>
+   <pays code="I">
+      <nom>Italy</nom>
+      <capitale/>
+      <population annee="2011">59433744</population>
+      <religions>
+         <musulman>2.1990485280000004E6</musulman>
+         <cretien>4.546681416E7</cretien>
+         <autre>534903.6960000001</autre>
+      </religions>
+      <frontiere pays="F" longeur="488"/>
+      <frontiere pays="A" longeur="430"/>
+      <frontiere pays="SLO" longeur="235"/>
+      <frontiere pays="CH" longeur="740"/>
+      <frontiere pays="V" longeur="3.2"/>
+      <frontiere pays="RSM" longeur="39"/>
+   </pays>
+   <pays code="CH">
+      <nom>Switzerland</nom>
+      <capitale/>
+      <population annee="2013">8139631</population>
+      <religions>
+         <musulman>415121.181</musulman>
+         <cretien>5.429133877E6</cretien>
+         <juif>16279.262</juif>
+         <autre>89535.941</autre>
+      </religions>
+      <frontiere pays="F" longeur="573"/>
+      <frontiere pays="A" longeur="164"/>
+      <frontiere pays="D" longeur="334"/>
+      <frontiere pays="I" longeur="740"/>
+      <frontiere pays="FL" longeur="41"/>
+   </pays>
+   <pays code="FL">
+      <nom>Liechtenstein</nom>
+      <capitale>Vaduz</capitale>
+      <population annee="2010">36149</population>
+      <religions>
+         <musulman>1952.0460000000003</musulman>
+         <cretien>30907.395</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Vaduz</nom>
+         <longitude>9.52</longitude>
+         <latitude>47.14</latitude>
+      </ville>
+      <frontiere pays="A" longeur="37"/>
+      <frontiere pays="CH" longeur="41"/>
+   </pays>
+   <pays code="A">
+      <nom>Austria</nom>
+      <capitale/>
+      <population annee="2013">8499759</population>
+      <religions>
+         <musulman>679980.72</musulman>
+         <cretien>5.490844313999999E6</cretien>
+         <autre>25499.277000000002</autre>
+      </religions>
+      <frontiere pays="CZ" longeur="362"/>
+      <frontiere pays="D" longeur="784"/>
+      <frontiere pays="H" longeur="366"/>
+      <frontiere pays="I" longeur="430"/>
+      <frontiere pays="FL" longeur="37"/>
+      <frontiere pays="SK" longeur="91"/>
+      <frontiere pays="SLO" longeur="324"/>
+      <frontiere pays="CH" longeur="164"/>
+   </pays>
+   <pays code="EST">
+      <nom>Estonia</nom>
+      <capitale>Tallinn</capitale>
+      <population annee="2011">1294455</population>
+      <religions>
+         <cretien>355975.125</cretien>
+         <autre>5177.82</autre>
+      </religions>
+      <ville>
+         <nom>Tallinn</nom>
+         <longitude>24.75</longitude>
+         <latitude>59.44</latitude>
+      </ville>
+      <ville>
+         <nom>Tartu</nom>
+         <longitude>26.72</longitude>
+         <latitude>58.38</latitude>
+      </ville>
+      <frontiere pays="LV" longeur="267"/>
+      <frontiere pays="R" longeur="290"/>
+   </pays>
+   <pays code="LV">
+      <nom>Latvia</nom>
+      <capitale>Rīga</capitale>
+      <population annee="2013">2201196</population>
+      <religions>
+         <cretien>1.646494608E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Rīga</nom>
+         <longitude>24.11</longitude>
+         <latitude>56.95</latitude>
+      </ville>
+      <frontiere pays="BY" longeur="141"/>
+      <frontiere pays="LT" longeur="453"/>
+      <frontiere pays="R" longeur="217"/>
+      <frontiere pays="EST" longeur="267"/>
+   </pays>
+   <pays code="LT">
+      <nom>Lithuania</nom>
+      <capitale>Vilnius</capitale>
+      <population annee="2013">2979310</population>
+      <religions>
+         <cretien>2.4698479899999998E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Vilnius</nom>
+         <longitude>25.28</longitude>
+         <latitude>54.68</latitude>
+      </ville>
+      <ville>
+         <nom>Kaunas</nom>
+         <longitude>23.89</longitude>
+         <latitude>54.9</latitude>
+      </ville>
+      <ville>
+         <nom>Klaipeda</nom>
+         <longitude>21.13</longitude>
+         <latitude>55.71</latitude>
+      </ville>
+      <frontiere pays="BY" longeur="502"/>
+      <frontiere pays="LV" longeur="453"/>
+      <frontiere pays="PL" longeur="91"/>
+      <frontiere pays="R" longeur="227"/>
+   </pays>
+   <pays code="BY">
+      <nom>Belarus</nom>
+      <capitale/>
+      <population annee="2013">9460692</population>
+      <religions>
+         <musulman>18921.384000000002</musulman>
+         <cretien>5.288526828E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="LV" longeur="141"/>
+      <frontiere pays="LT" longeur="502"/>
+      <frontiere pays="PL" longeur="605"/>
+      <frontiere pays="UA" longeur="891"/>
+      <frontiere pays="R" longeur="959"/>
+   </pays>
+   <pays code="PL">
+      <nom>Poland</nom>
+      <capitale/>
+      <population annee="2012">38533789</population>
+      <religions>
+         <cretien>3.3755599164000005E7</cretien>
+         <autre>115601.367</autre>
+      </religions>
+      <frontiere pays="CZ" longeur="658"/>
+      <frontiere pays="D" longeur="456"/>
+      <frontiere pays="SK" longeur="444"/>
+      <frontiere pays="BY" longeur="605"/>
+      <frontiere pays="LT" longeur="91"/>
+      <frontiere pays="UA" longeur="428"/>
+      <frontiere pays="R" longeur="206"/>
+   </pays>
+   <pays code="UA">
+      <nom>Ukraine</nom>
+      <capitale/>
+      <population annee="2012">45633637</population>
+      <religions>
+         <musulman>501970.00700000004</musulman>
+         <cretien>3.6370008688999996E7</cretien>
+         <juif>91267.274</juif>
+         <autre>91267.274</autre>
+      </religions>
+      <frontiere pays="H" longeur="103"/>
+      <frontiere pays="SK" longeur="90"/>
+      <frontiere pays="BY" longeur="891"/>
+      <frontiere pays="PL" longeur="428"/>
+      <frontiere pays="R" longeur="1576"/>
+      <frontiere pays="RO" longeur="531"/>
+      <frontiere pays="MD" longeur="939"/>
+   </pays>
+   <pays code="R">
+      <nom>Russia</nom>
+      <capitale/>
+      <population annee="2014">143666931</population>
+      <religions>
+         <musulman>9.338350515E6</musulman>
+         <cretien>6.1776780330000006E7</cretien>
+         <juif>143666.931</juif>
+         <autre>718334.655</autre>
+      </religions>
+      <frontiere pays="BY" longeur="959"/>
+      <frontiere pays="LV" longeur="217"/>
+      <frontiere pays="LT" longeur="227"/>
+      <frontiere pays="PL" longeur="206"/>
+      <frontiere pays="UA" longeur="1576"/>
+      <frontiere pays="EST" longeur="290"/>
+      <frontiere pays="SF" longeur="1313"/>
+      <frontiere pays="N" longeur="167"/>
+      <frontiere pays="CN" longeur="3645"/>
+      <frontiere pays="GE" longeur="723"/>
+      <frontiere pays="AZ" longeur="284"/>
+      <frontiere pays="KZ" longeur="6846"/>
+      <frontiere pays="KP" longeur="19"/>
+      <frontiere pays="MNG" longeur="3441"/>
+   </pays>
+   <pays code="B">
+      <nom>Belgium</nom>
+      <capitale/>
+      <population annee="2013">11099554</population>
+      <religions>
+         <musulman>754769.672</musulman>
+         <cretien>6.282347564E6</cretien>
+         <juif>44398.216</juif>
+         <autre>33298.662000000004</autre>
+      </religions>
+      <frontiere pays="F" longeur="620"/>
+      <frontiere pays="D" longeur="167"/>
+      <frontiere pays="L" longeur="148"/>
+      <frontiere pays="NL" longeur="450"/>
+   </pays>
+   <pays code="L">
+      <nom>Luxembourg</nom>
+      <capitale>Luxembourg</capitale>
+      <population annee="2012">524853</population>
+      <religions>
+         <musulman>12071.619</musulman>
+         <cretien/>
+         <juif>3149.118</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Luxembourg</nom>
+         <longitude>6.13</longitude>
+         <latitude>49.61</latitude>
+      </ville>
+      <frontiere pays="F" longeur="73"/>
+      <frontiere pays="D" longeur="138"/>
+      <frontiere pays="B" longeur="148"/>
+   </pays>
+   <pays code="NL">
+      <nom>Netherlands</nom>
+      <capitale/>
+      <population annee="2014">16843181</population>
+      <religions>
+         <musulman>859002.2309999999</musulman>
+         <cretien/>
+         <autre>387393.163</autre>
+      </religions>
+      <frontiere pays="D" longeur="577"/>
+      <frontiere pays="B" longeur="450"/>
+   </pays>
+   <pays code="SLO">
+      <nom>Slovenia</nom>
+      <capitale>Ljubljana</capitale>
+      <population annee="2013">2058821</population>
+      <religions>
+         <musulman>49411.704</musulman>
+         <cretien>1.2538219889999998E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Ljubljana</nom>
+         <longitude>14.51</longitude>
+         <latitude>46.06</latitude>
+      </ville>
+      <ville>
+         <nom>Maribor</nom>
+         <longitude>15.65</longitude>
+         <latitude>46.55</latitude>
+      </ville>
+      <frontiere pays="A" longeur="324"/>
+      <frontiere pays="H" longeur="102"/>
+      <frontiere pays="I" longeur="235"/>
+      <frontiere pays="HR" longeur="546"/>
+   </pays>
+   <pays code="HR">
+      <nom>Croatia</nom>
+      <capitale>Zagreb</capitale>
+      <population annee="2011">4290612</population>
+      <religions>
+         <musulman>64359.18</musulman>
+         <cretien>3.90445692E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Zagreb</nom>
+         <longitude>15.98</longitude>
+         <latitude>45.82</latitude>
+      </ville>
+      <ville>
+         <nom>Split</nom>
+         <longitude>16.45</longitude>
+         <latitude>43.51</latitude>
+      </ville>
+      <ville>
+         <nom>Rijeka</nom>
+         <longitude>14.42</longitude>
+         <latitude>45.32</latitude>
+      </ville>
+      <ville>
+         <nom>Osijek</nom>
+         <longitude>18.68</longitude>
+         <latitude>45.56</latitude>
+      </ville>
+      <ville>
+         <nom>Zadar</nom>
+         <longitude>15.23</longitude>
+         <latitude>44.11</latitude>
+      </ville>
+      <frontiere pays="SRB" longeur="241"/>
+      <frontiere pays="MNE" longeur="25"/>
+      <frontiere pays="H" longeur="329"/>
+      <frontiere pays="SLO" longeur="546"/>
+      <frontiere pays="BIH" longeur="932"/>
+   </pays>
+   <pays code="BIH">
+      <nom>Bosnia and Herzegovina</nom>
+      <capitale/>
+      <population annee="2013">3791622</population>
+      <religions>
+         <musulman>1.922352354E6</musulman>
+         <cretien>1.892019378E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="SRB" longeur="357"/>
+      <frontiere pays="MNE" longeur="249"/>
+      <frontiere pays="HR" longeur="932"/>
+   </pays>
+   <pays code="BG">
+      <nom>Bulgaria</nom>
+      <capitale>Sofia</capitale>
+      <population annee="2011">7351234</population>
+      <religions>
+         <musulman>573396.252</musulman>
+         <cretien>4.484252739999999E6</cretien>
+         <juif>58809.872</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Sofia</nom>
+         <longitude>23.33</longitude>
+         <latitude>42.7</latitude>
+      </ville>
+      <ville>
+         <nom>Plovdiv</nom>
+         <longitude>24.75</longitude>
+         <latitude>42.15</latitude>
+      </ville>
+      <ville>
+         <nom>Varna</nom>
+         <longitude>27.92</longitude>
+         <latitude>43.22</latitude>
+      </ville>
+      <ville>
+         <nom>Burgas</nom>
+         <longitude>27.47</longitude>
+         <latitude>42.5</latitude>
+      </ville>
+      <ville>
+         <nom>Ruse</nom>
+         <longitude>25.95</longitude>
+         <latitude>43.82</latitude>
+      </ville>
+      <ville>
+         <nom>Stara Zagora</nom>
+         <longitude>25.65</longitude>
+         <latitude>42.43</latitude>
+      </ville>
+      <frontiere pays="GR" longeur="494"/>
+      <frontiere pays="MK" longeur="148"/>
+      <frontiere pays="SRB" longeur="318"/>
+      <frontiere pays="RO" longeur="608"/>
+      <frontiere pays="TR" longeur="240"/>
+   </pays>
+   <pays code="RO">
+      <nom>Romania</nom>
+      <capitale/>
+      <population annee="2011">20121641</population>
+      <religions>
+         <musulman>60364.923</musulman>
+         <cretien>1.9638721616E7</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="SRB" longeur="476"/>
+      <frontiere pays="H" longeur="443"/>
+      <frontiere pays="UA" longeur="531"/>
+      <frontiere pays="BG" longeur="608"/>
+      <frontiere pays="MD" longeur="450"/>
+   </pays>
+   <pays code="DK">
+      <nom>Denmark</nom>
+      <capitale/>
+      <population annee="2015">5678348</population>
+      <religions>
+         <musulman>312309.14</musulman>
+         <cretien>4.412076396000001E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="D" longeur="68"/>
+   </pays>
+   <pays code="IS">
+      <nom>Iceland</nom>
+      <capitale>Reykjavik</capitale>
+      <population annee="2015">332529</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Reykjavik</nom>
+         <longitude>-21.93</longitude>
+         <latitude>64.13</latitude>
+      </ville>
+      <ville>
+         <nom>Keflavik</nom>
+         <longitude>-22.57</longitude>
+         <latitude>64.02</latitude>
+      </ville>
+      <ville>
+         <nom>Hafnarfjordur</nom>
+         <longitude>-21.95</longitude>
+         <latitude>64.07</latitude>
+      </ville>
+      <ville>
+         <nom>Akureyri</nom>
+         <longitude>-18.1</longitude>
+         <latitude>65.68</latitude>
+      </ville>
+   </pays>
+   <pays code="FO">
+      <nom>Faroe Islands</nom>
+      <capitale>Tórshavn</capitale>
+      <population annee="2011">48346</population>
+      <religions>
+         <cretien/>
+         <autre>96.69200000000001</autre>
+      </religions>
+      <ville>
+         <nom>Tórshavn</nom>
+         <longitude>-7</longitude>
+         <latitude>62</latitude>
+      </ville>
+   </pays>
+   <pays code="IRL">
+      <nom>Ireland</nom>
+      <capitale>Dublin</capitale>
+      <population annee="2011">4588252</population>
+      <religions>
+         <musulman>59647.276000000005</musulman>
+         <cretien>3.8449551759999995E6</cretien>
+         <autre>13764.756</autre>
+      </religions>
+      <ville>
+         <nom>Dublin</nom>
+         <longitude>-6.26</longitude>
+         <latitude>53.35</latitude>
+      </ville>
+      <ville>
+         <nom>Cork</nom>
+         <longitude>-8.47</longitude>
+         <latitude>51.9</latitude>
+      </ville>
+      <ville>
+         <nom>Galway</nom>
+         <longitude>-9.05</longitude>
+         <latitude>53.27</latitude>
+      </ville>
+      <ville>
+         <nom>Limerick</nom>
+         <longitude>-8.62</longitude>
+         <latitude>52.67</latitude>
+      </ville>
+      <frontiere pays="GB" longeur="360"/>
+   </pays>
+   <pays code="SF">
+      <nom>Finland</nom>
+      <capitale/>
+      <population annee="2017">5513130</population>
+      <religions>
+         <musulman>148854.51</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="R" longeur="1313"/>
+      <frontiere pays="N" longeur="729"/>
+      <frontiere pays="S" longeur="586"/>
+   </pays>
+   <pays code="N">
+      <nom>Norway</nom>
+      <capitale/>
+      <population annee="2013">5051275</population>
+      <religions>
+         <musulman>161640.80000000002</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="R" longeur="167"/>
+      <frontiere pays="SF" longeur="729"/>
+      <frontiere pays="S" longeur="1619"/>
+   </pays>
+   <pays code="S">
+      <nom>Sweden</nom>
+      <capitale/>
+      <population annee="2012">9555893</population>
+      <religions>
+         <musulman>774027.333</musulman>
+         <cretien>6.450227774999999E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="SF" longeur="586"/>
+      <frontiere pays="N" longeur="1619"/>
+   </pays>
+   <pays code="MC">
+      <nom>Monaco</nom>
+      <capitale>Monaco</capitale>
+      <population annee="2010">36845</population>
+      <religions>
+         <musulman>331.605</musulman>
+         <cretien>30249.745000000003</cretien>
+         <juif>921.125</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Monaco</nom>
+         <longitude>7.42</longitude>
+         <latitude>43.73</latitude>
+      </ville>
+      <frontiere pays="F" longeur="4.4"/>
+   </pays>
+   <pays code="V">
+      <nom>Vatican City</nom>
+      <capitale>Vatican City</capitale>
+      <population annee="2018">826</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Vatican City</nom>
+         <longitude>12.45</longitude>
+         <latitude>41.9</latitude>
+      </ville>
+      <frontiere pays="I" longeur="3.2"/>
+   </pays>
+   <pays code="CEU">
+      <nom>Ceuta</nom>
+      <capitale>Ceuta</capitale>
+      <population annee="2011">82376</population>
+      <religions>
+         <musulman>23065.280000000002</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Ceuta</nom>
+         <longitude>-5.3</longitude>
+         <latitude>35.9</latitude>
+      </ville>
+      <frontiere pays="MA" longeur="6.3"/>
+   </pays>
+   <pays code="MEL">
+      <nom>Melilla</nom>
+      <capitale>Melilla</capitale>
+      <population annee="2011">78476</population>
+      <religions>
+         <musulman>39238</musulman>
+         <cretien/>
+         <juif>784.76</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Melilla</nom>
+         <longitude>-2.95</longitude>
+         <latitude>35.3</latitude>
+      </ville>
+      <frontiere pays="MA" longeur="9.6"/>
+   </pays>
+   <pays code="RSM">
+      <nom>San Marino</nom>
+      <capitale>San Marino</capitale>
+      <population annee="2012">32440</population>
+      <religions>
+         <cretien/>
+         <juif>32.44</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>San Marino</nom>
+         <longitude>12.45</longitude>
+         <latitude>43.93</latitude>
+      </ville>
+      <frontiere pays="I" longeur="39"/>
+   </pays>
+   <pays code="M">
+      <nom>Malta</nom>
+      <capitale>Valletta</capitale>
+      <population annee="2018">475800</population>
+      <religions>
+         <musulman>4758</musulman>
+         <cretien>462001.8</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Valletta</nom>
+         <longitude>14.51</longitude>
+         <latitude>35.9</latitude>
+      </ville>
+      <ville>
+         <nom>Victoria</nom>
+         <longitude>14.24</longitude>
+         <latitude>36.04</latitude>
+      </ville>
+   </pays>
+   <pays code="GBM">
+      <nom>Isle of Man</nom>
+      <capitale>Douglas</capitale>
+      <population annee="2011">84497</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Douglas</nom>
+         <longitude>-4.6</longitude>
+         <latitude>54.15</latitude>
+      </ville>
+   </pays>
+   <pays code="MD">
+      <nom>Moldova</nom>
+      <capitale>Chişinău</capitale>
+      <population annee="2012">3473900</population>
+      <religions>
+         <cretien>3.31931145E6</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Chişinău</nom>
+         <longitude>28.92</longitude>
+         <latitude>47</latitude>
+      </ville>
+      <ville>
+         <nom>Tiraspol</nom>
+         <longitude>29.63</longitude>
+         <latitude>46.85</latitude>
+      </ville>
+      <ville>
+         <nom>Bălţi</nom>
+         <longitude>27.92</longitude>
+         <latitude>47.77</latitude>
+      </ville>
+      <frontiere pays="UA" longeur="939"/>
+      <frontiere pays="RO" longeur="450"/>
+   </pays>
+   <pays code="P">
+      <nom>Portugal</nom>
+      <capitale/>
+      <population annee="2011">10561614</population>
+      <religions>
+         <musulman>63369.684</musulman>
+         <cretien>8.9773719E6</cretien>
+         <autre>84492.912</autre>
+      </religions>
+      <frontiere pays="E" longeur="1214"/>
+   </pays>
+   <pays code="SVA">
+      <nom>Svalbard</nom>
+      <capitale>Longyearbyen</capitale>
+      <population annee="2016">2667</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Longyearbyen</nom>
+         <longitude>15.33</longitude>
+         <latitude>78.13</latitude>
+      </ville>
+   </pays>
+   <pays code="GB">
+      <nom>United Kingdom</nom>
+      <capitale/>
+      <population annee="2013">64105654</population>
+      <religions>
+         <musulman>2.820648776E6</musulman>
+         <cretien>3.2501566578E7</cretien>
+         <juif>256422.616</juif>
+         <autre>1.538535696E6</autre>
+      </religions>
+      <frontiere pays="IRL" longeur="360"/>
+   </pays>
+   <pays code="GBZ">
+      <nom>Gibraltar</nom>
+      <capitale>Gibraltar</capitale>
+      <population annee="2012">32577</population>
+      <religions>
+         <musulman>1172.7720000000002</musulman>
+         <cretien/>
+         <juif>781.8480000000001</juif>
+         <autre>651.54</autre>
+      </religions>
+      <ville>
+         <nom>Gibraltar</nom>
+         <longitude>-5.25</longitude>
+         <latitude>36.12</latitude>
+      </ville>
+      <frontiere pays="E" longeur="1.2"/>
+   </pays>
+   <pays code="GBG">
+      <nom>Guernsey</nom>
+      <capitale>Saint Peter Port</capitale>
+      <population annee="2017">64540</population>
+      <religions>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Saint Peter Port</nom>
+         <longitude>-2.6</longitude>
+         <latitude>49.6</latitude>
+      </ville>
+   </pays>
+   <pays code="GBJ">
+      <nom>Jersey</nom>
+      <capitale>Saint Helier</capitale>
+      <population annee="2011">97857</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Saint Helier</nom>
+         <longitude>-2.1</longitude>
+         <latitude>49.2</latitude>
+      </ville>
+   </pays>
+   <pays code="ARM">
+      <nom>Armenia</nom>
+      <capitale>Yerevan</capitale>
+      <population annee="2013">3026879</population>
+      <religions>
+         <cretien>2.848293139E6</cretien>
+         <autre>36322.548</autre>
+      </religions>
+      <ville>
+         <nom>Yerevan</nom>
+         <longitude>44.52</longitude>
+         <latitude>40.18</latitude>
+      </ville>
+      <frontiere pays="TR" longeur="268"/>
+      <frontiere pays="IR" longeur="35"/>
+      <frontiere pays="GE" longeur="164"/>
+      <frontiere pays="AZ" longeur="787"/>
+   </pays>
+   <pays code="GE">
+      <nom>Georgia</nom>
+      <capitale>Tbilisi</capitale>
+      <population annee="2014">4010000</population>
+      <religions>
+         <musulman>429070</musulman>
+         <cretien/>
+         <autre>12030</autre>
+      </religions>
+      <ville>
+         <nom>Tbilisi</nom>
+         <longitude>44.78</longitude>
+         <latitude>41.72</latitude>
+      </ville>
+      <ville>
+         <nom>Kutaisi</nom>
+         <longitude>42.7</longitude>
+         <latitude>42.25</latitude>
+      </ville>
+      <ville>
+         <nom>Batumi</nom>
+         <longitude>41.64</longitude>
+         <latitude>41.65</latitude>
+      </ville>
+      <frontiere pays="R" longeur="723"/>
+      <frontiere pays="TR" longeur="252"/>
+      <frontiere pays="ARM" longeur="164"/>
+      <frontiere pays="AZ" longeur="322"/>
+   </pays>
+   <pays code="AZ">
+      <nom>Azerbaijan</nom>
+      <capitale>Baku</capitale>
+      <population annee="2013">9356500</population>
+      <religions>
+         <musulman>9.0664485E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Baku</nom>
+         <longitude>49.88</longitude>
+         <latitude>40.4</latitude>
+      </ville>
+      <ville>
+         <nom>Ganja</nom>
+         <longitude>46.36</longitude>
+         <latitude>40.68</latitude>
+      </ville>
+      <ville>
+         <nom>Sumgayit</nom>
+         <longitude>49.67</longitude>
+         <latitude>40.59</latitude>
+      </ville>
+      <frontiere pays="R" longeur="284"/>
+      <frontiere pays="TR" longeur="9"/>
+      <frontiere pays="IR" longeur="611"/>
+      <frontiere pays="ARM" longeur="787"/>
+      <frontiere pays="GE" longeur="322"/>
+   </pays>
+   <pays code="TR">
+      <nom>Turkey</nom>
+      <capitale/>
+      <population annee="2012">75627384</population>
+      <religions>
+         <musulman>7.4341718472E7</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="GR" longeur="206"/>
+      <frontiere pays="BG" longeur="240"/>
+      <frontiere pays="IR" longeur="499"/>
+      <frontiere pays="ARM" longeur="268"/>
+      <frontiere pays="GE" longeur="252"/>
+      <frontiere pays="AZ" longeur="9"/>
+      <frontiere pays="IRQ" longeur="331"/>
+      <frontiere pays="SYR" longeur="822"/>
+   </pays>
+   <pays code="RL">
+      <nom>Lebanon</nom>
+      <capitale>Bayrūt</capitale>
+      <population annee="2010">4341092</population>
+      <religions>
+         <musulman>2.426670428E6</musulman>
+         <cretien>1.632250592E6</cretien>
+         <autre>247442.244</autre>
+      </religions>
+      <ville>
+         <nom>Bayrūt</nom>
+         <longitude>35.51</longitude>
+         <latitude>33.89</latitude>
+      </ville>
+      <frontiere pays="IL" longeur="79"/>
+      <frontiere pays="SYR" longeur="375"/>
+   </pays>
+   <pays code="WB">
+      <nom>West Bank</nom>
+      <capitale>Ramallah</capitale>
+      <population annee="2017">2881687</population>
+      <religions>
+         <musulman>2.36298334E6</musulman>
+         <cretien/>
+         <juif>374619.31</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Ramallah</nom>
+         <longitude>35.2</longitude>
+         <latitude>31.9</latitude>
+      </ville>
+      <ville>
+         <nom>Nablus</nom>
+         <longitude>35.3</longitude>
+         <latitude>32.2</latitude>
+      </ville>
+      <ville>
+         <nom>Al Khalil</nom>
+         <longitude>35.07</longitude>
+         <latitude>31.53</latitude>
+      </ville>
+      <frontiere pays="IL" longeur="307"/>
+      <frontiere pays="JOR" longeur="97"/>
+   </pays>
+   <pays code="GAZA">
+      <nom>Gaza Strip</nom>
+      <capitale/>
+      <population annee="2017">1899291</population>
+      <religions>
+         <musulman>1.895492418E6</musulman>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Gaza</nom>
+         <longitude>34.5</longitude>
+         <latitude>31.5</latitude>
+      </ville>
+      <frontiere pays="IL" longeur="51"/>
+      <frontiere pays="ET" longeur="11"/>
+   </pays>
+   <pays code="IL">
+      <nom>Israel</nom>
+      <capitale/>
+      <population annee="2010">7420368</population>
+      <religions>
+         <musulman>1.3208255040000002E6</musulman>
+         <juif>5.513333424E6</juif>
+         <autre>259712.88000000003</autre>
+      </religions>
+      <frontiere pays="GAZA" longeur="51"/>
+      <frontiere pays="ET" longeur="255"/>
+      <frontiere pays="JOR" longeur="238"/>
+      <frontiere pays="SYR" longeur="76"/>
+      <frontiere pays="RL" longeur="79"/>
+      <frontiere pays="WB" longeur="307"/>
+   </pays>
+   <pays code="SYR">
+      <nom>Syria</nom>
+      <capitale/>
+      <population annee="2019">17070135</population>
+      <religions>
+         <musulman>1.485101745E7</musulman>
+         <cretien/>
+         <autre>512104.05</autre>
+      </religions>
+      <frontiere pays="TR" longeur="822"/>
+      <frontiere pays="IL" longeur="76"/>
+      <frontiere pays="IRQ" longeur="605"/>
+      <frontiere pays="JOR" longeur="375"/>
+      <frontiere pays="RL" longeur="375"/>
+   </pays>
+   <pays code="JOR">
+      <nom>Jordan</nom>
+      <capitale>Amman</capitale>
+      <population annee="2015">9131712</population>
+      <religions>
+         <musulman>8.876024064E6</musulman>
+         <cretien/>
+         <autre>91317.12</autre>
+      </religions>
+      <ville>
+         <nom>Amman</nom>
+         <longitude>35.93</longitude>
+         <latitude>31.95</latitude>
+      </ville>
+      <ville>
+         <nom>Zarqa</nom>
+         <longitude>36.1</longitude>
+         <latitude>32.08</latitude>
+      </ville>
+      <ville>
+         <nom>Irbid</nom>
+         <longitude>35.85</longitude>
+         <latitude>32.55</latitude>
+      </ville>
+      <frontiere pays="IL" longeur="238"/>
+      <frontiere pays="IRQ" longeur="181"/>
+      <frontiere pays="SA" longeur="728"/>
+      <frontiere pays="SYR" longeur="375"/>
+      <frontiere pays="WB" longeur="97"/>
+   </pays>
+   <pays code="SA">
+      <nom>Saudi Arabia</nom>
+      <capitale/>
+      <population annee="2010">27136977</population>
+      <religions>
+         <musulman>2.7136977E7</musulman>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="IRQ" longeur="814"/>
+      <frontiere pays="JOR" longeur="728"/>
+      <frontiere pays="KWT" longeur="222"/>
+      <frontiere pays="OM" longeur="676"/>
+      <frontiere pays="UAE" longeur="457"/>
+      <frontiere pays="YE" longeur="1458"/>
+      <frontiere pays="Q" longeur="60"/>
+   </pays>
+   <pays code="BRN">
+      <nom>Bahrain</nom>
+      <capitale>Al Manāmah</capitale>
+      <population annee="2010">1234571</population>
+      <religions>
+         <musulman>867903.413</musulman>
+         <cretien/>
+         <autre>151852.233</autre>
+      </religions>
+      <ville>
+         <nom>Al Manāmah</nom>
+         <longitude>50.58</longitude>
+         <latitude>26.22</latitude>
+      </ville>
+   </pays>
+   <pays code="Q">
+      <nom>Qatar</nom>
+      <capitale>Doha</capitale>
+      <population annee="2015">2404776</population>
+      <religions>
+         <musulman>1.6280333520000002E6</musulman>
+         <cretien/>
+         <autre>406407.14400000003</autre>
+      </religions>
+      <ville>
+         <nom>Doha</nom>
+         <longitude>51.53</longitude>
+         <latitude>25.29</latitude>
+      </ville>
+      <ville>
+         <nom>Al Rayyan</nom>
+         <longitude>51.37</longitude>
+         <latitude>25.32</latitude>
+      </ville>
+      <frontiere pays="SA" longeur="60"/>
+   </pays>
+   <pays code="UAE">
+      <nom>United Arab Emirates</nom>
+      <capitale>Abu Dhabi</capitale>
+      <population annee="2016">9121167</population>
+      <religions>
+         <musulman>6.93208692E6</musulman>
+         <cretien>1.09454004E6</cretien>
+         <autre>839147.364</autre>
+      </religions>
+      <ville>
+         <nom>Abu Dhabi</nom>
+         <longitude>54.37</longitude>
+         <latitude>24.47</latitude>
+      </ville>
+      <ville>
+         <nom>Al Ain</nom>
+         <longitude>55.74</longitude>
+         <latitude>24.21</latitude>
+      </ville>
+      <ville>
+         <nom>Dubai</nom>
+         <longitude>55.33</longitude>
+         <latitude>24.95</latitude>
+      </ville>
+      <ville>
+         <nom>Al Sharjah</nom>
+         <longitude>55.39</longitude>
+         <latitude>25.36</latitude>
+      </ville>
+      <frontiere pays="SA" longeur="457"/>
+      <frontiere pays="OM" longeur="410"/>
+   </pays>
+   <pays code="OM">
+      <nom>Oman</nom>
+      <capitale>Muscat</capitale>
+      <population annee="2019">4992364</population>
+      <religions>
+         <musulman>4.288440676000001E6</musulman>
+         <autre>639022.5920000001</autre>
+      </religions>
+      <ville>
+         <nom>Muscat</nom>
+         <longitude>58.58</longitude>
+         <latitude>23.6</latitude>
+      </ville>
+      <ville>
+         <nom>As Seeb</nom>
+         <longitude>58.18</longitude>
+         <latitude>23.68</latitude>
+      </ville>
+      <frontiere pays="SA" longeur="676"/>
+      <frontiere pays="UAE" longeur="410"/>
+      <frontiere pays="YE" longeur="288"/>
+   </pays>
+   <pays code="YE">
+      <nom>Yemen</nom>
+      <capitale>Sanaa</capitale>
+      <population annee="2012">24527000</population>
+      <religions>
+         <musulman>2.4306257E7</musulman>
+         <autre>147162</autre>
+      </religions>
+      <ville>
+         <nom>Sanaa</nom>
+         <longitude>44.21</longitude>
+         <latitude>15.35</latitude>
+      </ville>
+      <ville>
+         <nom>Aden</nom>
+         <longitude>45.03</longitude>
+         <latitude>12.8</latitude>
+      </ville>
+      <ville>
+         <nom>Taizz</nom>
+         <longitude>44.02</longitude>
+         <latitude>13.58</latitude>
+      </ville>
+      <ville>
+         <nom>al Hudaydah</nom>
+         <longitude>42.95</longitude>
+         <latitude>14.8</latitude>
+      </ville>
+      <frontiere pays="SA" longeur="1458"/>
+      <frontiere pays="OM" longeur="288"/>
+   </pays>
+   <pays code="KWT">
+      <nom>Kuwait</nom>
+      <capitale>Al Kuwayt</capitale>
+      <population annee="2010">2991580</population>
+      <religions>
+         <musulman>2.2245388880000003E6</musulman>
+         <cretien>373947.5</cretien>
+         <autre>239326.4</autre>
+      </religions>
+      <ville>
+         <nom>Al Kuwayt</nom>
+         <longitude>47.98</longitude>
+         <latitude>29.37</latitude>
+      </ville>
+      <frontiere pays="IRQ" longeur="242"/>
+      <frontiere pays="SA" longeur="222"/>
+   </pays>
+   <pays code="IRQ">
+      <nom>Iraq</nom>
+      <capitale/>
+      <population annee="2011">33330512</population>
+      <religions>
+         <musulman>3.233059664E7</musulman>
+         <autre>799932.2880000001</autre>
+      </religions>
+      <frontiere pays="TR" longeur="331"/>
+      <frontiere pays="IR" longeur="1458"/>
+      <frontiere pays="JOR" longeur="181"/>
+      <frontiere pays="KWT" longeur="242"/>
+      <frontiere pays="SA" longeur="814"/>
+      <frontiere pays="SYR" longeur="605"/>
+   </pays>
+   <pays code="IR">
+      <nom>Iran</nom>
+      <capitale/>
+      <population annee="2016">79926270</population>
+      <religions>
+         <musulman>7.944671238000001E7</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="TR" longeur="499"/>
+      <frontiere pays="AFG" longeur="936"/>
+      <frontiere pays="PK" longeur="909"/>
+      <frontiere pays="TM" longeur="992"/>
+      <frontiere pays="ARM" longeur="35"/>
+      <frontiere pays="AZ" longeur="611"/>
+      <frontiere pays="IRQ" longeur="1458"/>
+   </pays>
+   <pays code="AFG">
+      <nom>Afghanistan</nom>
+      <capitale>Kabul</capitale>
+      <population annee="2013">26023100</population>
+      <religions>
+         <musulman>2.5762869E7</musulman>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Kabul</nom>
+         <longitude>69.17</longitude>
+         <latitude>34.53</latitude>
+      </ville>
+      <ville>
+         <nom>Herat</nom>
+         <longitude>62.2</longitude>
+         <latitude>34.34</latitude>
+      </ville>
+      <ville>
+         <nom>Kandahar</nom>
+         <longitude>65.72</longitude>
+         <latitude>31.62</latitude>
+      </ville>
+      <ville>
+         <nom>Mazar-i-Sharif</nom>
+         <longitude>67.12</longitude>
+         <latitude>36.7</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="76"/>
+      <frontiere pays="IR" longeur="936"/>
+      <frontiere pays="PK" longeur="2430"/>
+      <frontiere pays="TJ" longeur="1206"/>
+      <frontiere pays="TM" longeur="744"/>
+      <frontiere pays="UZ" longeur="137"/>
+   </pays>
+   <pays code="TM">
+      <nom>Turkmenistan</nom>
+      <capitale/>
+      <population annee="2005">6550000</population>
+      <religions>
+         <musulman>5.9605E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="AFG" longeur="744"/>
+      <frontiere pays="IR" longeur="992"/>
+      <frontiere pays="UZ" longeur="1621"/>
+      <frontiere pays="KZ" longeur="379"/>
+   </pays>
+   <pays code="UZ">
+      <nom>Uzbekistan</nom>
+      <capitale/>
+      <population annee="2017">32120500</population>
+      <religions>
+         <musulman>2.826604E7</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="AFG" longeur="137"/>
+      <frontiere pays="TJ" longeur="1161"/>
+      <frontiere pays="TM" longeur="1621"/>
+      <frontiere pays="KZ" longeur="2203"/>
+      <frontiere pays="KG" longeur="1099"/>
+   </pays>
+   <pays code="TJ">
+      <nom>Tajikistan</nom>
+      <capitale/>
+      <population annee="2014">8161100</population>
+      <religions>
+         <musulman>7.997878E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="AFG" longeur="1206"/>
+      <frontiere pays="CN" longeur="414"/>
+      <frontiere pays="UZ" longeur="1161"/>
+      <frontiere pays="KG" longeur="870"/>
+   </pays>
+   <pays code="KG">
+      <nom>Kyrgyzstan</nom>
+      <capitale>Bishkek</capitale>
+      <population annee="2018">6256700</population>
+      <religions>
+         <musulman>5.480869199999999E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Bishkek</nom>
+         <longitude>74.61</longitude>
+         <latitude>42.87</latitude>
+      </ville>
+      <ville>
+         <nom>Osh</nom>
+         <longitude>72.8</longitude>
+         <latitude>40.53</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="858"/>
+      <frontiere pays="TJ" longeur="870"/>
+      <frontiere pays="UZ" longeur="1099"/>
+      <frontiere pays="KZ" longeur="1051"/>
+   </pays>
+   <pays code="KZ">
+      <nom>Kazakhstan</nom>
+      <capitale/>
+      <population annee="2014">17165239</population>
+      <religions>
+         <musulman>1.2049997778E7</musulman>
+         <cretien>4.46296214E6</cretien>
+         <autre>17165.239</autre>
+      </religions>
+      <frontiere pays="R" longeur="6846"/>
+      <frontiere pays="CN" longeur="1533"/>
+      <frontiere pays="TM" longeur="379"/>
+      <frontiere pays="UZ" longeur="2203"/>
+      <frontiere pays="KG" longeur="1051"/>
+   </pays>
+   <pays code="MNG">
+      <nom>Mongolia</nom>
+      <capitale>Ulaanbaatar</capitale>
+      <population annee="2010">2754685</population>
+      <religions>
+         <musulman>82640.55</musulman>
+         <cretien/>
+         <autre>1.473756475E6</autre>
+      </religions>
+      <ville>
+         <nom>Ulaanbaatar</nom>
+         <longitude>106.92</longitude>
+         <latitude>47.92</latitude>
+      </ville>
+      <frontiere pays="R" longeur="3441"/>
+      <frontiere pays="CN" longeur="4673"/>
+   </pays>
+   <pays code="MV">
+      <nom>Maldives</nom>
+      <capitale>Male</capitale>
+      <population annee="2014">402071</population>
+      <religions>
+         <musulman>394029.58</musulman>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Male</nom>
+         <longitude>73.51</longitude>
+         <latitude>4.18</latitude>
+      </ville>
+   </pays>
+   <pays code="PK">
+      <nom>Pakistan</nom>
+      <capitale/>
+      <population annee="2017">207776954</population>
+      <religions>
+         <musulman>2.0154364538E8</musulman>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="AFG" longeur="2430"/>
+      <frontiere pays="CN" longeur="523"/>
+      <frontiere pays="IR" longeur="909"/>
+      <frontiere pays="IND" longeur="2912"/>
+   </pays>
+   <pays code="IND">
+      <nom>India</nom>
+      <capitale/>
+      <population annee="2011">1210854977</population>
+      <religions>
+         <musulman>1.71941406734E8</musulman>
+         <cretien>3.0271374424999997E7</cretien>
+         <autre>1.0086421958410001E9</autre>
+      </religions>
+      <frontiere pays="CN" longeur="3380"/>
+      <frontiere pays="PK" longeur="2912"/>
+      <frontiere pays="BD" longeur="4053"/>
+      <frontiere pays="MYA" longeur="1463"/>
+      <frontiere pays="BHT" longeur="605"/>
+      <frontiere pays="NEP" longeur="1690"/>
+   </pays>
+   <pays code="NEP">
+      <nom>Nepal</nom>
+      <capitale>Kathmandu</capitale>
+      <population annee="2011">26494504</population>
+      <religions>
+         <musulman>1.1657581760000002E6</musulman>
+         <autre>2.4295460168E7</autre>
+      </religions>
+      <ville>
+         <nom>Kathmandu</nom>
+         <longitude>85.33</longitude>
+         <latitude>27.7</latitude>
+      </ville>
+      <ville>
+         <nom>Pokhara</nom>
+         <longitude>83.97</longitude>
+         <latitude>28.26</latitude>
+      </ville>
+      <ville>
+         <nom>Lalitpur</nom>
+         <longitude>85.32</longitude>
+         <latitude>27.67</latitude>
+      </ville>
+      <ville>
+         <nom>Biratnagar</nom>
+         <longitude>87.28</longitude>
+         <latitude>26.45</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="1236"/>
+      <frontiere pays="IND" longeur="1690"/>
+   </pays>
+   <pays code="BHT">
+      <nom>Bhutan</nom>
+      <capitale>Thimphu</capitale>
+      <population annee="2017">727145</population>
+      <religions>
+         <musulman>7271.45</musulman>
+         <autre>711874.9550000001</autre>
+      </religions>
+      <ville>
+         <nom>Thimphu</nom>
+         <longitude>89.64</longitude>
+         <latitude>27.47</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="470"/>
+      <frontiere pays="IND" longeur="605"/>
+   </pays>
+   <pays code="BD">
+      <nom>Bangladesh</nom>
+      <capitale/>
+      <population annee="2011">149772364</population>
+      <religions>
+         <musulman>1.3404626578E8</musulman>
+         <autre>1.422837458E7</autre>
+      </religions>
+      <frontiere pays="MYA" longeur="193"/>
+      <frontiere pays="IND" longeur="4053"/>
+   </pays>
+   <pays code="MYA">
+      <nom>Myanmar</nom>
+      <capitale/>
+      <population annee="2014">51419420</population>
+      <religions>
+         <musulman>2.2110350599999996E6</musulman>
+         <autre>4.864277132E7</autre>
+      </religions>
+      <frontiere pays="CN" longeur="2185"/>
+      <frontiere pays="BD" longeur="193"/>
+      <frontiere pays="IND" longeur="1463"/>
+      <frontiere pays="LAO" longeur="235"/>
+      <frontiere pays="THA" longeur="1800"/>
+   </pays>
+   <pays code="CL">
+      <nom>Sri Lanka</nom>
+      <capitale>Sri Jayawardhanapura</capitale>
+      <population annee="2012">20263723</population>
+      <religions>
+         <musulman>1.9655811309999998E6</musulman>
+         <cretien/>
+         <autre>1.6778362643999998E7</autre>
+      </religions>
+      <ville>
+         <nom>Sri Jayawardhanapura</nom>
+         <longitude>79.89</longitude>
+         <latitude>6.91</latitude>
+      </ville>
+      <ville>
+         <nom>Colombo</nom>
+         <longitude>79.84</longitude>
+         <latitude>6.93</latitude>
+      </ville>
+   </pays>
+   <pays code="CN">
+      <nom>China</nom>
+      <capitale/>
+      <population annee="2017">1427647786</population>
+      <religions>
+         <musulman>2.4270012362000003E7</musulman>
+         <cretien/>
+         <autre>2.41272475834E8</autre>
+      </religions>
+      <frontiere pays="R" longeur="3645"/>
+      <frontiere pays="AFG" longeur="76"/>
+      <frontiere pays="PK" longeur="523"/>
+      <frontiere pays="TJ" longeur="414"/>
+      <frontiere pays="MYA" longeur="2185"/>
+      <frontiere pays="IND" longeur="3380"/>
+      <frontiere pays="NEP" longeur="1236"/>
+      <frontiere pays="BHT" longeur="470"/>
+      <frontiere pays="LAO" longeur="423"/>
+      <frontiere pays="VN" longeur="1281"/>
+      <frontiere pays="KZ" longeur="1533"/>
+      <frontiere pays="KP" longeur="1416"/>
+      <frontiere pays="KG" longeur="858"/>
+      <frontiere pays="MNG" longeur="4673"/>
+      <frontiere pays="MACX" longeur="0.34"/>
+      <frontiere pays="HK" longeur="30"/>
+   </pays>
+   <pays code="RC">
+      <nom>Taiwan</nom>
+      <capitale>Taipei</capitale>
+      <population annee="2017">23571227</population>
+      <religions>
+         <musulman>47142.454</musulman>
+         <cretien/>
+         <autre>1.6193432949000001E7</autre>
+      </religions>
+      <ville>
+         <nom>Taipei</nom>
+         <longitude>121.63</longitude>
+         <latitude>25.03</latitude>
+      </ville>
+      <ville>
+         <nom>New Taipei</nom>
+         <longitude>121.45</longitude>
+         <latitude>25.01</latitude>
+      </ville>
+      <ville>
+         <nom>Taoyuan</nom>
+         <longitude>121.31</longitude>
+         <latitude>24.99</latitude>
+      </ville>
+      <ville>
+         <nom>Jhongli</nom>
+         <longitude>121.22</longitude>
+         <latitude>24.96</latitude>
+      </ville>
+      <ville>
+         <nom>Keelung</nom>
+         <longitude>121.73</longitude>
+         <latitude>25.13</latitude>
+      </ville>
+      <ville>
+         <nom>Hsinchu</nom>
+         <longitude>120.98</longitude>
+         <latitude>24.82</latitude>
+      </ville>
+      <ville>
+         <nom>Taichung</nom>
+         <longitude>120.67</longitude>
+         <latitude>24.15</latitude>
+      </ville>
+      <ville>
+         <nom>Changhua</nom>
+         <longitude>120.53</longitude>
+         <latitude>24.07</latitude>
+      </ville>
+      <ville>
+         <nom>Hualien</nom>
+         <longitude>121.61</longitude>
+         <latitude>23.97</latitude>
+      </ville>
+      <ville>
+         <nom>Chiayi</nom>
+         <longitude>120.45</longitude>
+         <latitude>23.48</latitude>
+      </ville>
+      <ville>
+         <nom>Tainan</nom>
+         <longitude>120.18</longitude>
+         <latitude>22.98</latitude>
+      </ville>
+      <ville>
+         <nom>Pingtung</nom>
+         <longitude>120.49</longitude>
+         <latitude>22.68</latitude>
+      </ville>
+      <ville>
+         <nom>Kaohsiung</nom>
+         <longitude>120.27</longitude>
+         <latitude>22.63</latitude>
+      </ville>
+      <ville>
+         <nom>Taitung</nom>
+         <longitude>121.14</longitude>
+         <latitude>22.76</latitude>
+      </ville>
+   </pays>
+   <pays code="HK">
+      <nom>Hong Kong</nom>
+      <capitale>Hong Kong</capitale>
+      <population annee="2016">7336585</population>
+      <religions>
+         <musulman>308136.57</musulman>
+         <cretien/>
+         <autre>2.1642925749999997E6</autre>
+      </religions>
+      <ville>
+         <nom>Hong Kong</nom>
+         <longitude>114.2</longitude>
+         <latitude>22.3</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="30"/>
+   </pays>
+   <pays code="MACX">
+      <nom>Macao</nom>
+      <capitale>Macao</capitale>
+      <population annee="2016">650834</population>
+      <religions>
+         <cretien/>
+         <autre>109340.11200000001</autre>
+      </religions>
+      <ville>
+         <nom>Macao</nom>
+         <longitude>113.55</longitude>
+         <latitude>22.17</latitude>
+      </ville>
+      <ville>
+         <nom>Taipa-Coloane</nom>
+         <longitude>113.55</longitude>
+         <latitude>22.17</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="0.34"/>
+   </pays>
+   <pays code="KP">
+      <nom>North Korea</nom>
+      <capitale>Pyongyang</capitale>
+      <population annee="2010">24500520</population>
+      <religions>
+         <autre>8.74668564E6</autre>
+      </religions>
+      <ville>
+         <nom>Pyongyang</nom>
+         <longitude>125.74</longitude>
+         <latitude>39.02</latitude>
+      </ville>
+      <ville>
+         <nom>Hamhung-Hungnam</nom>
+         <longitude>127.53</longitude>
+         <latitude>39.92</latitude>
+      </ville>
+      <ville>
+         <nom>Chongjin</nom>
+         <longitude>129.77</longitude>
+         <latitude>41.78</latitude>
+      </ville>
+      <ville>
+         <nom>Nampho</nom>
+         <longitude>125.4</longitude>
+         <latitude>38.73</latitude>
+      </ville>
+      <ville>
+         <nom>Sunchon</nom>
+         <longitude>125.93</longitude>
+         <latitude>39.42</latitude>
+      </ville>
+      <ville>
+         <nom>Sinuiju</nom>
+         <longitude>124.4</longitude>
+         <latitude>40.1</latitude>
+      </ville>
+      <ville>
+         <nom>Tanchon</nom>
+         <longitude>128.91</longitude>
+         <latitude>40.46</latitude>
+      </ville>
+      <ville>
+         <nom>Wonsan</nom>
+         <longitude>127.45</longitude>
+         <latitude>39.15</latitude>
+      </ville>
+      <ville>
+         <nom>Tokchon</nom>
+         <longitude>126.33</longitude>
+         <latitude>39.75</latitude>
+      </ville>
+      <ville>
+         <nom>Kanggye</nom>
+         <longitude>126.6</longitude>
+         <latitude>40.97</latitude>
+      </ville>
+      <ville>
+         <nom>Haeju</nom>
+         <longitude>125.72</longitude>
+         <latitude>38.05</latitude>
+      </ville>
+      <ville>
+         <nom>Anju</nom>
+         <longitude>125.66</longitude>
+         <latitude>39.62</latitude>
+      </ville>
+      <ville>
+         <nom>Kim Chaek</nom>
+         <longitude>129.2</longitude>
+         <latitude>40.67</latitude>
+      </ville>
+      <ville>
+         <nom>Kusong</nom>
+         <longitude>125.17</longitude>
+         <latitude>39.97</latitude>
+      </ville>
+      <ville>
+         <nom>Huichon</nom>
+         <longitude>126.28</longitude>
+         <latitude>40.17</latitude>
+      </ville>
+      <ville>
+         <nom>Sinpho</nom>
+         <longitude>128.25</longitude>
+         <latitude>40.08</latitude>
+      </ville>
+      <ville>
+         <nom>Kaesong</nom>
+         <longitude>126.55</longitude>
+         <latitude>37.97</latitude>
+      </ville>
+      <ville>
+         <nom>Kaechon</nom>
+         <longitude>125.91</longitude>
+         <latitude>39.7</latitude>
+      </ville>
+      <ville>
+         <nom>Sariwon</nom>
+         <longitude>125.75</longitude>
+         <latitude>38.51</latitude>
+      </ville>
+      <frontiere pays="R" longeur="19"/>
+      <frontiere pays="CN" longeur="1416"/>
+      <frontiere pays="ROK" longeur="238"/>
+   </pays>
+   <pays code="ROK">
+      <nom>South Korea</nom>
+      <capitale>Seoul</capitale>
+      <population annee="2015">51269554</population>
+      <religions>
+         <musulman>51269.554000000004</musulman>
+         <cretien/>
+         <autre>7.94678087E6</autre>
+      </religions>
+      <ville>
+         <nom>Seoul</nom>
+         <longitude>126.97</longitude>
+         <latitude>37.57</latitude>
+      </ville>
+      <ville>
+         <nom>Busan</nom>
+         <longitude>129.07</longitude>
+         <latitude>35.17</latitude>
+      </ville>
+      <ville>
+         <nom>Daegu</nom>
+         <longitude>128.6</longitude>
+         <latitude>35.87</latitude>
+      </ville>
+      <ville>
+         <nom>Incheon</nom>
+         <longitude>126.63</longitude>
+         <latitude>37.48</latitude>
+      </ville>
+      <ville>
+         <nom>Gwangju</nom>
+         <longitude>126.92</longitude>
+         <latitude>35.17</latitude>
+      </ville>
+      <ville>
+         <nom>Daejeon</nom>
+         <longitude>127.39</longitude>
+         <latitude>36.35</latitude>
+      </ville>
+      <ville>
+         <nom>Ulsan</nom>
+         <longitude>129.32</longitude>
+         <latitude>35.55</latitude>
+      </ville>
+      <ville>
+         <nom>Suwon</nom>
+         <longitude>127.02</longitude>
+         <latitude>37.27</latitude>
+      </ville>
+      <ville>
+         <nom>Seongnam</nom>
+         <longitude>127.15</longitude>
+         <latitude>37.43</latitude>
+      </ville>
+      <ville>
+         <nom>Jeonju</nom>
+         <longitude>127.15</longitude>
+         <latitude>35.82</latitude>
+      </ville>
+      <ville>
+         <nom>Changwon</nom>
+         <longitude>128.66</longitude>
+         <latitude>35.27</latitude>
+      </ville>
+      <ville>
+         <nom>Cheongju</nom>
+         <longitude>127.48</longitude>
+         <latitude>36.63</latitude>
+      </ville>
+      <ville>
+         <nom>Jinju</nom>
+         <longitude>128.08</longitude>
+         <latitude>35.2</latitude>
+      </ville>
+      <ville>
+         <nom>Mokpo</nom>
+         <longitude>126.38</longitude>
+         <latitude>34.76</latitude>
+      </ville>
+      <ville>
+         <nom>Jeju</nom>
+         <longitude>126.52</longitude>
+         <latitude>33.51</latitude>
+      </ville>
+      <ville>
+         <nom>Gunsan</nom>
+         <longitude>126.72</longitude>
+         <latitude>35.98</latitude>
+      </ville>
+      <ville>
+         <nom>Chuncheon</nom>
+         <longitude>127.73</longitude>
+         <latitude>37.87</latitude>
+      </ville>
+      <ville>
+         <nom>Yeosu</nom>
+         <longitude>127.73</longitude>
+         <latitude>34.73</latitude>
+      </ville>
+      <ville>
+         <nom>Goyang</nom>
+         <longitude>126.8</longitude>
+         <latitude>37.65</latitude>
+      </ville>
+      <ville>
+         <nom>Yongin</nom>
+         <longitude>127.2</longitude>
+         <latitude>37.23</latitude>
+      </ville>
+      <ville>
+         <nom>Bucheon</nom>
+         <longitude>126.78</longitude>
+         <latitude>37.5</latitude>
+      </ville>
+      <ville>
+         <nom>Ansan</nom>
+         <longitude>126.83</longitude>
+         <latitude>37.32</latitude>
+      </ville>
+      <ville>
+         <nom>Anyang</nom>
+         <longitude>126.93</longitude>
+         <latitude>37.38</latitude>
+      </ville>
+      <frontiere pays="KP" longeur="238"/>
+   </pays>
+   <pays code="J">
+      <nom>Japan</nom>
+      <capitale/>
+      <population annee="2015">127094745</population>
+      <religions>
+         <musulman>127094.74500000001</musulman>
+         <cretien/>
+         <autre>4.9948234785000004E7</autre>
+      </religions>
+   </pays>
+   <pays code="RP">
+      <nom>Philippines</nom>
+      <capitale/>
+      <population annee="2015">100981437</population>
+      <religions>
+         <musulman>5.654960471999999E6</musulman>
+         <cretien/>
+         <autre>2.01962874E6</autre>
+      </religions>
+   </pays>
+   <pays code="VN">
+      <nom>Vietnam</nom>
+      <capitale/>
+      <population annee="2012">88772900</population>
+      <religions>
+         <musulman>88772.90000000001</musulman>
+         <cretien/>
+         <autre>5.6548337300000004E7</autre>
+      </religions>
+      <frontiere pays="CN" longeur="1281"/>
+      <frontiere pays="LAO" longeur="2130"/>
+      <frontiere pays="K" longeur="1228"/>
+   </pays>
+   <pays code="K">
+      <nom>Cambodia</nom>
+      <capitale>Phnom Penh</capitale>
+      <population annee="2019">15288489</population>
+      <religions>
+         <musulman>244615.824</musulman>
+         <autre>1.4095986858000001E7</autre>
+      </religions>
+      <ville>
+         <nom>Phnom Penh</nom>
+         <longitude>104.92</longitude>
+         <latitude>11.55</latitude>
+      </ville>
+      <ville>
+         <nom>Battambang</nom>
+         <longitude>103.2</longitude>
+         <latitude>13.09</latitude>
+      </ville>
+      <ville>
+         <nom>Siem Reap</nom>
+         <longitude>103.86</longitude>
+         <latitude>13.36</latitude>
+      </ville>
+      <frontiere pays="LAO" longeur="541"/>
+      <frontiere pays="THA" longeur="803"/>
+      <frontiere pays="VN" longeur="1228"/>
+   </pays>
+   <pays code="LAO">
+      <nom>Laos</nom>
+      <capitale>Vientiane</capitale>
+      <population annee="2012">6514432</population>
+      <religions>
+         <autre>6.377628928E6</autre>
+      </religions>
+      <ville>
+         <nom>Vientiane</nom>
+         <longitude>102.6</longitude>
+         <latitude>17.97</latitude>
+      </ville>
+      <frontiere pays="CN" longeur="423"/>
+      <frontiere pays="MYA" longeur="235"/>
+      <frontiere pays="THA" longeur="1754"/>
+      <frontiere pays="K" longeur="541"/>
+      <frontiere pays="VN" longeur="2130"/>
+   </pays>
+   <pays code="THA">
+      <nom>Thailand</nom>
+      <capitale>Bangkok</capitale>
+      <population annee="2010">65981659</population>
+      <religions>
+         <musulman>2.507303042E6</musulman>
+         <autre>6.314444766299999E7</autre>
+      </religions>
+      <ville>
+         <nom>Chiang Mai</nom>
+         <longitude>99</longitude>
+         <latitude>18.8</latitude>
+      </ville>
+      <ville>
+         <nom>Nakhon Ratchasima</nom>
+         <longitude>102.1</longitude>
+         <latitude>14.98</latitude>
+      </ville>
+      <ville>
+         <nom>Nakhon Sawan</nom>
+         <longitude>100.14</longitude>
+         <latitude>15.7</latitude>
+      </ville>
+      <ville>
+         <nom>Bangkok</nom>
+         <longitude>100.47</longitude>
+         <latitude>13.75</latitude>
+      </ville>
+      <ville>
+         <nom>Nonthaburi</nom>
+         <longitude>100.52</longitude>
+         <latitude>13.85</latitude>
+      </ville>
+      <ville>
+         <nom>Khon Kaen</nom>
+         <longitude>102.83</longitude>
+         <latitude>16.43</latitude>
+      </ville>
+      <ville>
+         <nom>Nakhon Si Thammarat</nom>
+         <longitude>99.96</longitude>
+         <latitude>8.44</latitude>
+      </ville>
+      <ville>
+         <nom>Songkhla</nom>
+         <longitude>100.6</longitude>
+         <latitude>7.21</latitude>
+      </ville>
+      <ville>
+         <nom>Samut Prakan</nom>
+         <longitude>100.6</longitude>
+         <latitude>13.6</latitude>
+      </ville>
+      <ville>
+         <nom>Chon Buri</nom>
+         <longitude>100.98</longitude>
+         <latitude>13.36</latitude>
+      </ville>
+      <ville>
+         <nom>Phuket</nom>
+         <longitude>98.4</longitude>
+         <latitude>7.89</latitude>
+      </ville>
+      <frontiere pays="MYA" longeur="1800"/>
+      <frontiere pays="MAL" longeur="506"/>
+      <frontiere pays="LAO" longeur="1754"/>
+      <frontiere pays="K" longeur="803"/>
+   </pays>
+   <pays code="MAL">
+      <nom>Malaysia</nom>
+      <capitale/>
+      <population annee="2010">27565821</population>
+      <religions>
+         <musulman>1.6897848273E7</musulman>
+         <autre>9.730734813E6</autre>
+      </religions>
+      <frontiere pays="BRU" longeur="381"/>
+      <frontiere pays="THA" longeur="506"/>
+      <frontiere pays="RI" longeur="1782"/>
+   </pays>
+   <pays code="BRU">
+      <nom>Brunei</nom>
+      <capitale>Bandar Seri Begawan</capitale>
+      <population annee="2011">393372</population>
+      <religions>
+         <musulman>263559.24</musulman>
+         <autre>90475.56</autre>
+      </religions>
+      <ville>
+         <nom>Bandar Seri Begawan</nom>
+         <longitude>114.94</longitude>
+         <latitude>4.89</latitude>
+      </ville>
+      <frontiere pays="MAL" longeur="381"/>
+   </pays>
+   <pays code="SGP">
+      <nom>Singapore</nom>
+      <capitale>Singapore</capitale>
+      <population annee="2010">5076700</population>
+      <religions>
+         <musulman>710738.0000000001</musulman>
+         <autre>3.401389E6</autre>
+      </religions>
+      <ville>
+         <nom>Singapore</nom>
+         <longitude>103.8</longitude>
+         <latitude>1.3</latitude>
+      </ville>
+   </pays>
+   <pays code="RI">
+      <nom>Indonesia</nom>
+      <capitale/>
+      <population annee="2014">252124458</population>
+      <religions>
+         <musulman>2.1934827846E8</musulman>
+         <cretien/>
+         <autre>7.563733739999999E6</autre>
+      </religions>
+      <frontiere pays="MAL" longeur="1782"/>
+      <frontiere pays="PNG" longeur="820"/>
+      <frontiere pays="TL" longeur="228"/>
+   </pays>
+   <pays code="TL">
+      <nom>Timor-Leste</nom>
+      <capitale>Dili</capitale>
+      <population annee="2010">1066582</population>
+      <religions>
+         <musulman>10665.82</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Dili</nom>
+         <longitude>125.6</longitude>
+         <latitude>-8.6</latitude>
+      </ville>
+      <frontiere pays="RI" longeur="228"/>
+   </pays>
+   <pays code="PNG">
+      <nom>Papua New Guinea</nom>
+      <capitale/>
+      <population annee="2011">7275324</population>
+      <religions>
+         <cretien/>
+         <autre>21825.972</autre>
+      </religions>
+      <frontiere pays="RI" longeur="820"/>
+   </pays>
+   <pays code="SOL">
+      <nom>Solomon Islands</nom>
+      <capitale>Honiara</capitale>
+      <population annee="2009">515870</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Honiara</nom>
+         <longitude>159.95</longitude>
+         <latitude>-9.43</latitude>
+      </ville>
+   </pays>
+   <pays code="VU">
+      <nom>Vanuatu</nom>
+      <capitale>Port Vila</capitale>
+      <population annee="2010">236299</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Port Vila</nom>
+         <longitude>168.3</longitude>
+         <latitude>-17.75</latitude>
+      </ville>
+   </pays>
+   <pays code="NCL">
+      <nom>New Caledonia</nom>
+      <capitale>Noumea</capitale>
+      <population annee="2019">271407</population>
+      <religions>
+         <musulman>7056.582</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Noumea</nom>
+         <longitude>166.46</longitude>
+         <latitude>-22.28</latitude>
+      </ville>
+   </pays>
+   <pays code="AUS">
+      <nom>Australia</nom>
+      <capitale/>
+      <population annee="2013">23135281</population>
+      <religions>
+         <musulman>601517.3060000001</musulman>
+         <cretien>1.1104934879999999E7</cretien>
+         <juif>92541.124</juif>
+         <autre>1.1104934880000001E6</autre>
+      </religions>
+   </pays>
+   <pays code="XMAS">
+      <nom>Christmas Island</nom>
+      <capitale>Flying Fish Cove</capitale>
+      <population annee="2016">1843</population>
+      <religions>
+         <musulman>357.542</musulman>
+         <cretien/>
+         <autre>337.269</autre>
+      </religions>
+      <ville>
+         <nom>Flying Fish Cove</nom>
+         <longitude>105.43</longitude>
+         <latitude>-10.25</latitude>
+      </ville>
+   </pays>
+   <pays code="COCO">
+      <nom>Cocos Islands</nom>
+      <capitale>West Island</capitale>
+      <population annee="2016">544</population>
+      <religions>
+         <musulman>408</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>West Island</nom>
+         <longitude>96.50</longitude>
+         <latitude>-12.10</latitude>
+      </ville>
+   </pays>
+   <pays code="NORF">
+      <nom>Norfolk Island</nom>
+      <capitale>Kingston</capitale>
+      <population annee="2016">1748</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Kingston</nom>
+         <longitude>168</longitude>
+         <latitude>-29</latitude>
+      </ville>
+   </pays>
+   <pays code="NZ">
+      <nom>New Zealand</nom>
+      <capitale>Wellington</capitale>
+      <population annee="2013">4242048</population>
+      <religions>
+         <cretien/>
+         <autre>123019.39200000002</autre>
+      </religions>
+      <ville>
+         <nom>Wellington</nom>
+         <longitude>174.78</longitude>
+         <latitude>-41.29</latitude>
+      </ville>
+      <ville>
+         <nom>Auckland</nom>
+         <longitude>174.74</longitude>
+         <latitude>-36.84</latitude>
+      </ville>
+      <ville>
+         <nom>Hamilton</nom>
+         <longitude>175.28</longitude>
+         <latitude>-37.78</latitude>
+      </ville>
+      <ville>
+         <nom>Christchurch</nom>
+         <longitude>172.62</longitude>
+         <latitude>-43.53</latitude>
+      </ville>
+      <ville>
+         <nom>Dunedin</nom>
+         <longitude>170.5</longitude>
+         <latitude>-45.87</latitude>
+      </ville>
+   </pays>
+   <pays code="PAL">
+      <nom>Palau</nom>
+      <capitale>Ngerulmud</capitale>
+      <population annee="2012">17501</population>
+      <religions>
+         <musulman>525.03</musulman>
+         <cretien/>
+         <autre>455.02600000000007</autre>
+      </religions>
+      <ville>
+         <nom>Koror</nom>
+         <longitude>134.48</longitude>
+         <latitude>7.36</latitude>
+      </ville>
+      <ville>
+         <nom>Ngerulmud</nom>
+         <longitude>134.61</longitude>
+         <latitude>7.50</latitude>
+      </ville>
+   </pays>
+   <pays code="NMIS">
+      <nom>Northern Mariana Islands</nom>
+      <capitale>Saipan</capitale>
+      <population annee="2010">53883</population>
+      <religions>
+         <cretien/>
+         <autre>5711.598</autre>
+      </religions>
+      <ville>
+         <nom>Saipan</nom>
+         <longitude>145.76</longitude>
+         <latitude>15.18</latitude>
+      </ville>
+   </pays>
+   <pays code="GUAM">
+      <nom>Guam</nom>
+      <capitale>Hagåtña</capitale>
+      <population annee="2010">159358</population>
+      <religions>
+         <cretien/>
+         <autre>1752.938</autre>
+      </religions>
+      <ville>
+         <nom>Hagåtña</nom>
+         <longitude>144.75</longitude>
+         <latitude>13.48</latitude>
+      </ville>
+      <ville>
+         <nom>Dededo</nom>
+         <longitude>144.83</longitude>
+         <latitude>13.52</latitude>
+      </ville>
+   </pays>
+   <pays code="FSM">
+      <nom>Micronesia</nom>
+      <capitale>Palikir</capitale>
+      <population annee="2010">102843</population>
+      <religions>
+         <cretien/>
+         <autre>1542.645</autre>
+      </religions>
+      <ville>
+         <nom>Palikir</nom>
+         <longitude>158.2</longitude>
+         <latitude>7</latitude>
+      </ville>
+   </pays>
+   <pays code="MH">
+      <nom>Marshall Islands</nom>
+      <capitale>Majuro</capitale>
+      <population annee="2011">53158</population>
+      <religions>
+         <cretien/>
+         <autre>6272.643999999999</autre>
+      </religions>
+      <ville>
+         <nom>Majuro</nom>
+         <longitude>171.27</longitude>
+         <latitude>7.07</latitude>
+      </ville>
+   </pays>
+   <pays code="NAU">
+      <nom>Nauru</nom>
+      <capitale>Yaren</capitale>
+      <population annee="2010">10025</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Yaren</nom>
+         <longitude>166.92</longitude>
+         <latitude>-0.55</latitude>
+      </ville>
+   </pays>
+   <pays code="KIR">
+      <nom>Kiribati</nom>
+      <capitale>Tarawa</capitale>
+      <population annee="2015">110136</population>
+      <religions>
+         <cretien/>
+         <autre>8150.064000000001</autre>
+      </religions>
+      <ville>
+         <nom>Tarawa</nom>
+         <longitude>173</longitude>
+         <latitude>1.43</latitude>
+      </ville>
+   </pays>
+   <pays code="TUV">
+      <nom>Tuvalu</nom>
+      <capitale>Funafuti</capitale>
+      <population annee="2017">11192</population>
+      <religions>
+         <cretien/>
+         <autre>481.256</autre>
+      </religions>
+      <ville>
+         <nom>Funafuti</nom>
+         <longitude>179.2</longitude>
+         <latitude>-8.52</latitude>
+      </ville>
+   </pays>
+   <pays code="TOK">
+      <nom>Tokelau</nom>
+      <capitale>Fakaofo</capitale>
+      <population annee="2016">1499</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Fakaofo</nom>
+         <longitude>-171.21</longitude>
+         <latitude>-9.37</latitude>
+      </ville>
+   </pays>
+   <pays code="WS">
+      <nom>Samoa</nom>
+      <capitale>Apia</capitale>
+      <population annee="2016">194320</population>
+      <religions>
+         <cretien/>
+         <autre>35949.2</autre>
+      </religions>
+      <ville>
+         <nom>Apia</nom>
+         <longitude>-171.75</longitude>
+         <latitude>-13.83</latitude>
+      </ville>
+   </pays>
+   <pays code="AMSA">
+      <nom>American Samoa</nom>
+      <capitale>Pago Pago</capitale>
+      <population annee="2010">55519</population>
+      <religions>
+         <cretien/>
+         <autre>12769.37</autre>
+      </religions>
+      <ville>
+         <nom>Pago Pago</nom>
+         <longitude>-170.7</longitude>
+         <latitude>-14.28</latitude>
+      </ville>
+   </pays>
+   <pays code="WF">
+      <nom>Wallis and Futuna</nom>
+      <capitale>Mata-Utu</capitale>
+      <population annee="2018">11558</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Mata-Utu</nom>
+         <longitude>-176.18</longitude>
+         <latitude>-13.28</latitude>
+      </ville>
+   </pays>
+   <pays code="FJI">
+      <nom>Fiji</nom>
+      <capitale>Suva</capitale>
+      <population annee="2017">884887</population>
+      <religions>
+         <musulman>55747.881</musulman>
+         <cretien/>
+         <autre>260156.778</autre>
+      </religions>
+      <ville>
+         <nom>Suva</nom>
+         <longitude>178.44</longitude>
+         <latitude>-18.14</latitude>
+      </ville>
+   </pays>
+   <pays code="TO">
+      <nom>Tonga</nom>
+      <capitale>Nukualofa</capitale>
+      <population annee="2016">100651</population>
+      <religions>
+         <cretien/>
+         <autre>18721.086000000003</autre>
+      </religions>
+      <ville>
+         <nom>Nukualofa</nom>
+         <longitude>-175.2</longitude>
+         <latitude>-21.13</latitude>
+      </ville>
+   </pays>
+   <pays code="NIUE">
+      <nom>Niue</nom>
+      <capitale>Alofi</capitale>
+      <population annee="2011">1611</population>
+      <religions>
+         <cretien/>
+         <autre>193.32</autre>
+      </religions>
+      <ville>
+         <nom>Alofi</nom>
+         <longitude>-169.9</longitude>
+         <latitude>-19.05</latitude>
+      </ville>
+   </pays>
+   <pays code="COOK">
+      <nom>Cook Islands</nom>
+      <capitale>Avarua</capitale>
+      <population annee="2016">17459</population>
+      <religions>
+         <cretien/>
+         <autre>768.196</autre>
+      </religions>
+      <ville>
+         <nom>Avarua</nom>
+         <longitude>-159.46</longitude>
+         <latitude>-21.12</latitude>
+      </ville>
+   </pays>
+   <pays code="FPOL">
+      <nom>French Polynesia</nom>
+      <capitale>Papeete</capitale>
+      <population annee="2017">275918</population>
+      <religions>
+         <cretien/>
+         <autre>30626.898</autre>
+      </religions>
+      <ville>
+         <nom>Papeete</nom>
+         <longitude>-149.57</longitude>
+         <latitude>-17.53</latitude>
+      </ville>
+      <ville>
+         <nom>Rikitea</nom>
+         <longitude>-134.98</longitude>
+         <latitude>-23.25</latitude>
+      </ville>
+   </pays>
+   <pays code="PITC">
+      <nom>Pitcairn</nom>
+      <capitale>Adamstown</capitale>
+      <population annee="2020">50</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Adamstown</nom>
+         <longitude>-130.05</longitude>
+         <latitude>-25.04</latitude>
+      </ville>
+   </pays>
+   <pays code="ET">
+      <nom>Egypt</nom>
+      <capitale>Al Qahirah</capitale>
+      <population annee="2017">94798827</population>
+      <religions>
+         <musulman>8.53189443E7</musulman>
+         <cretien/>
+         <autre>8.057900295000001E6</autre>
+      </religions>
+      <ville>
+         <nom>Hurghada</nom>
+         <longitude>33.81</longitude>
+         <latitude>27.26</latitude>
+      </ville>
+      <ville>
+         <nom>Marsa Matruh</nom>
+         <longitude>27.22</longitude>
+         <latitude>31.33</latitude>
+      </ville>
+      <ville>
+         <nom>Damanhur</nom>
+         <longitude>30.47</longitude>
+         <latitude>31.04</latitude>
+      </ville>
+      <ville>
+         <nom>Kafr ad Dawwar</nom>
+         <longitude>30.13</longitude>
+         <latitude>31.13</latitude>
+      </ville>
+      <ville>
+         <nom>Al Mansurah</nom>
+         <longitude>31.68</longitude>
+         <latitude>31.07</latitude>
+      </ville>
+      <ville>
+         <nom>Tanta</nom>
+         <longitude>31</longitude>
+         <latitude>30.78</latitude>
+      </ville>
+      <ville>
+         <nom>Al Mahallah al Kubra</nom>
+         <longitude>31.16</longitude>
+         <latitude>30.97</latitude>
+      </ville>
+      <ville>
+         <nom>Al Ismailiyah</nom>
+         <longitude>32.27</longitude>
+         <latitude>30.58</latitude>
+      </ville>
+      <ville>
+         <nom>Shibin al Kum</nom>
+         <longitude>31.01</longitude>
+         <latitude>30.56</latitude>
+      </ville>
+      <ville>
+         <nom>Banha</nom>
+         <longitude>31.19</longitude>
+         <latitude>30.46</latitude>
+      </ville>
+      <ville>
+         <nom>Shubra al Khimah</nom>
+         <longitude>31.24</longitude>
+         <latitude>30.13</latitude>
+      </ville>
+      <ville>
+         <nom>Az Zaqaziq</nom>
+         <longitude>31.5</longitude>
+         <latitude>30.57</latitude>
+      </ville>
+      <ville>
+         <nom>Aswan</nom>
+         <longitude>32.9</longitude>
+         <latitude>24.09</latitude>
+      </ville>
+      <ville>
+         <nom>Asyut</nom>
+         <longitude>31.17</longitude>
+         <latitude>27.18</latitude>
+      </ville>
+      <ville>
+         <nom>Bani Suwayf</nom>
+         <longitude>31.08</longitude>
+         <latitude>29.07</latitude>
+      </ville>
+      <ville>
+         <nom>Al Fayyum</nom>
+         <longitude>30.84</longitude>
+         <latitude>29.31</latitude>
+      </ville>
+      <ville>
+         <nom>Al Jizah</nom>
+         <longitude>31.22</longitude>
+         <latitude>30.02</latitude>
+      </ville>
+      <ville>
+         <nom>Al Minya</nom>
+         <longitude>30.74</longitude>
+         <latitude>28.12</latitude>
+      </ville>
+      <ville>
+         <nom>Qina</nom>
+         <longitude>32.73</longitude>
+         <latitude>26.17</latitude>
+      </ville>
+      <ville>
+         <nom>Al Uqsur</nom>
+         <longitude>32.65</longitude>
+         <latitude>25.68</latitude>
+      </ville>
+      <ville>
+         <nom>Suhaj</nom>
+         <longitude>31.7</longitude>
+         <latitude>26.55</latitude>
+      </ville>
+      <ville>
+         <nom>Bur Said</nom>
+         <longitude>32.28</longitude>
+         <latitude>31.25</latitude>
+      </ville>
+      <ville>
+         <nom>Al Iskandariyah</nom>
+         <longitude>29.92</longitude>
+         <latitude>31.2</latitude>
+      </ville>
+      <ville>
+         <nom>Al Qahirah</nom>
+         <longitude>31.23</longitude>
+         <latitude>30.05</latitude>
+      </ville>
+      <ville>
+         <nom>As Suways</nom>
+         <longitude>32.55</longitude>
+         <latitude>29.97</latitude>
+      </ville>
+      <frontiere pays="GAZA" longeur="11"/>
+      <frontiere pays="IL" longeur="255"/>
+      <frontiere pays="LAR" longeur="1150"/>
+      <frontiere pays="SUD" longeur="1273"/>
+   </pays>
+   <pays code="LAR">
+      <nom>Libya</nom>
+      <capitale>Tripoli</capitale>
+      <population annee="2010">6040612</population>
+      <religions>
+         <musulman>5.85939364E6</musulman>
+         <cretien/>
+         <autre>60406.12</autre>
+      </religions>
+      <ville>
+         <nom>Tripoli</nom>
+         <longitude>13.19</longitude>
+         <latitude>32.9</latitude>
+      </ville>
+      <ville>
+         <nom>Benghazi</nom>
+         <longitude>20.07</longitude>
+         <latitude>32.12</latitude>
+      </ville>
+      <ville>
+         <nom>Misratah</nom>
+         <longitude>15.09</longitude>
+         <latitude>32.38</latitude>
+      </ville>
+      <frontiere pays="ET" longeur="1150"/>
+      <frontiere pays="DZ" longeur="982"/>
+      <frontiere pays="RN" longeur="354"/>
+      <frontiere pays="TN" longeur="459"/>
+      <frontiere pays="TCH" longeur="1055"/>
+      <frontiere pays="SUD" longeur="383"/>
+   </pays>
+   <pays code="TN">
+      <nom>Tunisia</nom>
+      <capitale>Tunis</capitale>
+      <population annee="2014">10982754</population>
+      <religions>
+         <musulman>1.076309892E7</musulman>
+         <autre>109827.54000000001</autre>
+      </religions>
+      <ville>
+         <nom>Tunis</nom>
+         <longitude>10.18</longitude>
+         <latitude>36.8</latitude>
+      </ville>
+      <ville>
+         <nom>Sfax</nom>
+         <longitude>10.77</longitude>
+         <latitude>34.73</latitude>
+      </ville>
+      <ville>
+         <nom>Sousse</nom>
+         <longitude>10.63</longitude>
+         <latitude>35.83</latitude>
+      </ville>
+      <frontiere pays="DZ" longeur="965"/>
+      <frontiere pays="LAR" longeur="459"/>
+   </pays>
+   <pays code="DZ">
+      <nom>Algeria</nom>
+      <capitale>Algiers</capitale>
+      <population annee="2010">37062820</population>
+      <religions>
+         <musulman>3.628450078E7</musulman>
+         <juif>37062.82</juif>
+         <autre>370628.2</autre>
+      </religions>
+      <ville>
+         <nom>Algiers</nom>
+         <longitude>3.22</longitude>
+         <latitude>36.77</latitude>
+      </ville>
+      <ville>
+         <nom>Annaba</nom>
+         <longitude>7.77</longitude>
+         <latitude>36.9</latitude>
+      </ville>
+      <ville>
+         <nom>Batna</nom>
+         <longitude>6.17</longitude>
+         <latitude>35.55</latitude>
+      </ville>
+      <ville>
+         <nom>Béchar</nom>
+         <longitude>-2.22</longitude>
+         <latitude>31.62</latitude>
+      </ville>
+      <ville>
+         <nom>Sidi Bel Abbës</nom>
+         <longitude>-0.64</longitude>
+         <latitude>35.19</latitude>
+      </ville>
+      <ville>
+         <nom>Skikda</nom>
+         <longitude>6.9</longitude>
+         <latitude>36.87</latitude>
+      </ville>
+      <ville>
+         <nom>Tébessa</nom>
+         <longitude>8.12</longitude>
+         <latitude>35.4</latitude>
+      </ville>
+      <ville>
+         <nom>Oran</nom>
+         <longitude>-0.63</longitude>
+         <latitude>35.7</latitude>
+      </ville>
+      <ville>
+         <nom>Constantine</nom>
+         <longitude>6.6</longitude>
+         <latitude>36.35</latitude>
+      </ville>
+      <ville>
+         <nom>Sétif</nom>
+         <longitude>5.4</longitude>
+         <latitude>36.18</latitude>
+      </ville>
+      <ville>
+         <nom>Blida</nom>
+         <longitude>2.82</longitude>
+         <latitude>36.47</latitude>
+      </ville>
+      <ville>
+         <nom>Bejaïa</nom>
+         <longitude>5.07</longitude>
+         <latitude>36.75</latitude>
+      </ville>
+      <ville>
+         <nom>Mostaganem</nom>
+         <longitude>0.08</longitude>
+         <latitude>35.93</latitude>
+      </ville>
+      <ville>
+         <nom>Ech Chelif</nom>
+         <longitude>1.3</longitude>
+         <latitude>36.2</latitude>
+      </ville>
+      <ville>
+         <nom>Tlemcen</nom>
+         <longitude>-1.32</longitude>
+         <latitude>34.88</latitude>
+      </ville>
+      <ville>
+         <nom>Tougourt</nom>
+         <longitude>6.07</longitude>
+         <latitude>33.1</latitude>
+      </ville>
+      <ville>
+         <nom>Ghardaïa</nom>
+         <longitude>3.67</longitude>
+         <latitude>32.48</latitude>
+      </ville>
+      <ville>
+         <nom>El Djelfa</nom>
+         <longitude>3.25</longitude>
+         <latitude>34.67</latitude>
+      </ville>
+      <ville>
+         <nom>Biskra</nom>
+         <longitude>5.73</longitude>
+         <latitude>34.85</latitude>
+      </ville>
+      <ville>
+         <nom>Laghouat</nom>
+         <longitude>2.88</longitude>
+         <latitude>33.8</latitude>
+      </ville>
+      <ville>
+         <nom>Tamanrasset</nom>
+         <longitude>5.53</longitude>
+         <latitude>22.79</latitude>
+      </ville>
+      <frontiere pays="LAR" longeur="982"/>
+      <frontiere pays="RMM" longeur="1376"/>
+      <frontiere pays="RIM" longeur="463"/>
+      <frontiere pays="MA" longeur="1559"/>
+      <frontiere pays="RN" longeur="956"/>
+      <frontiere pays="TN" longeur="965"/>
+      <frontiere pays="WSA" longeur="42"/>
+   </pays>
+   <pays code="MA">
+      <nom>Morocco</nom>
+      <capitale/>
+      <population annee="2014">33337529</population>
+      <religions>
+         <musulman>3.2904141123E7</musulman>
+         <autre>366712.819</autre>
+      </religions>
+      <frontiere pays="DZ" longeur="1559"/>
+      <frontiere pays="WSA" longeur="443"/>
+      <frontiere pays="CEU" longeur="6.3"/>
+      <frontiere pays="MEL" longeur="9.6"/>
+   </pays>
+   <pays code="WSA">
+      <nom>Western Sahara</nom>
+      <capitale>El Aaiun</capitale>
+      <population annee="2013">554795</population>
+      <religions>
+         <musulman>554795</musulman>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>El Aaiun</nom>
+         <longitude>-13.2</longitude>
+         <latitude>27.15</latitude>
+      </ville>
+      <frontiere pays="DZ" longeur="42"/>
+      <frontiere pays="RIM" longeur="1561"/>
+      <frontiere pays="MA" longeur="443"/>
+   </pays>
+   <pays code="RMM">
+      <nom>Mali</nom>
+      <capitale/>
+      <population annee="2009">14528622</population>
+      <religions>
+         <musulman>1.3642376058E7</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="DZ" longeur="1376"/>
+      <frontiere pays="RIM" longeur="2237"/>
+      <frontiere pays="RN" longeur="821"/>
+      <frontiere pays="BF" longeur="1000"/>
+      <frontiere pays="CI" longeur="532"/>
+      <frontiere pays="RG" longeur="858"/>
+      <frontiere pays="SN" longeur="419"/>
+   </pays>
+   <pays code="RIM">
+      <nom>Mauritania</nom>
+      <capitale/>
+      <population annee="2013">3537368</population>
+      <religions>
+         <musulman>3.533830632E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="DZ" longeur="463"/>
+      <frontiere pays="RMM" longeur="2237"/>
+      <frontiere pays="WSA" longeur="1561"/>
+      <frontiere pays="SN" longeur="813"/>
+   </pays>
+   <pays code="SN">
+      <nom>Senegal</nom>
+      <capitale/>
+      <population annee="2013">13508715</population>
+      <religions>
+         <musulman>1.2954857685E7</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="RMM" longeur="419"/>
+      <frontiere pays="RIM" longeur="813"/>
+      <frontiere pays="RG" longeur="330"/>
+      <frontiere pays="WAG" longeur="740"/>
+      <frontiere pays="GUB" longeur="338"/>
+   </pays>
+   <pays code="WAG">
+      <nom>Gambia</nom>
+      <capitale>Banjul</capitale>
+      <population annee="2013">1882450</population>
+      <religions>
+         <musulman>1.8015046500000001E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Banjul</nom>
+         <longitude>-16.58</longitude>
+         <latitude>13.45</latitude>
+      </ville>
+      <ville>
+         <nom>Serekunda</nom>
+         <longitude>-16.68</longitude>
+         <latitude>13.44</latitude>
+      </ville>
+      <frontiere pays="SN" longeur="740"/>
+   </pays>
+   <pays code="GUB">
+      <nom>Guinea-Bissau</nom>
+      <capitale>Bissau</capitale>
+      <population annee="2010">1586624</population>
+      <religions>
+         <musulman>715567.424</musulman>
+         <cretien/>
+         <autre>236406.976</autre>
+      </religions>
+      <ville>
+         <nom>Bissau</nom>
+         <longitude>-15.57</longitude>
+         <latitude>11.85</latitude>
+      </ville>
+      <frontiere pays="RG" longeur="386"/>
+      <frontiere pays="SN" longeur="338"/>
+   </pays>
+   <pays code="RG">
+      <nom>Guinea</nom>
+      <capitale>Conakry</capitale>
+      <population annee="2014">10628972</population>
+      <religions>
+         <musulman>9.470414052E6</musulman>
+         <cretien/>
+         <autre>170063.552</autre>
+      </religions>
+      <ville>
+         <nom>Conakry</nom>
+         <longitude>-13.7</longitude>
+         <latitude>9.52</latitude>
+      </ville>
+      <ville>
+         <nom>N'Zérékoré</nom>
+         <longitude>-8.82</longitude>
+         <latitude>7.75</latitude>
+      </ville>
+      <frontiere pays="RMM" longeur="858"/>
+      <frontiere pays="CI" longeur="610"/>
+      <frontiere pays="LB" longeur="563"/>
+      <frontiere pays="SN" longeur="330"/>
+      <frontiere pays="GUB" longeur="386"/>
+      <frontiere pays="SLE" longeur="652"/>
+   </pays>
+   <pays code="SLE">
+      <nom>Sierra Leone</nom>
+      <capitale>Freetown</capitale>
+      <population annee="2015">5743725</population>
+      <religions>
+         <musulman>4.51456785E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Freetown</nom>
+         <longitude>-13.23</longitude>
+         <latitude>8.48</latitude>
+      </ville>
+      <ville>
+         <nom>Bo</nom>
+         <longitude>-11.74</longitude>
+         <latitude>7.96</latitude>
+      </ville>
+      <ville>
+         <nom>Kenema</nom>
+         <longitude>-11.19</longitude>
+         <latitude>7.87</latitude>
+      </ville>
+      <frontiere pays="RG" longeur="652"/>
+      <frontiere pays="LB" longeur="306"/>
+   </pays>
+   <pays code="LB">
+      <nom>Liberia</nom>
+      <capitale>Monrovia</capitale>
+      <population annee="2010">3957990</population>
+      <religions>
+         <musulman>482874.77999999997</musulman>
+         <cretien/>
+         <autre>19789.95</autre>
+      </religions>
+      <ville>
+         <nom>Monrovia</nom>
+         <longitude>-10.8</longitude>
+         <latitude>6.31</latitude>
+      </ville>
+      <frontiere pays="CI" longeur="716"/>
+      <frontiere pays="RG" longeur="563"/>
+      <frontiere pays="SLE" longeur="306"/>
+   </pays>
+   <pays code="BF">
+      <nom>Burkina Faso</nom>
+      <capitale>Ouagadougou</capitale>
+      <population annee="2013">17322796</population>
+      <religions>
+         <musulman>1.048029158E7</musulman>
+         <cretien/>
+         <autre>1.351178088E6</autre>
+      </religions>
+      <ville>
+         <nom>Ouagadougou</nom>
+         <longitude>-1.54</longitude>
+         <latitude>12.36</latitude>
+      </ville>
+      <ville>
+         <nom>Bobo Dioulasso</nom>
+         <longitude>-4.28</longitude>
+         <latitude>11.18</latitude>
+      </ville>
+      <frontiere pays="RMM" longeur="1000"/>
+      <frontiere pays="RN" longeur="628"/>
+      <frontiere pays="BEN" longeur="306"/>
+      <frontiere pays="RT" longeur="126"/>
+      <frontiere pays="CI" longeur="584"/>
+      <frontiere pays="GH" longeur="548"/>
+   </pays>
+   <pays code="CI">
+      <nom>Cote d'Ivoire</nom>
+      <capitale/>
+      <population annee="2014">22671331</population>
+      <religions>
+         <musulman>9.726000999E6</musulman>
+         <cretien/>
+         <autre>2.697888389E6</autre>
+      </religions>
+      <frontiere pays="RMM" longeur="532"/>
+      <frontiere pays="BF" longeur="584"/>
+      <frontiere pays="GH" longeur="668"/>
+      <frontiere pays="RG" longeur="610"/>
+      <frontiere pays="LB" longeur="716"/>
+   </pays>
+   <pays code="GH">
+      <nom>Ghana</nom>
+      <capitale/>
+      <population annee="2010">24658823</population>
+      <religions>
+         <musulman>4.339952848E6</musulman>
+         <cretien/>
+         <autre>1.282258796E6</autre>
+      </religions>
+      <frontiere pays="BF" longeur="548"/>
+      <frontiere pays="RT" longeur="877"/>
+      <frontiere pays="CI" longeur="668"/>
+   </pays>
+   <pays code="RT">
+      <nom>Togo</nom>
+      <capitale>Lomé</capitale>
+      <population annee="2010">6191155</population>
+      <religions>
+         <musulman>1.238231E6</musulman>
+         <cretien/>
+         <autre>681027.05</autre>
+      </religions>
+      <ville>
+         <nom>Lomé</nom>
+         <longitude>1.22</longitude>
+         <latitude>6.13</latitude>
+      </ville>
+      <frontiere pays="BEN" longeur="644"/>
+      <frontiere pays="BF" longeur="126"/>
+      <frontiere pays="GH" longeur="877"/>
+   </pays>
+   <pays code="BEN">
+      <nom>Benin</nom>
+      <capitale>Porto-Novo</capitale>
+      <population annee="2013">9983884</population>
+      <religions>
+         <musulman>2.765535868E6</musulman>
+         <cretien/>
+         <autre>1.158130544E6</autre>
+      </religions>
+      <ville>
+         <nom>Porto-Novo</nom>
+         <longitude>2.61</longitude>
+         <latitude>6.5</latitude>
+      </ville>
+      <ville>
+         <nom>Cotonou</nom>
+         <longitude>2.43</longitude>
+         <latitude>6.37</latitude>
+      </ville>
+      <ville>
+         <nom>Abomey-Calavi</nom>
+         <longitude>2.36</longitude>
+         <latitude>6.45</latitude>
+      </ville>
+      <ville>
+         <nom>Djougou</nom>
+         <longitude>1.67</longitude>
+         <latitude>9.7</latitude>
+      </ville>
+      <frontiere pays="RN" longeur="266"/>
+      <frontiere pays="BF" longeur="306"/>
+      <frontiere pays="NGR" longeur="773"/>
+      <frontiere pays="RT" longeur="644"/>
+   </pays>
+   <pays code="NGR">
+      <nom>Nigeria</nom>
+      <capitale/>
+      <population annee="2016">193392500</population>
+      <religions>
+         <musulman>1.034649875E8</musulman>
+         <cretien/>
+         <autre>2.7074949999999995E6</autre>
+      </religions>
+      <frontiere pays="RN" longeur="1497"/>
+      <frontiere pays="BEN" longeur="773"/>
+      <frontiere pays="CAM" longeur="1690"/>
+      <frontiere pays="TCH" longeur="87"/>
+   </pays>
+   <pays code="RN">
+      <nom>Niger</nom>
+      <capitale/>
+      <population annee="2012">17138707</population>
+      <religions>
+         <musulman>1.7018736051E7</musulman>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="DZ" longeur="956"/>
+      <frontiere pays="LAR" longeur="354"/>
+      <frontiere pays="RMM" longeur="821"/>
+      <frontiere pays="BEN" longeur="266"/>
+      <frontiere pays="BF" longeur="628"/>
+      <frontiere pays="NGR" longeur="1497"/>
+      <frontiere pays="TCH" longeur="1175"/>
+   </pays>
+   <pays code="TCH">
+      <nom>Chad</nom>
+      <capitale>N'Djamena</capitale>
+      <population annee="2010">11720781</population>
+      <religions>
+         <musulman>6.106526901000001E6</musulman>
+         <cretien/>
+         <autre>468831.24</autre>
+      </religions>
+      <ville>
+         <nom>N'Djamena</nom>
+         <longitude>15.05</longitude>
+         <latitude>12.11</latitude>
+      </ville>
+      <ville>
+         <nom>Moundou</nom>
+         <longitude>16.1</longitude>
+         <latitude>8.56</latitude>
+      </ville>
+      <frontiere pays="LAR" longeur="1055"/>
+      <frontiere pays="RN" longeur="1175"/>
+      <frontiere pays="NGR" longeur="87"/>
+      <frontiere pays="CAM" longeur="1094"/>
+      <frontiere pays="RCA" longeur="1197"/>
+      <frontiere pays="SUD" longeur="1360"/>
+   </pays>
+   <pays code="SUD">
+      <nom>Sudan</nom>
+      <capitale/>
+      <population annee="2017">40782700</population>
+      <religions>
+         <musulman>3.9559219E7</musulman>
+         <autre>815654</autre>
+      </religions>
+      <frontiere pays="ET" longeur="1273"/>
+      <frontiere pays="LAR" longeur="383"/>
+      <frontiere pays="RCA" longeur="175"/>
+      <frontiere pays="TCH" longeur="1360"/>
+      <frontiere pays="ER" longeur="605"/>
+      <frontiere pays="ETH" longeur="769"/>
+      <frontiere pays="SSD" longeur="2184"/>
+   </pays>
+   <pays code="SSD">
+      <nom>South Sudan</nom>
+      <capitale>Juba</capitale>
+      <population annee="2008">8260490</population>
+      <religions>
+         <musulman>181730.78000000003</musulman>
+         <cretien/>
+         <autre>1.7347029E6</autre>
+      </religions>
+      <ville>
+         <nom>Juba</nom>
+         <longitude>31.6</longitude>
+         <latitude>4.85</latitude>
+      </ville>
+      <frontiere pays="CGO" longeur="639"/>
+      <frontiere pays="RCA" longeur="989"/>
+      <frontiere pays="ETH" longeur="934"/>
+      <frontiere pays="EAK" longeur="232"/>
+      <frontiere pays="EAU" longeur="435"/>
+      <frontiere pays="SUD" longeur="2184"/>
+   </pays>
+   <pays code="RCA">
+      <nom>Central African Republic</nom>
+      <capitale>Bangui</capitale>
+      <population annee="2010">4349921</population>
+      <religions>
+         <musulman>434992.10000000003</musulman>
+         <cretien/>
+         <autre>417592.416</autre>
+      </religions>
+      <ville>
+         <nom>Bangui</nom>
+         <longitude>18.58</longitude>
+         <latitude>4.37</latitude>
+      </ville>
+      <ville>
+         <nom>Bimbo</nom>
+         <longitude>18.4</longitude>
+         <latitude>4.26</latitude>
+      </ville>
+      <frontiere pays="RCB" longeur="467"/>
+      <frontiere pays="CGO" longeur="1577"/>
+      <frontiere pays="CAM" longeur="797"/>
+      <frontiere pays="TCH" longeur="1197"/>
+      <frontiere pays="SUD" longeur="175"/>
+      <frontiere pays="SSD" longeur="989"/>
+   </pays>
+   <pays code="CAM">
+      <nom>Cameroon</nom>
+      <capitale/>
+      <population annee="2010">19406100</population>
+      <religions>
+         <musulman>4.0558749E6</musulman>
+         <cretien>1.26527772E7</cretien>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="RCB" longeur="523"/>
+      <frontiere pays="NGR" longeur="1690"/>
+      <frontiere pays="RCA" longeur="797"/>
+      <frontiere pays="TCH" longeur="1094"/>
+      <frontiere pays="GQ" longeur="189"/>
+      <frontiere pays="G" longeur="298"/>
+   </pays>
+   <pays code="GQ">
+      <nom>Equatorial Guinea</nom>
+      <capitale/>
+      <population annee="2015">1222442</population>
+      <religions>
+         <musulman>24448.84</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="CAM" longeur="189"/>
+      <frontiere pays="G" longeur="350"/>
+   </pays>
+   <pays code="G">
+      <nom>Gabon</nom>
+      <capitale>Libreville</capitale>
+      <population annee="2013">1811079</population>
+      <religions>
+         <musulman>217329.47999999998</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Libreville</nom>
+         <longitude>9.45</longitude>
+         <latitude>0.39</latitude>
+      </ville>
+      <ville>
+         <nom>Port-Gentil</nom>
+         <longitude>8.78</longitude>
+         <latitude>-0.72</latitude>
+      </ville>
+      <ville>
+         <nom>Franceville</nom>
+         <longitude>13.58</longitude>
+         <latitude>-1.63</latitude>
+      </ville>
+      <frontiere pays="RCB" longeur="1903"/>
+      <frontiere pays="CAM" longeur="298"/>
+      <frontiere pays="GQ" longeur="350"/>
+   </pays>
+   <pays code="RCB">
+      <nom>Congo</nom>
+      <capitale/>
+      <population annee="2010">4001831</population>
+      <religions>
+         <musulman>64029.296</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="ANG" longeur="201"/>
+      <frontiere pays="CGO" longeur="2410"/>
+      <frontiere pays="CAM" longeur="523"/>
+      <frontiere pays="RCA" longeur="467"/>
+      <frontiere pays="G" longeur="1903"/>
+   </pays>
+   <pays code="CGO">
+      <nom>Congo, Dem.Rep.</nom>
+      <capitale/>
+      <population annee="2015">86026000</population>
+      <religions>
+         <musulman>1.806546E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="ANG" longeur="2511"/>
+      <frontiere pays="RCB" longeur="2410"/>
+      <frontiere pays="Z" longeur="1930"/>
+      <frontiere pays="BI" longeur="233"/>
+      <frontiere pays="RWA" longeur="217"/>
+      <frontiere pays="RCA" longeur="1577"/>
+      <frontiere pays="SSD" longeur="639"/>
+      <frontiere pays="EAU" longeur="765"/>
+      <frontiere pays="EAT" longeur="459"/>
+   </pays>
+   <pays code="ANG">
+      <nom>Angola</nom>
+      <capitale/>
+      <population annee="2014">25789024</population>
+      <religions>
+         <musulman>103156.096</musulman>
+         <cretien/>
+         <juif>51578.048</juif>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="RCB" longeur="201"/>
+      <frontiere pays="NAM" longeur="1376"/>
+      <frontiere pays="CGO" longeur="2511"/>
+      <frontiere pays="Z" longeur="1110"/>
+   </pays>
+   <pays code="NAM">
+      <nom>Namibia</nom>
+      <capitale>Windhoek</capitale>
+      <population annee="2011">2113077</population>
+      <religions>
+         <musulman>10565.385</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Windhoek</nom>
+         <longitude>17.08</longitude>
+         <latitude>-22.57</latitude>
+      </ville>
+      <ville>
+         <nom>Rundu</nom>
+         <longitude>19.75</longitude>
+         <latitude>-17.9</latitude>
+      </ville>
+      <ville>
+         <nom>Walvis Bay</nom>
+         <longitude>14.5</longitude>
+         <latitude>-22.95</latitude>
+      </ville>
+      <frontiere pays="ANG" longeur="1376"/>
+      <frontiere pays="Z" longeur="233"/>
+      <frontiere pays="RB" longeur="1360"/>
+      <frontiere pays="RSA" longeur="855"/>
+   </pays>
+   <pays code="RB">
+      <nom>Botswana</nom>
+      <capitale>Gaborone</capitale>
+      <population annee="2011">2038228</population>
+      <religions>
+         <musulman>4076.456</musulman>
+         <cretien/>
+         <autre>2038.228</autre>
+      </religions>
+      <ville>
+         <nom>Gaborone</nom>
+         <longitude>25.91</longitude>
+         <latitude>-24.66</latitude>
+      </ville>
+      <ville>
+         <nom>Francistown</nom>
+         <longitude>27.51</longitude>
+         <latitude>-21.17</latitude>
+      </ville>
+      <frontiere pays="NAM" longeur="1360"/>
+      <frontiere pays="RSA" longeur="1840"/>
+      <frontiere pays="ZW" longeur="813"/>
+   </pays>
+   <pays code="RSA">
+      <nom>South Africa</nom>
+      <capitale/>
+      <population annee="2011">51770560</population>
+      <religions>
+         <musulman>880099.52</musulman>
+         <cretien/>
+         <juif>103541.12</juif>
+         <autre>673017.28</autre>
+      </religions>
+      <frontiere pays="NAM" longeur="855"/>
+      <frontiere pays="RB" longeur="1840"/>
+      <frontiere pays="ZW" longeur="225"/>
+      <frontiere pays="LS" longeur="909"/>
+      <frontiere pays="MOC" longeur="491"/>
+      <frontiere pays="SD" longeur="430"/>
+   </pays>
+   <pays code="LS">
+      <nom>Lesotho</nom>
+      <capitale>Maseru</capitale>
+      <population annee="2016">2007201</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Maseru</nom>
+         <longitude>27.48</longitude>
+         <latitude>-29.31</latitude>
+      </ville>
+      <frontiere pays="RSA" longeur="909"/>
+   </pays>
+   <pays code="SD">
+      <nom>Eswatini</nom>
+      <capitale>Mbabane</capitale>
+      <population annee="2010">1193148</population>
+      <religions>
+         <musulman>23862.96</musulman>
+         <cretien/>
+         <autre>8352.035999999998</autre>
+      </religions>
+      <ville>
+         <nom>Mbabane</nom>
+         <longitude>31.13</longitude>
+         <latitude>-26.32</latitude>
+      </ville>
+      <frontiere pays="RSA" longeur="430"/>
+      <frontiere pays="MOC" longeur="105"/>
+   </pays>
+   <pays code="MOC">
+      <nom>Mozambique</nom>
+      <capitale/>
+      <population annee="2012">23700715</population>
+      <religions>
+         <musulman>4.479435135E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="Z" longeur="419"/>
+      <frontiere pays="RSA" longeur="491"/>
+      <frontiere pays="ZW" longeur="1231"/>
+      <frontiere pays="EAT" longeur="756"/>
+      <frontiere pays="MW" longeur="1569"/>
+      <frontiere pays="SD" longeur="105"/>
+   </pays>
+   <pays code="ZW">
+      <nom>Zimbabwe</nom>
+      <capitale>Harare</capitale>
+      <population annee="2012">13061239</population>
+      <religions>
+         <musulman>65306.195</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Harare</nom>
+         <longitude>31.03</longitude>
+         <latitude>-17.86</latitude>
+      </ville>
+      <ville>
+         <nom>Bulawayo</nom>
+         <longitude>28.58</longitude>
+         <latitude>-20.17</latitude>
+      </ville>
+      <ville>
+         <nom>Chitungwiza</nom>
+         <longitude>31.05</longitude>
+         <latitude>-17.99</latitude>
+      </ville>
+      <frontiere pays="Z" longeur="797"/>
+      <frontiere pays="RB" longeur="813"/>
+      <frontiere pays="RSA" longeur="225"/>
+      <frontiere pays="MOC" longeur="1231"/>
+   </pays>
+   <pays code="Z">
+      <nom>Zambia</nom>
+      <capitale/>
+      <population annee="2010">13092666</population>
+      <religions>
+         <musulman>65463.33</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="ANG" longeur="1110"/>
+      <frontiere pays="NAM" longeur="233"/>
+      <frontiere pays="CGO" longeur="1930"/>
+      <frontiere pays="ZW" longeur="797"/>
+      <frontiere pays="EAT" longeur="338"/>
+      <frontiere pays="MW" longeur="837"/>
+      <frontiere pays="MOC" longeur="419"/>
+   </pays>
+   <pays code="MW">
+      <nom>Malawi</nom>
+      <capitale>Lilongwe</capitale>
+      <population annee="2018">17563749</population>
+      <religions>
+         <musulman>2.423797362E6</musulman>
+         <cretien/>
+         <autre>105382.494</autre>
+      </religions>
+      <ville>
+         <nom>Lilongwe</nom>
+         <longitude>33.78</longitude>
+         <latitude>-13.98</latitude>
+      </ville>
+      <ville>
+         <nom>Blantyre</nom>
+         <longitude>35.01</longitude>
+         <latitude>-15.79</latitude>
+      </ville>
+      <frontiere pays="Z" longeur="837"/>
+      <frontiere pays="EAT" longeur="475"/>
+      <frontiere pays="MOC" longeur="1569"/>
+   </pays>
+   <pays code="EAT">
+      <nom>Tanzania</nom>
+      <capitale/>
+      <population annee="2012">44928923</population>
+      <religions>
+         <musulman>1.5814980896000002E7</musulman>
+         <cretien>2.6148633186000004E7</cretien>
+         <autre>898578.46</autre>
+      </religions>
+      <frontiere pays="CGO" longeur="459"/>
+      <frontiere pays="Z" longeur="338"/>
+      <frontiere pays="BI" longeur="451"/>
+      <frontiere pays="RWA" longeur="217"/>
+      <frontiere pays="EAK" longeur="769"/>
+      <frontiere pays="EAU" longeur="396"/>
+      <frontiere pays="MW" longeur="475"/>
+      <frontiere pays="MOC" longeur="756"/>
+   </pays>
+   <pays code="BI">
+      <nom>Burundi</nom>
+      <capitale>Gitega</capitale>
+      <population annee="2010">8444784</population>
+      <religions>
+         <musulman>253343.52</musulman>
+         <cretien/>
+         <autre>422239.2</autre>
+      </religions>
+      <ville>
+         <nom>Bujumbura</nom>
+         <longitude>29.37</longitude>
+         <latitude>-3.38</latitude>
+      </ville>
+      <ville>
+         <nom>Gitega</nom>
+         <longitude>29.93</longitude>
+         <latitude>-3.44</latitude>
+      </ville>
+      <frontiere pays="CGO" longeur="233"/>
+      <frontiere pays="RWA" longeur="290"/>
+      <frontiere pays="EAT" longeur="451"/>
+   </pays>
+   <pays code="RWA">
+      <nom>Rwanda</nom>
+      <capitale>Kigali</capitale>
+      <population annee="2012">10515973</population>
+      <religions>
+         <musulman>210319.46</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Kigali</nom>
+         <longitude>30.06</longitude>
+         <latitude>-1.94</latitude>
+      </ville>
+      <frontiere pays="CGO" longeur="217"/>
+      <frontiere pays="BI" longeur="290"/>
+      <frontiere pays="EAT" longeur="217"/>
+      <frontiere pays="EAU" longeur="169"/>
+   </pays>
+   <pays code="EAU">
+      <nom>Uganda</nom>
+      <capitale/>
+      <population annee="2014">34634650</population>
+      <religions>
+         <musulman>4.74494705E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="CGO" longeur="765"/>
+      <frontiere pays="RWA" longeur="169"/>
+      <frontiere pays="EAT" longeur="396"/>
+      <frontiere pays="SSD" longeur="435"/>
+      <frontiere pays="EAK" longeur="933"/>
+   </pays>
+   <pays code="EAK">
+      <nom>Kenya</nom>
+      <capitale>Nairobi</capitale>
+      <population annee="2010">40909194</population>
+      <religions>
+         <musulman>6.1363791E6</musulman>
+         <cretien>3.1827352932000004E7</cretien>
+         <autre>1.43182179E6</autre>
+      </religions>
+      <ville>
+         <nom>Mombasa</nom>
+         <longitude>39.67</longitude>
+         <latitude>-4.05</latitude>
+      </ville>
+      <ville>
+         <nom>Malindi</nom>
+         <longitude>40.13</longitude>
+         <latitude>-3.22</latitude>
+      </ville>
+      <ville>
+         <nom>Machakos</nom>
+         <longitude>37.27</longitude>
+         <latitude>-1.52</latitude>
+      </ville>
+      <ville>
+         <nom>Nairobi</nom>
+         <longitude>36.82</longitude>
+         <latitude>-1.28</latitude>
+      </ville>
+      <ville>
+         <nom>Kisumu</nom>
+         <longitude>34.75</longitude>
+         <latitude>-0.1</latitude>
+      </ville>
+      <ville>
+         <nom>Nakuru</nom>
+         <longitude>36.07</longitude>
+         <latitude>-0.3</latitude>
+      </ville>
+      <ville>
+         <nom>Eldoret</nom>
+         <longitude>35.28</longitude>
+         <latitude>0.52</latitude>
+      </ville>
+      <frontiere pays="EAT" longeur="769"/>
+      <frontiere pays="SSD" longeur="232"/>
+      <frontiere pays="ETH" longeur="830"/>
+      <frontiere pays="SO" longeur="682"/>
+      <frontiere pays="EAU" longeur="933"/>
+   </pays>
+   <pays code="SO">
+      <nom>Somalia</nom>
+      <capitale>Mogadishu</capitale>
+      <population annee="2017">11000000</population>
+      <religions>
+         <musulman>1.0978E7</musulman>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Mogadishu</nom>
+         <longitude>45.35</longitude>
+         <latitude>2.03</latitude>
+      </ville>
+      <ville>
+         <nom>Hargeisa</nom>
+         <longitude>44.07</longitude>
+         <latitude>9.55</latitude>
+      </ville>
+      <frontiere pays="DJI" longeur="58"/>
+      <frontiere pays="ETH" longeur="1626"/>
+      <frontiere pays="EAK" longeur="682"/>
+   </pays>
+   <pays code="DJI">
+      <nom>Djibouti</nom>
+      <capitale>Djibouti</capitale>
+      <population annee="2010">834036</population>
+      <religions>
+         <musulman>783993.84</musulman>
+         <cretien>40033.728</cretien>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Djibouti</nom>
+         <longitude>43.17</longitude>
+         <latitude>11.6</latitude>
+      </ville>
+      <frontiere pays="ER" longeur="113"/>
+      <frontiere pays="ETH" longeur="337"/>
+      <frontiere pays="SO" longeur="58"/>
+   </pays>
+   <pays code="ETH">
+      <nom>Ethiopia</nom>
+      <capitale/>
+      <population annee="2012">84320987</population>
+      <religions>
+         <musulman>2.8584814593E7</musulman>
+         <cretien>5.2953579836E7</cretien>
+         <juif>590246.909</juif>
+         <autre>2.192345662E6</autre>
+      </religions>
+      <frontiere pays="SUD" longeur="769"/>
+      <frontiere pays="SSD" longeur="934"/>
+      <frontiere pays="DJI" longeur="337"/>
+      <frontiere pays="ER" longeur="912"/>
+      <frontiere pays="SO" longeur="1626"/>
+      <frontiere pays="EAK" longeur="830"/>
+   </pays>
+   <pays code="ER">
+      <nom>Eritrea</nom>
+      <capitale>Asmara</capitale>
+      <population annee="2010">5741159</population>
+      <religions>
+         <musulman>2.75575632E6</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Asmara</nom>
+         <longitude>38.92</longitude>
+         <latitude>15.32</latitude>
+      </ville>
+      <ville>
+         <nom>Massaua</nom>
+         <longitude>39.45</longitude>
+         <latitude>15.61</latitude>
+      </ville>
+      <frontiere pays="SUD" longeur="605"/>
+      <frontiere pays="DJI" longeur="113"/>
+      <frontiere pays="ETH" longeur="912"/>
+   </pays>
+   <pays code="CV">
+      <nom>Cape Verde</nom>
+      <capitale>Praia</capitale>
+      <population annee="2010">491875</population>
+      <religions>
+         <musulman>8853.750000000002</musulman>
+         <cretien/>
+         <autre>7378.125</autre>
+      </religions>
+      <ville>
+         <nom>Praia</nom>
+         <longitude>-23.51</longitude>
+         <latitude>14.92</latitude>
+      </ville>
+   </pays>
+   <pays code="STP">
+      <nom>Sao Tome and Principe</nom>
+      <capitale>São Tomé</capitale>
+      <population annee="2012">187356</population>
+      <religions>
+         <cretien/>
+         <autre>7681.595999999999</autre>
+      </religions>
+      <ville>
+         <nom>São Tomé</nom>
+         <longitude>6.68</longitude>
+         <latitude>0.34</latitude>
+      </ville>
+   </pays>
+   <pays code="SY">
+      <nom>Seychelles</nom>
+      <capitale>Victoria</capitale>
+      <population annee="2010">90945</population>
+      <religions>
+         <musulman>1455.1200000000001</musulman>
+         <cretien/>
+         <autre>2182.68</autre>
+      </religions>
+      <ville>
+         <nom>Victoria</nom>
+         <longitude>55.45</longitude>
+         <latitude>-4.62</latitude>
+      </ville>
+   </pays>
+   <pays code="COM">
+      <nom>Comoros</nom>
+      <capitale>Moroni</capitale>
+      <population annee="2010">683081</population>
+      <religions>
+         <musulman>669419.38</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Moroni</nom>
+         <longitude>43.26</longitude>
+         <latitude>-11.7</latitude>
+      </ville>
+   </pays>
+   <pays code="MAYO">
+      <nom>Mayotte</nom>
+      <capitale>Mamoutzou</capitale>
+      <population annee="2017">256518</population>
+      <religions>
+         <musulman>248822.46</musulman>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Mamoutzou</nom>
+         <longitude>45.13</longitude>
+         <latitude>-12.46</latitude>
+      </ville>
+   </pays>
+   <pays code="RM">
+      <nom>Madagascar</nom>
+      <capitale>Antananarivo</capitale>
+      <population annee="2013">21842167</population>
+      <religions>
+         <musulman>1.5289516900000002E6</musulman>
+         <cretien/>
+         <autre>1.135792684E7</autre>
+      </religions>
+      <ville>
+         <nom>Antsiranana</nom>
+         <longitude>49.28</longitude>
+         <latitude>-12.3</latitude>
+      </ville>
+      <ville>
+         <nom>Antananarivo</nom>
+         <longitude>47.52</longitude>
+         <latitude>-18.93</latitude>
+      </ville>
+      <ville>
+         <nom>Antsirabe</nom>
+         <longitude>47.03</longitude>
+         <latitude>-19.87</latitude>
+      </ville>
+      <ville>
+         <nom>Fianarantsoa</nom>
+         <longitude>47.09</longitude>
+         <latitude>-21.45</latitude>
+      </ville>
+      <ville>
+         <nom>Majunga</nom>
+         <longitude>46.32</longitude>
+         <latitude>-15.72</latitude>
+      </ville>
+      <ville>
+         <nom>Tamatave</nom>
+         <longitude>49.42</longitude>
+         <latitude>-18.15</latitude>
+      </ville>
+      <ville>
+         <nom>Toliara</nom>
+         <longitude>43.67</longitude>
+         <latitude>-23.35</latitude>
+      </ville>
+   </pays>
+   <pays code="MS">
+      <nom>Mauritius</nom>
+      <capitale>Port Louis</capitale>
+      <population annee="2011">1237091</population>
+      <religions>
+         <musulman>214016.74300000002</musulman>
+         <cretien/>
+         <autre>599989.135</autre>
+      </religions>
+      <ville>
+         <nom>Port Louis</nom>
+         <longitude>57.5</longitude>
+         <latitude>-20.16</latitude>
+      </ville>
+   </pays>
+   <pays code="REUN">
+      <nom>Reunion</nom>
+      <capitale>Saint-Denis</capitale>
+      <population annee="2011">828581</population>
+      <religions>
+         <musulman>26514.592</musulman>
+         <cretien/>
+         <autre>55514.927</autre>
+      </religions>
+      <ville>
+         <nom>Saint-Denis</nom>
+         <longitude>55.5</longitude>
+         <latitude>-20.9</latitude>
+      </ville>
+      <ville>
+         <nom>Saint-Paul</nom>
+         <longitude>55.27</longitude>
+         <latitude>-21.01</latitude>
+      </ville>
+   </pays>
+   <pays code="HELX">
+      <nom>Saint Helena</nom>
+      <capitale>Jamestown</capitale>
+      <population annee="2019">4577</population>
+      <religions>
+         <cretien/>
+         <autre>311.23600000000005</autre>
+      </religions>
+      <ville>
+         <nom>Jamestown</nom>
+         <longitude>-5.72</longitude>
+         <latitude>-15.95</latitude>
+      </ville>
+   </pays>
+   <pays code="GL">
+      <nom>Greenland</nom>
+      <capitale>Nuuk</capitale>
+      <population annee="2013">56370</population>
+      <religions>
+         <cretien/>
+         <autre>450.96000000000004</autre>
+      </religions>
+      <ville>
+         <nom>Nuuk</nom>
+         <longitude>-51.74</longitude>
+         <latitude>64.18</latitude>
+      </ville>
+   </pays>
+   <pays code="SPMI">
+      <nom>Saint Pierre and Miquelon</nom>
+      <capitale>Saint-Pierre</capitale>
+      <population annee="2016">6008</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Saint-Pierre</nom>
+         <longitude>-56.18</longitude>
+         <latitude>46.78</latitude>
+      </ville>
+   </pays>
+   <pays code="BERM">
+      <nom>Bermuda</nom>
+      <capitale>Hamilton</capitale>
+      <population annee="2016">61178</population>
+      <religions>
+         <musulman>611.78</musulman>
+         <cretien/>
+         <autre>917.67</autre>
+      </religions>
+      <ville>
+         <nom>Hamilton</nom>
+         <longitude>-64.78</longitude>
+         <latitude>32.29</latitude>
+      </ville>
+   </pays>
+   <pays code="CDN">
+      <nom>Canada</nom>
+      <capitale/>
+      <population annee="2016">35151728</population>
+      <religions>
+         <musulman>1.124855296E6</musulman>
+         <cretien>2.4184388864E7</cretien>
+         <juif>351517.28</juif>
+         <autre>1.40606912E6</autre>
+      </religions>
+      <frontiere pays="USA" longeur="8893"/>
+   </pays>
+   <pays code="USA">
+      <nom>United States</nom>
+      <capitale/>
+      <population annee="2014">318857056</population>
+      <religions>
+         <musulman>2.869713504E6</musulman>
+         <cretien>2.29895937376E8</cretien>
+         <juif>6.695998176E6</juif>
+         <autre>1.275428224E7</autre>
+      </religions>
+      <frontiere pays="MEX" longeur="3326"/>
+      <frontiere pays="CDN" longeur="8893"/>
+   </pays>
+   <pays code="MEX">
+      <nom>Mexico</nom>
+      <capitale/>
+      <population annee="2010">112336538</population>
+      <religions>
+         <cretien/>
+         <autre>1.235701918E6</autre>
+      </religions>
+      <frontiere pays="BZ" longeur="250"/>
+      <frontiere pays="GCA" longeur="962"/>
+      <frontiere pays="USA" longeur="3326"/>
+   </pays>
+   <pays code="BZ">
+      <nom>Belize</nom>
+      <capitale>Belmopan</capitale>
+      <population annee="2010">312971</population>
+      <religions>
+         <cretien/>
+         <autre>5320.5070000000005</autre>
+      </religions>
+      <ville>
+         <nom>Belmopan</nom>
+         <longitude>-88.77</longitude>
+         <latitude>17.25</latitude>
+      </ville>
+      <ville>
+         <nom>Belize City</nom>
+         <longitude>-88.19</longitude>
+         <latitude>17.5</latitude>
+      </ville>
+      <frontiere pays="GCA" longeur="266"/>
+      <frontiere pays="MEX" longeur="250"/>
+   </pays>
+   <pays code="GCA">
+      <nom>Guatemala</nom>
+      <capitale>Ciudad de Guatemala</capitale>
+      <population annee="2012">15073375</population>
+      <religions>
+         <cretien/>
+         <autre>150733.75</autre>
+      </religions>
+      <ville>
+         <nom>Ciudad de Guatemala</nom>
+         <longitude>-90.54</longitude>
+         <latitude>14.61</latitude>
+      </ville>
+      <ville>
+         <nom>Mixco</nom>
+         <longitude>-90.61</longitude>
+         <latitude>14.63</latitude>
+      </ville>
+      <ville>
+         <nom>Villa Nueva</nom>
+         <longitude>-90.59</longitude>
+         <latitude>14.53</latitude>
+      </ville>
+      <ville>
+         <nom>Cobán</nom>
+         <longitude>-90.37</longitude>
+         <latitude>15.48</latitude>
+      </ville>
+      <ville>
+         <nom>Chichicastenango</nom>
+         <longitude>-91.12</longitude>
+         <latitude>14.95</latitude>
+      </ville>
+      <frontiere pays="BZ" longeur="266"/>
+      <frontiere pays="MEX" longeur="962"/>
+      <frontiere pays="ES" longeur="203"/>
+      <frontiere pays="HN" longeur="256"/>
+   </pays>
+   <pays code="ES">
+      <nom>El Salvador</nom>
+      <capitale>San Salvador</capitale>
+      <population annee="2013">6290420</population>
+      <religions>
+         <musulman>62904.200000000004</musulman>
+         <cretien>5.19588692E6</cretien>
+         <autre>81775.46</autre>
+      </religions>
+      <ville>
+         <nom>San Salvador</nom>
+         <longitude>-89.19</longitude>
+         <latitude>13.69</latitude>
+      </ville>
+      <ville>
+         <nom>Soyapango</nom>
+         <longitude>-89.15</longitude>
+         <latitude>13.73</latitude>
+      </ville>
+      <ville>
+         <nom>Mejicanos</nom>
+         <longitude>-89.22</longitude>
+         <latitude>13.73</latitude>
+      </ville>
+      <ville>
+         <nom>Ciudad Delgado</nom>
+         <longitude>-89.17</longitude>
+         <latitude>13.72</latitude>
+      </ville>
+      <ville>
+         <nom>Apopa</nom>
+         <longitude>-89.18</longitude>
+         <latitude>13.8</latitude>
+      </ville>
+      <ville>
+         <nom>Santa Ana</nom>
+         <longitude>-89.53</longitude>
+         <latitude>13.98</latitude>
+      </ville>
+      <ville>
+         <nom>Santa Tecla</nom>
+         <longitude>-89.24</longitude>
+         <latitude>13.67</latitude>
+      </ville>
+      <ville>
+         <nom>San Miguel</nom>
+         <longitude>-88.18</longitude>
+         <latitude>13.48</latitude>
+      </ville>
+      <frontiere pays="GCA" longeur="203"/>
+      <frontiere pays="HN" longeur="342"/>
+   </pays>
+   <pays code="HN">
+      <nom>Honduras</nom>
+      <capitale/>
+      <population annee="2010">8045990</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="GCA" longeur="256"/>
+      <frontiere pays="NIC" longeur="922"/>
+      <frontiere pays="ES" longeur="342"/>
+   </pays>
+   <pays code="NIC">
+      <nom>Nicaragua</nom>
+      <capitale>Managua</capitale>
+      <population annee="2016">6327927</population>
+      <religions>
+         <cretien/>
+         <autre>151870.248</autre>
+      </religions>
+      <ville>
+         <nom>Managua</nom>
+         <longitude>-86.25</longitude>
+         <latitude>12.14</latitude>
+      </ville>
+      <ville>
+         <nom>León</nom>
+         <longitude>-86.89</longitude>
+         <latitude>12.43</latitude>
+      </ville>
+      <ville>
+         <nom>Chinandega</nom>
+         <longitude>-87.15</longitude>
+         <latitude>12.62</latitude>
+      </ville>
+      <ville>
+         <nom>Masaya</nom>
+         <longitude>-86.1</longitude>
+         <latitude>11.97</latitude>
+      </ville>
+      <ville>
+         <nom>Granada</nom>
+         <longitude>-85.95</longitude>
+         <latitude>11.93</latitude>
+      </ville>
+      <ville>
+         <nom>Matagalpa</nom>
+         <longitude>-85.92</longitude>
+         <latitude>12.92</latitude>
+      </ville>
+      <ville>
+         <nom>Tipitapa</nom>
+         <longitude>-86.1</longitude>
+         <latitude>12.2</latitude>
+      </ville>
+      <ville>
+         <nom>Jinotega</nom>
+         <longitude>-86</longitude>
+         <latitude>13.17</latitude>
+      </ville>
+      <ville>
+         <nom>Estelí</nom>
+         <longitude>-86.35</longitude>
+         <latitude>13.08</latitude>
+      </ville>
+      <frontiere pays="CR" longeur="309"/>
+      <frontiere pays="HN" longeur="922"/>
+   </pays>
+   <pays code="CR">
+      <nom>Costa Rica</nom>
+      <capitale/>
+      <population annee="2014">4773119</population>
+      <religions>
+         <cretien/>
+         <autre>152739.808</autre>
+      </religions>
+      <frontiere pays="NIC" longeur="309"/>
+      <frontiere pays="PA" longeur="348"/>
+   </pays>
+   <pays code="PA">
+      <nom>Panama</nom>
+      <capitale/>
+      <population annee="2010">3405813</population>
+      <religions>
+         <cretien/>
+         <autre>149855.77200000003</autre>
+      </religions>
+      <frontiere pays="CR" longeur="348"/>
+      <frontiere pays="CO" longeur="339"/>
+   </pays>
+   <pays code="BS">
+      <nom>Bahamas</nom>
+      <capitale>Nassau</capitale>
+      <population annee="2010">353658</population>
+      <religions>
+         <cretien/>
+         <autre>4243.896000000001</autre>
+      </religions>
+      <ville>
+         <nom>Nassau</nom>
+         <longitude>-77.33</longitude>
+         <latitude>25.07</latitude>
+      </ville>
+   </pays>
+   <pays code="TUCA">
+      <nom>Turks and Caicos Islands</nom>
+      <capitale>Grand Turk</capitale>
+      <population annee="2018">53700</population>
+      <religions>
+         <cretien/>
+         <autre>966.6000000000001</autre>
+      </religions>
+      <ville>
+         <nom>Grand Turk</nom>
+         <longitude>-71.14</longitude>
+         <latitude>21.47</latitude>
+      </ville>
+   </pays>
+   <pays code="CAYM">
+      <nom>Cayman Islands</nom>
+      <capitale>George Town</capitale>
+      <population annee="2020">61944</population>
+      <religions>
+         <cretien/>
+         <juif>929.16</juif>
+         <autre>1176.9360000000001</autre>
+      </religions>
+      <ville>
+         <nom>George Town</nom>
+         <longitude>-81.39</longitude>
+         <latitude>19.3</latitude>
+      </ville>
+   </pays>
+   <pays code="C">
+      <nom>Cuba</nom>
+      <capitale/>
+      <population annee="2012">11167325</population>
+      <religions>
+         <cretien/>
+         <autre>22334.65</autre>
+      </religions>
+   </pays>
+   <pays code="JA">
+      <nom>Jamaica</nom>
+      <capitale>Kingston</capitale>
+      <population annee="2011">2697983</population>
+      <religions>
+         <cretien/>
+         <autre>80939.48999999999</autre>
+      </religions>
+      <ville>
+         <nom>Kingston</nom>
+         <longitude>-76.8</longitude>
+         <latitude>17.98</latitude>
+      </ville>
+   </pays>
+   <pays code="RH">
+      <nom>Haiti</nom>
+      <capitale>Port-au-Prince</capitale>
+      <population annee="2018">10788000</population>
+      <religions>
+         <cretien/>
+         <autre>226548</autre>
+      </religions>
+      <ville>
+         <nom>Port-au-Prince</nom>
+         <longitude>-72.33</longitude>
+         <latitude>18.53</latitude>
+      </ville>
+      <ville>
+         <nom>Carrefour</nom>
+         <longitude>-72.4</longitude>
+         <latitude>18.53</latitude>
+      </ville>
+      <ville>
+         <nom>Delmas</nom>
+         <longitude>-72.3</longitude>
+         <latitude>18.55</latitude>
+      </ville>
+      <ville>
+         <nom>Pétion-Ville</nom>
+         <longitude>-72.28</longitude>
+         <latitude>18.52</latitude>
+      </ville>
+      <ville>
+         <nom>Cité Soleil</nom>
+         <longitude>-72.33</longitude>
+         <latitude>18.58</latitude>
+      </ville>
+      <ville>
+         <nom>Gonaïves</nom>
+         <longitude>-72.68</longitude>
+         <latitude>19.45</latitude>
+      </ville>
+      <ville>
+         <nom>Cap-Haïtien</nom>
+         <longitude>-72.2</longitude>
+         <latitude>19.76</latitude>
+      </ville>
+      <frontiere pays="DOM" longeur="275"/>
+   </pays>
+   <pays code="DOM">
+      <nom>Dominican Republic</nom>
+      <capitale>Santo Domingo</capitale>
+      <population annee="2010">9445281</population>
+      <religions>
+         <cretien/>
+         <autre>141679.21500000003</autre>
+      </religions>
+      <ville>
+         <nom>Santo Domingo</nom>
+         <longitude>-69.95</longitude>
+         <latitude>18.47</latitude>
+      </ville>
+      <ville>
+         <nom>Santiago</nom>
+         <longitude>-70.7</longitude>
+         <latitude>19.47</latitude>
+      </ville>
+      <ville>
+         <nom>Puerto Plata</nom>
+         <longitude>-70.7</longitude>
+         <latitude>19.8</latitude>
+      </ville>
+      <frontiere pays="RH" longeur="275"/>
+   </pays>
+   <pays code="PR">
+      <nom>Puerto Rico</nom>
+      <capitale>San Juan</capitale>
+      <population annee="2010">3725789</population>
+      <religions>
+         <musulman>3725.789</musulman>
+         <cretien/>
+         <autre>44709.46800000001</autre>
+      </religions>
+      <ville>
+         <nom>San Juan</nom>
+         <longitude>-66.06</longitude>
+         <latitude>18.41</latitude>
+      </ville>
+      <ville>
+         <nom>Ponce</nom>
+         <longitude>-66.61</longitude>
+         <latitude>18</latitude>
+      </ville>
+      <ville>
+         <nom>Bayamón</nom>
+         <longitude>-66.16</longitude>
+         <latitude>18.38</latitude>
+      </ville>
+      <ville>
+         <nom>Carolina</nom>
+         <longitude>-65.97</longitude>
+         <latitude>18.41</latitude>
+      </ville>
+   </pays>
+   <pays code="VIRG">
+      <nom>Virgin Islands</nom>
+      <capitale>Charlotte Amalie</capitale>
+      <population annee="2010">106405</population>
+      <religions>
+         <cretien/>
+         <autre>425.62</autre>
+      </religions>
+      <ville>
+         <nom>Charlotte Amalie</nom>
+         <longitude>-64.9</longitude>
+         <latitude>18.3</latitude>
+      </ville>
+   </pays>
+   <pays code="BVI">
+      <nom>British Virgin Islands</nom>
+      <capitale>Road Town</capitale>
+      <population annee="2010">28054</population>
+      <religions>
+         <musulman>252.48600000000002</musulman>
+         <cretien/>
+         <autre>1402.7</autre>
+      </religions>
+      <ville>
+         <nom>Road Town</nom>
+         <longitude>-64.37</longitude>
+         <latitude>18.27</latitude>
+      </ville>
+   </pays>
+   <pays code="AXA">
+      <nom>Anguilla</nom>
+      <capitale>The Valley</capitale>
+      <population annee="2011">13452</population>
+      <religions>
+         <cretien/>
+         <autre>349.752</autre>
+      </religions>
+      <ville>
+         <nom>The Valley</nom>
+         <longitude>-63.05</longitude>
+         <latitude>18.22</latitude>
+      </ville>
+   </pays>
+   <pays code="SMAR">
+      <nom>Saint Martin</nom>
+      <capitale>Marigot</capitale>
+      <population annee="2011">36286</population>
+      <religions>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Marigot</nom>
+         <longitude>-63.1</longitude>
+         <latitude>18.1</latitude>
+      </ville>
+      <frontiere pays="SX" longeur="15"/>
+   </pays>
+   <pays code="SX">
+      <nom>Sint Maarten</nom>
+      <capitale>Philipsburg</capitale>
+      <population annee="2017">40535</population>
+      <religions>
+         <cretien/>
+         <juif>1378.19</juif>
+         <autre>2796.9150000000004</autre>
+      </religions>
+      <ville>
+         <nom>Philipsburg</nom>
+         <longitude>-63.05</longitude>
+         <latitude>18.02</latitude>
+      </ville>
+      <frontiere pays="SMAR" longeur="15"/>
+   </pays>
+   <pays code="SBAR">
+      <nom>Saint Barthelemy</nom>
+      <capitale>Gustavia</capitale>
+      <population annee="2012">9131</population>
+      <religions>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Gustavia</nom>
+         <longitude>-62.85</longitude>
+         <latitude>17.9</latitude>
+      </ville>
+   </pays>
+   <pays code="KN">
+      <nom>Saint Kitts and Nevis</nom>
+      <capitale>Basseterre</capitale>
+      <population annee="2011">46398</population>
+      <religions>
+         <musulman>139.19400000000002</musulman>
+         <cretien/>
+         <autre>1716.7260000000003</autre>
+      </religions>
+      <ville>
+         <nom>Basseterre</nom>
+         <longitude>-62.73</longitude>
+         <latitude>17.3</latitude>
+      </ville>
+   </pays>
+   <pays code="AG">
+      <nom>Antigua and Barbuda</nom>
+      <capitale>St. John's</capitale>
+      <population annee="2011">81799</population>
+      <religions>
+         <musulman>163.598</musulman>
+         <cretien/>
+         <autre>327.196</autre>
+      </religions>
+      <ville>
+         <nom>St. John's</nom>
+         <longitude>-61.85</longitude>
+         <latitude>17.12</latitude>
+      </ville>
+   </pays>
+   <pays code="MNTS">
+      <nom>Montserrat</nom>
+      <capitale>Plymouth</capitale>
+      <population annee="2011">4922</population>
+      <religions>
+         <cretien/>
+         <autre>108.284</autre>
+      </religions>
+      <ville>
+         <nom>Plymouth</nom>
+         <longitude>-62.22</longitude>
+         <latitude>16.71</latitude>
+      </ville>
+      <ville>
+         <nom>Brades</nom>
+         <longitude>-62.22</longitude>
+         <latitude>16.80</latitude>
+      </ville>
+   </pays>
+   <pays code="GUAD">
+      <nom>Guadeloupe</nom>
+      <capitale>Basse-Terre</capitale>
+      <population annee="2016">394110</population>
+      <religions>
+         <cretien/>
+         <autre>8670.42</autre>
+      </religions>
+      <ville>
+         <nom>Basse-Terre</nom>
+         <longitude>-61.8</longitude>
+         <latitude>16.15</latitude>
+      </ville>
+   </pays>
+   <pays code="WD">
+      <nom>Dominica</nom>
+      <capitale>Roseau</capitale>
+      <population annee="2011">70739</population>
+      <religions>
+         <cretien/>
+         <autre>2051.431</autre>
+      </religions>
+      <ville>
+         <nom>Roseau</nom>
+         <longitude>-61.39</longitude>
+         <latitude>15.3</latitude>
+      </ville>
+   </pays>
+   <pays code="MART">
+      <nom>Martinique</nom>
+      <capitale>Fort-de-France</capitale>
+      <population annee="2013">385551</population>
+      <religions>
+         <musulman>1927.755</musulman>
+         <cretien/>
+         <autre>3084.408</autre>
+      </religions>
+      <ville>
+         <nom>Fort-de-France</nom>
+         <longitude>-61.0</longitude>
+         <latitude>14.6</latitude>
+      </ville>
+   </pays>
+   <pays code="WL">
+      <nom>Saint Lucia</nom>
+      <capitale>Castries</capitale>
+      <population annee="2010">165595</population>
+      <religions>
+         <cretien/>
+         <autre>5464.635</autre>
+      </religions>
+      <ville>
+         <nom>Castries</nom>
+         <longitude>-60.98</longitude>
+         <latitude>14.02</latitude>
+      </ville>
+   </pays>
+   <pays code="BDS">
+      <nom>Barbados</nom>
+      <capitale>Bridgetown</capitale>
+      <population annee="2010">277821</population>
+      <religions>
+         <musulman>1944.7469999999998</musulman>
+         <cretien/>
+         <autre>10001.556</autre>
+      </religions>
+      <ville>
+         <nom>Bridgetown</nom>
+         <longitude>-59.61</longitude>
+         <latitude>13.11</latitude>
+      </ville>
+   </pays>
+   <pays code="WV">
+      <nom>Saint Vincent and the Grenadines</nom>
+      <capitale>Kingstown</capitale>
+      <population annee="2011">109991</population>
+      <religions>
+         <cretien/>
+         <autre>2529.793</autre>
+      </religions>
+      <ville>
+         <nom>Kingstown</nom>
+         <longitude>-61.22</longitude>
+         <latitude>13.16</latitude>
+      </ville>
+   </pays>
+   <pays code="WG">
+      <nom>Grenada</nom>
+      <capitale>Saint George's</capitale>
+      <population annee="2011">103328</population>
+      <religions>
+         <musulman>309.984</musulman>
+         <cretien/>
+         <autre>2583.2000000000003</autre>
+      </religions>
+      <ville>
+         <nom>Saint George's</nom>
+         <longitude>-61.75</longitude>
+         <latitude>12.05</latitude>
+      </ville>
+   </pays>
+   <pays code="TT">
+      <nom>Trinidad and Tobago</nom>
+      <capitale>Port-of-Spain</capitale>
+      <population annee="2011">1328019</population>
+      <religions>
+         <musulman>66400.95</musulman>
+         <cretien/>
+         <autre>281540.028</autre>
+      </religions>
+      <ville>
+         <nom>Port-of-Spain</nom>
+         <longitude>-61.52</longitude>
+         <latitude>10.67</latitude>
+      </ville>
+   </pays>
+   <pays code="NLB">
+      <nom>Bonaire</nom>
+      <capitale>Kralendijk</capitale>
+      <population annee="2019">20104</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Kralendijk</nom>
+         <longitude>-68.26</longitude>
+         <latitude>12.15</latitude>
+      </ville>
+   </pays>
+   <pays code="CUR">
+      <nom>Curacao</nom>
+      <capitale>Willemstad</capitale>
+      <population annee="2011">150563</population>
+      <religions>
+         <cretien/>
+         <autre>3011.26</autre>
+      </religions>
+      <ville>
+         <nom>Willemstad</nom>
+         <longitude>-68.9</longitude>
+         <latitude>12.1</latitude>
+      </ville>
+   </pays>
+   <pays code="ARU">
+      <nom>Aruba</nom>
+      <capitale>Oranjestad</capitale>
+      <population annee="2010">101484</population>
+      <religions>
+         <cretien/>
+         <autre>1725.228</autre>
+      </religions>
+      <ville>
+         <nom>Oranjestad</nom>
+         <longitude>-70.04</longitude>
+         <latitude>12.52</latitude>
+      </ville>
+   </pays>
+   <pays code="YV">
+      <nom>Venezuela</nom>
+      <capitale/>
+      <population annee="2011">28946101</population>
+      <religions>
+         <musulman>115784.40400000001</musulman>
+         <cretien/>
+         <autre>144730.505</autre>
+      </religions>
+      <frontiere pays="CO" longeur="2341"/>
+      <frontiere pays="BR" longeur="2137"/>
+      <frontiere pays="GUY" longeur="789"/>
+   </pays>
+   <pays code="GUY">
+      <nom>Guyana</nom>
+      <capitale>Georgetown</capitale>
+      <population annee="2012">747884</population>
+      <religions>
+         <musulman>50856.112</musulman>
+         <cretien/>
+         <autre>195197.72400000002</autre>
+      </religions>
+      <ville>
+         <nom>Georgetown</nom>
+         <longitude>-58.17</longitude>
+         <latitude>6.8</latitude>
+      </ville>
+      <frontiere pays="BR" longeur="1308"/>
+      <frontiere pays="SME" longeur="836"/>
+      <frontiere pays="YV" longeur="789"/>
+   </pays>
+   <pays code="SME">
+      <nom>Suriname</nom>
+      <capitale>Paramaribo</capitale>
+      <population annee="2012">541638</population>
+      <religions>
+         <musulman>74746.04400000001</musulman>
+         <cretien/>
+         <autre>127284.93</autre>
+      </religions>
+      <ville>
+         <nom>Paramaribo</nom>
+         <longitude>-55.17</longitude>
+         <latitude>5.87</latitude>
+      </ville>
+      <frontiere pays="BR" longeur="515"/>
+      <frontiere pays="FGU" longeur="556"/>
+      <frontiere pays="GUY" longeur="836"/>
+   </pays>
+   <pays code="FGU">
+      <nom>French Guiana</nom>
+      <capitale>Cayenne</capitale>
+      <population annee="2017">268700</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Cayenne</nom>
+         <longitude>-52.45</longitude>
+         <latitude>4.93333</latitude>
+      </ville>
+      <frontiere pays="BR" longeur="649"/>
+      <frontiere pays="SME" longeur="556"/>
+   </pays>
+   <pays code="CO">
+      <nom>Colombia</nom>
+      <capitale/>
+      <population annee="2014">47661787</population>
+      <religions>
+         <cretien/>
+         <autre>857912.1660000001</autre>
+      </religions>
+      <frontiere pays="PA" longeur="339"/>
+      <frontiere pays="BR" longeur="1790"/>
+      <frontiere pays="PE" longeur="1494"/>
+      <frontiere pays="YV" longeur="2341"/>
+      <frontiere pays="EC" longeur="708"/>
+   </pays>
+   <pays code="EC">
+      <nom>Ecuador</nom>
+      <capitale>Quito</capitale>
+      <population annee="2010">14483499</population>
+      <religions>
+         <cretien/>
+         <autre>376570.97399999993</autre>
+      </religions>
+      <ville>
+         <nom>Quito</nom>
+         <longitude>-78.52</longitude>
+         <latitude>-0.23</latitude>
+      </ville>
+      <ville>
+         <nom>Guayaquil</nom>
+         <longitude>-79.88</longitude>
+         <latitude>-2.18</latitude>
+      </ville>
+      <ville>
+         <nom>Cuenca</nom>
+         <longitude>-79.02</longitude>
+         <latitude>-2.9</latitude>
+      </ville>
+      <ville>
+         <nom>Santo Domingo de los Colorados</nom>
+         <longitude>-79.17</longitude>
+         <latitude>-0.25</latitude>
+      </ville>
+      <frontiere pays="CO" longeur="708"/>
+      <frontiere pays="PE" longeur="1529"/>
+   </pays>
+   <pays code="PE">
+      <nom>Peru</nom>
+      <capitale/>
+      <population annee="2012">30135875</population>
+      <religions>
+         <cretien/>
+         <autre>376698.4375</autre>
+      </religions>
+      <frontiere pays="CO" longeur="1494"/>
+      <frontiere pays="BOL" longeur="1212"/>
+      <frontiere pays="BR" longeur="2659"/>
+      <frontiere pays="RCH" longeur="168"/>
+      <frontiere pays="EC" longeur="1529"/>
+   </pays>
+   <pays code="BOL">
+      <nom>Bolivia</nom>
+      <capitale/>
+      <population annee="2012">10027262</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <frontiere pays="RA" longeur="942"/>
+      <frontiere pays="BR" longeur="3403"/>
+      <frontiere pays="RCH" longeur="942"/>
+      <frontiere pays="PY" longeur="753"/>
+      <frontiere pays="PE" longeur="1212"/>
+   </pays>
+   <pays code="RCH">
+      <nom>Chile</nom>
+      <capitale/>
+      <population annee="2012">16341929</population>
+      <religions>
+         <cretien/>
+         <autre>163419.29</autre>
+      </religions>
+      <frontiere pays="RA" longeur="6691"/>
+      <frontiere pays="BOL" longeur="942"/>
+      <frontiere pays="PE" longeur="168"/>
+   </pays>
+   <pays code="RA">
+      <nom>Argentina</nom>
+      <capitale/>
+      <population annee="2014">42669500</population>
+      <religions>
+         <musulman>853390</musulman>
+         <cretien/>
+         <juif>298686.49999999994</juif>
+         <autre>896059.5</autre>
+      </religions>
+      <frontiere pays="BOL" longeur="942"/>
+      <frontiere pays="BR" longeur="1263"/>
+      <frontiere pays="RCH" longeur="6691"/>
+      <frontiere pays="PY" longeur="2531"/>
+      <frontiere pays="ROU" longeur="541"/>
+   </pays>
+   <pays code="PY">
+      <nom>Paraguay</nom>
+      <capitale>Asunción</capitale>
+      <population annee="2012">6672631</population>
+      <religions>
+         <cretien/>
+         <autre>36032.2074</autre>
+      </religions>
+      <ville>
+         <nom>Asunción</nom>
+         <longitude>-57.63</longitude>
+         <latitude>-25.27</latitude>
+      </ville>
+      <ville>
+         <nom>Ciudad del Este</nom>
+         <longitude>-54.62</longitude>
+         <latitude>-25.52</latitude>
+      </ville>
+      <frontiere pays="RA" longeur="2531"/>
+      <frontiere pays="BOL" longeur="753"/>
+      <frontiere pays="BR" longeur="1371"/>
+   </pays>
+   <pays code="ROU">
+      <nom>Uruguay</nom>
+      <capitale>Montevideo</capitale>
+      <population annee="2011">3286314</population>
+      <religions>
+         <cretien/>
+         <juif>16431.57</juif>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Montevideo</nom>
+         <longitude>-56.18</longitude>
+         <latitude>-34.88</latitude>
+      </ville>
+      <ville>
+         <nom>Salto</nom>
+         <longitude>-57.95</longitude>
+         <latitude>-31.38</latitude>
+      </ville>
+      <frontiere pays="RA" longeur="541"/>
+      <frontiere pays="BR" longeur="1050"/>
+   </pays>
+   <pays code="BR">
+      <nom>Brazil</nom>
+      <capitale/>
+      <population annee="2014">202768562</population>
+      <religions>
+         <cretien/>
+         <autre>1.824917058E6</autre>
+      </religions>
+      <frontiere pays="CO" longeur="1790"/>
+      <frontiere pays="RA" longeur="1263"/>
+      <frontiere pays="BOL" longeur="3403"/>
+      <frontiere pays="PY" longeur="1371"/>
+      <frontiere pays="ROU" longeur="1050"/>
+      <frontiere pays="PE" longeur="2659"/>
+      <frontiere pays="FGU" longeur="649"/>
+      <frontiere pays="GUY" longeur="1308"/>
+      <frontiere pays="SME" longeur="515"/>
+      <frontiere pays="YV" longeur="2137"/>
+   </pays>
+   <pays code="FALK">
+      <nom>Falkland Islands</nom>
+      <capitale>Stanley</capitale>
+      <population annee="2016">3398</population>
+      <religions>
+         <cretien/>
+         <autre>0</autre>
+      </religions>
+      <ville>
+         <nom>Stanley</nom>
+         <longitude>-57.51</longitude>
+         <latitude>-51.42</latitude>
+      </ville>
+   </pays>
+</monde>

@@ -1,0 +1,41 @@
+<svg version="1.1"
+     width="300" height="400"
+     xmlns="http://www.w3.org/2000/svg">
+
+<!-- Heart -->
+  <path d="M150,30 q-100,-50 0,100"  fill="transparent" stroke="Red" stroke-width="3"/>
+  <path d="M150,30 q100,-50 0,100"  fill="transparent" stroke="Red" stroke-width="3"/>
+
+  <path d="M150,30 q-100,-50 0,100"  
+  fill="transparent" 
+  stroke="Red" 
+  stroke-width="3"
+  transform="rotate(90, 150, 130)"/>
+  <path d="M150,30 q100,-50 0,100" 
+   fill="transparent"
+    stroke="Red" 
+    stroke-width="3"
+     transform="rotate(90, 150, 130)"/>
+
+     <path d="M150,30 q-100,-50 0,100"  
+  fill="transparent" 
+  stroke="Red" 
+  stroke-width="3"
+  transform="rotate(180, 150, 130)"/>
+  <path d="M150,30 q100,-50 0,100" 
+   fill="transparent"
+    stroke="Red" 
+    stroke-width="3"
+     transform="rotate(180, 150, 130)"/>
+
+     <path d="M150,30 q-100,-50 0,100"  
+  fill="transparent" 
+  stroke="Red" 
+  stroke-width="3"
+  transform="rotate(270, 150, 130)"/>
+  <path d="M150,30 q100,-50 0,100" 
+   fill="transparent"
+    stroke="Red" 
+    stroke-width="3"
+     transform="rotate(270, 150, 130)"/>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="16.0">
+    <meta>
+        <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="newProject.xpr">
+        <file name="test1.css"/>
+        <file name="test1.dtd"/>
+        <file name="test1.xml"/>
+    </projectTree>
+</project>

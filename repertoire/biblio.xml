@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "biblio.dtd">
+<biblio>
+    <livre isbn="ad123">
+        <titre>Livre1</titre>
+        <auteur id="AZ123" id_publications="ad123 ac123">
+            <nom>Essadeq ELAAMIRI</nom>
+        </auteur>
+        <auteur id="HA123" id_publications="ad123">
+            <nom>Hassan ELAAMIRI</nom>
+        </auteur>
+        <langue id="fr_123TT123">fr</langue>
+        <categorie>Sciences et technologie</categorie>
+        <resume> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a</resume>
+        <date_pub>2018-10-11</date_pub>
+    </livre>
+    <livre isbn="ac123">
+        <titre>Livre1</titre>
+        <auteur id="AZ1233" id_publications="ad123 ac123">
+            <nom>Essadeq ELAAMIRI</nom>
+        </auteur>
+        <auteur id="FA445" id_publications="ac123">
+            <nom>Fatima Ezzahrae ELAAMIRI</nom>
+        </auteur>
+        <langue id="fr_123TT127">An</langue>
+        <categorie>Sciences et technologie</categorie>
+        <resume> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a</resume>
+        <date_pub>2017-04-11</date_pub>
+    </livre>
+</biblio>

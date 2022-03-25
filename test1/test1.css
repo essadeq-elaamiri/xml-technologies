@@ -1,0 +1,14 @@
+*{
+    font-family: Verdana, Arial, sans-serif;
+}
+
+repértoire contact{
+    display: block;
+}
+repértoire contact[type='pro']{
+    border: 1px solid #044560;
+}
+
+repértoire *[type]::before {
+    content: attr(type);
+}

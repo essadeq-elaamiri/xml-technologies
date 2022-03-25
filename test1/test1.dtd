@@ -1,0 +1,9 @@
+
+<!ELEMENT repértoire (contact*)> <!-- declaring element + childs , order matters-->
+<!ELEMENT contact (nom, prenom, téléphone*)>
+<!ATTLIST contact type CDATA "perso">
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT prenom (#PCDATA)>
+<!ELEMENT téléphone (#PCDATA)>
+<!ATTLIST téléphone type CDATA #IMPLIED>
+

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="library.xsd">
+    <book id="AA">
+        <width_height></width_height>
+        <title>Advanced Java</title>
+        <author id="EER3">
+            <name>Essadeq ELAAMIRI</name>
+            <contact>essadeq@gmail.com</contact>
+            <reference>FFF</reference>
+            <email>essadeq@gmail.com</email>
+        </author>
+        <published>
+            sss
+            <!--<date>2007-11-06</date>-->
+            <dateTime>
+                <time>12:33:11</time>
+                <date>2003-07-06</date>
+            </dateTime>
+        </published>
+        <description>Advanced java concept, easy pussy</description>
+        <price>199</price>
+    </book>
+    <book id="EEZ">
+        <width_height>39.9 13.7 14.9</width_height> 
+        <title>Advanced Java</title>
+        <author id="EER31">
+            <name>Essadeq ELAAMIRI</name>
+            <contact>essadeq@gmail.com</contact>
+            <reference>EER</reference>
+            <email>emm-e@gmail.com</email>
+        </author>
+        <published>
+            <!--<date>2007-11-06</date>-->
+            <dateTime>
+                <time>12:33:11</time>
+                <date>2003-07-06</date>
+            </dateTime>
+        </published>
+        <description>Advanced java concept, easy pussy</description>
+        <price>199</price>
+        
+    </book>
+    <br/>
+</library>

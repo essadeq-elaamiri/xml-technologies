@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+    <xs:element name="monde">
+        <xs:complexType>
+            <xs:sequence maxOccurs="unbounded">
+                <xs:element name="pays">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element ref="nom_"></xs:element>
+                            <xs:element name="capitale" type="xs:string"></xs:element>
+                            <xs:element name="population">
+                                <xs:complexType mixed="true">
+                                    <xs:attribute name="annee" type="year_"></xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="religins">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="musulman" type="xs:float" minOccurs="0"></xs:element>
+                                        <xs:element name="cretien" type="xs:float" minOccurs="0"></xs:element>
+                                        <xs:element name="juif" type="xs:float" minOccurs="0"></xs:element>
+                                        <xs:element name="autre" type="xs:float" minOccurs="0"></xs:element>                               
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="ville" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element ref="nom_"></xs:element>
+                                        <xs:element name="longitude" type="xs:float"></xs:element>
+                                        <xs:element name="latitude" type="xs:float"></xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                            
+                            <xs:element name="frontiere" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:attribute name="pays" type="xs:IDREF"></xs:attribute>
+                                    <xs:attribute name="longueur" type="xs:float"></xs:attribute>
+                                </xs:complexType>
+                            </xs:element>
+                            
+                        </xs:sequence>
+                        <xs:attribute name="continent" type="continent_"></xs:attribute>
+                        <xs:attribute name="code" type="xs:ID"></xs:attribute>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <!-- Types -->
+    <xs:element name="nom_" type="xs:string"></xs:element>
+    
+    <xs:simpleType name="continent_">
+        <xs:restriction base="xs:string">
+            <!-- Afrique, Asie, Europe,Amérique, Australie -->
+            <xs:enumeration value="afrique"></xs:enumeration>
+            <xs:enumeration value="asie"></xs:enumeration>
+            <xs:enumeration value="europe"></xs:enumeration>
+            <xs:enumeration value="amerique"></xs:enumeration>
+            <xs:enumeration value="australie"></xs:enumeration>
+        </xs:restriction>
+    </xs:simpleType>
+    
+    <xs:simpleType name="year_">
+        <xs:restriction base="xs:integer">
+            <xs:pattern value="[1-9][0-9]{3}"></xs:pattern>
+        </xs:restriction>
+    </xs:simpleType>
+    
+</xs:schema>

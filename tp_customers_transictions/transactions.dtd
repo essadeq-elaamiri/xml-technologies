@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- DTD FILE -->
+<!ELEMENT transactions (giftshop+)>
+<!ELEMENT giftshop (date*)>
+<!ATTLIST giftshop
+        number CDATA #REQUIRED>
+<!ELEMENT date (transaction+)>
+<!ATTLIST date
+        date_value CDATA #REQUIRED>
+<!ELEMENT transaction (value,customer*)>
+<!ATTLIST transaction
+        id CDATA #REQUIRED>
+<!ELEMENT value (#PCDATA)>
+<!ATTLIST value
+        currency CDATA #REQUIRED>
+<!ELEMENT customer (prefix,lastName,givenName,addressID)>
+<!ATTLIST customer
+        id CDATA #REQUIRED>
+<!ELEMENT prefix (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT givenName (#PCDATA)>
+<!ELEMENT addressID (#PCDATA)>
+
+<!ENTITY mrs "Mrs" >
+<!ENTITY mr "Mr" >
+<!ENTITY mrs "Miss" >
+<!ENTITY dr "Dr" >
+

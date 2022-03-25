@@ -1,0 +1,3008 @@
+
+        
+        
+         [
+            
+            
+                {
+                    
+                "number": 2, "dates":[
+                    
+                    
+                        {
+                            
+                        "date_value": "01/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "1ygOIpJ6Tf2HB72e",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 57.43  },
+                                    
+                                
+                                "customer":{
+                                "id": "31F9PCQD",
+                                "prefix": "Mr ",
+                                "lastName": "Trask",
+                                "givenName": "Fearchar",
+                                "addressID": "13287"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "2lZ75q0FrSpcREjs",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 49.49  },
+                                    
+                                
+                                "customer":{
+                                "id": "FDCXOH0M",
+                                "prefix": "Mrs",
+                                "lastName": "Bateson",
+                                "givenName": "Karissa",
+                                "addressID": "468126"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "oTfh5Dg0ACCGG0SH",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 8.59  },
+                                    
+                                
+                                "customer":{
+                                "id": "BA1LBL11",
+                                "prefix": "Mr ",
+                                "lastName": "Shaughnessy",
+                                "givenName": "Paddy",
+                                "addressID": "303203"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "xNcmC90pdXYcdUNF",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 72.96  },
+                                    
+                                
+                                "customer":{
+                                "id": "DOWK75O4",
+                                "prefix": "Mr ",
+                                "lastName": "Boyle",
+                                "givenName": "Cohen",
+                                "addressID": "92016"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "4oZAWTFBGOuNtjm6",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.13  },
+                                    
+                                
+                                "customer":{
+                                "id": "KKDLTC4B",
+                                "prefix": "Ms",
+                                "lastName": "Britton",
+                                "givenName": "Estella",
+                                "addressID": "946382"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "L72fYINuLfbm61yr",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 57.26  },
+                                    
+                                
+                                "customer":{
+                                "id": "CMNY0DKI",
+                                "prefix": "Mr ",
+                                "lastName": "Hopper",
+                                "givenName": "Tadhg",
+                                "addressID": "787046"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "f2bXNaWqlGR8k2kh",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 13.94  },
+                                    
+                                
+                                "customer":{
+                                "id": "IE6T80M6",
+                                "prefix": "Mr ",
+                                "lastName": "Alfredson",
+                                "givenName": "Malakai",
+                                "addressID": "704817"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "jybwh5EroaL4FfJs",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 75.92  },
+                                    
+                                
+                                "customer":{
+                                "id": "0V1XOKLR",
+                                "prefix": "Mr ",
+                                "lastName": "Harley",
+                                "givenName": "Monroe",
+                                "addressID": "882651"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "nbRHpxXbUzlw86Yu",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 17.14  },
+                                    
+                                
+                                "customer":{
+                                "id": "84WIFUAH",
+                                "prefix": "Dr",
+                                "lastName": "Brownlow",
+                                "givenName": "Osmond",
+                                "addressID": "279126"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "qFer1OTIftiyjsnJ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 28.03  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "qJLy325n1JflabCb",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 91.27  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "B25II1m4Sa1ZbOgF",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 61.24  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "T4eZV0G8BPPYUpbv",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 36.5  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "2oJB4FhvdTH3dLDO",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 11.42  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "kKgqwkm8Y0Uaq45E",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.5  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "NUkh5ritYZXvNElO",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 58.02  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "k7HU7zohtKxh06Br",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 23.76  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "MIlFa2Qg97mW0JsF",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 73.04  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "3oeZnC8KaF9A1GsQ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.44  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "W6aDNajkuwJjuo9X",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 68.69  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "02/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "eb7zMnKoshn3NZBi",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 12.75  },
+                                    
+                                
+                                "customer":{
+                                "id": "6AQU1HBA",
+                                "prefix": "Mr ",
+                                "lastName": "Russell",
+                                "givenName": "Caiden",
+                                "addressID": "528598"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LDssnuvX8yr9U8W0",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 9.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "K8MI3QNV",
+                                "prefix": "Mr ",
+                                "lastName": "Hobbs",
+                                "givenName": "Bryce",
+                                "addressID": "668793"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "9MxQ2jmzMLFY1Xae",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 1.33  },
+                                    
+                                
+                                "customer":{
+                                "id": "ZIT8QPN5",
+                                "prefix": "Mrs",
+                                "lastName": "Greer",
+                                "givenName": "Finola",
+                                "addressID": "51550"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "jOuIoNvwJbvPOk8o",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 41.75  },
+                                    
+                                
+                                "customer":{
+                                "id": "7RI52S4J",
+                                "prefix": "Mr ",
+                                "lastName": "Ott",
+                                "givenName": "Domhnall",
+                                "addressID": "649633"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "QqLta5wpcNpnjmgU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 17  },
+                                    
+                                
+                                "customer":{
+                                "id": "XQW4T04U",
+                                "prefix": "Mr ",
+                                "lastName": "Strickland",
+                                "givenName": "Beverly",
+                                "addressID": "158426"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "5Hy4n4AwZUo5IOQr",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 7.65  },
+                                    
+                                
+                                "customer":{
+                                "id": "6O1BKMX7",
+                                "prefix": "Mrs",
+                                "lastName": "Lynton",
+                                "givenName": "Pheobe",
+                                "addressID": "855259"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "k5Etgb8MlS72VZeQ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 55.94  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "fToFhRH2ngu9ueHC",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 78.6  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "TwvycxENp0N6nvc6",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 66.96  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "PQIPKmcM2dhAPlcd",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 44.17  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "lWnXeOQ1JvcJPKFa",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 1.84  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "KAeB2ioOqVMwF4tc",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 97.64  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "hxNMohJFOeGRyHku",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 18.77  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "J5veLtz1lF4uYHRp",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 80.89  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "7xgZSPTmf6ne1bVw",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 5.17  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ELZd0Xy3A40tu2Qa",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.67  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "y3RSBB0A5vIxrM5W",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 8.97  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "FZGdct7Sgsa2wuql",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 83.75  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "AdUAsMpBRdvguoLQ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 64.48  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "RoAnw2hPiFA0sXoo",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 83.72  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "4o2yLtdyAz5iWxZ3",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 41.57  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "77w6pHBQS1Za608d",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 45.2  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "hSEcVbilj1nKSRT4",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 7.83  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "03/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "Csl0WwEQfiS8BvA4",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 34.08  },
+                                    
+                                
+                                "customer":{
+                                "id": "U3775J1O",
+                                "prefix": "Dr",
+                                "lastName": "Dálaigh",
+                                "givenName": "Duke",
+                                "addressID": "360945"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "KTmnwDsChfcCH5SV",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 38.19  },
+                                    
+                                
+                                "customer":{
+                                "id": "XT5G0ZTV",
+                                "prefix": "Mrs",
+                                "lastName": "Kearney",
+                                "givenName": "Josepha",
+                                "addressID": "704414"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "N8o5XBn5wpM1z69m",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 24.08  },
+                                    
+                                
+                                "customer":{
+                                "id": "E3QK3TXQ",
+                                "prefix": "Mrs",
+                                "lastName": "McCleary",
+                                "givenName": "Mariel",
+                                "addressID": "873572"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "TL3ccdxIAEdgp6oK",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 0.08  },
+                                    
+                                
+                                "customer":{
+                                "id": "S9U8H75T",
+                                "prefix": "Mrs",
+                                "lastName": "Peter",
+                                "givenName": "Peggie",
+                                "addressID": "889908"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "kEAmh3bC5Kck4Je7",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 34.8  },
+                                    
+                                
+                                "customer":{
+                                "id": "Q4EBJNWQ",
+                                "prefix": "Dr",
+                                "lastName": "Stringer",
+                                "givenName": "Cissy",
+                                "addressID": "926487"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "qGjXXobVRLbabSVv",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 54.93  },
+                                    
+                                
+                                "customer":{
+                                "id": "X0TQ3IE8",
+                                "prefix": "Miss",
+                                "lastName": "Scott",
+                                "givenName": "Slàine",
+                                "addressID": "317201"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LGuwJPmUAsDeKm0M",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 72.25  },
+                                    
+                                
+                                "customer":{
+                                "id": "OHW7WHND",
+                                "prefix": "Mrs",
+                                "lastName": "Hancock",
+                                "givenName": "Kayden",
+                                "addressID": "42235"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ul7iR7JoFesxm3L4",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 22.04  },
+                                    
+                                
+                                "customer":{
+                                "id": "TO800UR1",
+                                "prefix": "Mr ",
+                                "lastName": "Harley",
+                                "givenName": "Les",
+                                "addressID": "847028"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "RdRWxLcCyYTjIOKr",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 87.39  },
+                                    
+                                
+                                "customer":{
+                                "id": "S5U31CCM",
+                                "prefix": "Mr ",
+                                "lastName": "Martell",
+                                "givenName": "Carlisle",
+                                "addressID": "207768"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "m22ApNgTyldGTkMd",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 79.06  },
+                                    
+                                
+                                "customer":{
+                                "id": "XV9X0WF0",
+                                "prefix": "Mr ",
+                                "lastName": "Dodge",
+                                "givenName": "Seòras",
+                                "addressID": "94373"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "FPT0BZe4WdcYl8jo",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 64.22  },
+                                    
+                                
+                                "customer":{
+                                "id": "1ELHJC9Q",
+                                "prefix": "Mrs",
+                                "lastName": "Hopkins",
+                                "givenName": "Paisley",
+                                "addressID": "307737"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "sJj3GgQTj1nw4jZN",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.14  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "bRGX3hIgQBGgGqr8",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 92.27  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "yXRVjaavAQkcR2Hj",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 24.48  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "Mwp12QC6bvmrCr5f",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 76.67  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "x2INaD57u6cBPmT7",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 54.98  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ZHWjCt78y1tfM8OO",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 72.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "xCQsNr4shqcHIMmK",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 33.01  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "c6Qehu45esHkQMa6",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 53.61  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "nje086ITmUmXxfPy",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 16.01  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "vEm1g3g3sbtqx6cF",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 15.13  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                         ]    
+                }
+                ,
+                {
+                    
+                "number": 3, "dates":[
+                    
+                    
+                        {
+                            
+                        "date_value": "01/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "DJs5rDV21qeIuKnb",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 10.09  },
+                                    
+                                
+                                "customer":{
+                                "id": "9B237CBO",
+                                "prefix": "Mr ",
+                                "lastName": "O'Gorman",
+                                "givenName": "Kolby",
+                                "addressID": "941780"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "CwNGDKipz6ZAE0NZ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 36.08  },
+                                    
+                                
+                                "customer":{
+                                "id": "9VDK67SH",
+                                "prefix": "Mrs",
+                                "lastName": "Ennis",
+                                "givenName": "Lilibet",
+                                "addressID": "860150"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "SKeUsYKGg8WO5kLv",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 18.18  },
+                                    
+                                
+                                "customer":{
+                                "id": "3QCLVPRM",
+                                "prefix": "Mr ",
+                                "lastName": "Caoimh",
+                                "givenName": "Alfred",
+                                "addressID": "439249"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "1eACamM3fu7PqcmX",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 27.87  },
+                                    
+                                
+                                "customer":{
+                                "id": "BQ893RTX",
+                                "prefix": "Mr ",
+                                "lastName": "Power",
+                                "givenName": "Slade",
+                                "addressID": "840858"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LEgqnA5tqhgkkhQ8",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 28.92  },
+                                    
+                                
+                                "customer":{
+                                "id": "OT2C1KKP",
+                                "prefix": "Mr ",
+                                "lastName": "Trevis",
+                                "givenName": "Winthrop",
+                                "addressID": "932910"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "XUfwQC2i5ptphXjr",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.46  },
+                                    
+                                
+                                "customer":{
+                                "id": "GWALX4JI",
+                                "prefix": "Mrs",
+                                "lastName": "Hawkins",
+                                "givenName": "Ebony",
+                                "addressID": "787430"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "L19zO3tjBBOf5saC",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 66.14  },
+                                    
+                                
+                                "customer":{
+                                "id": "6SHPJZBQ",
+                                "prefix": "Mr ",
+                                "lastName": "Hooker",
+                                "givenName": "Devin",
+                                "addressID": "888264"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "XZdJJXHxKglgq5Nx",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 6.11  },
+                                    
+                                
+                                "customer":{
+                                "id": "IQ69KRV1",
+                                "prefix": "Mr ",
+                                "lastName": "Banister",
+                                "givenName": "Rocky",
+                                "addressID": "761272"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "evrpGSHmB9KfP0iH",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 48.76  },
+                                    
+                                
+                                "customer":{
+                                "id": "MBR3SQ44",
+                                "prefix": "Mr ",
+                                "lastName": "Arterbury",
+                                "givenName": "Lennie",
+                                "addressID": "479415"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "OEQFjv6UEt2iNqmS",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 42.49  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "G13GLOMfp4HVLOpE",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 9.29  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "v7gjDlBMYglbNNSE",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 36.88  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LUuyE63M7l8PpqmX",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 65.4  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "PIbNq0QJDrOjBzaM",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 28.8  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "V1siKh0Y6hwKRETM",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.08  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "EqgMi2g4EJeq3Tzu",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 27.99  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "PTjXdYziwXiZRuWy",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.54  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ZK8WP5JUt0fD10Nf",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 20.19  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ugxFECzK6fbdN8Dn",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 76.91  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "E2RYhj0DBeUT600Q",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 2.68  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "J8MVSYZkMElR0dOY",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 9.98  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "02/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "BmFX7FGVu35obyBs",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 68.47  },
+                                    
+                                
+                                "customer":{
+                                "id": "FX6LBLQB",
+                                "prefix": "Dr",
+                                "lastName": "Davies",
+                                "givenName": "Ernest",
+                                "addressID": "252151"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "UWMWF82vkYvh5dMQ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 63.97  },
+                                    
+                                
+                                "customer":{
+                                "id": "OS2M5PKJ",
+                                "prefix": "Mrs",
+                                "lastName": "Macauley",
+                                "givenName": "Ernestine",
+                                "addressID": "547053"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "yXM4b08chJHcRcPv",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 6.29  },
+                                    
+                                
+                                "customer":{
+                                "id": "ASZN4HEG",
+                                "prefix": "Mr ",
+                                "lastName": "Douglas",
+                                "givenName": "Adair",
+                                "addressID": "805462"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LdIXj8mO6xBJq6dt",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 5.93  },
+                                    
+                                
+                                "customer":{
+                                "id": "EL7A3UYF",
+                                "prefix": "Mrs",
+                                "lastName": "Wolfe",
+                                "givenName": "Emer",
+                                "addressID": "568681"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "FQHQkV1OsQZjAjA5",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 21.98  },
+                                    
+                                
+                                "customer":{
+                                "id": "6MDNZPIC",
+                                "prefix": "Mr ",
+                                "lastName": "Sherburn",
+                                "givenName": "Taskill",
+                                "addressID": "66382"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "IfUW2RKI4np6m9eU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 84.69  },
+                                    
+                                
+                                "customer":{
+                                "id": "3SS8Z34P",
+                                "prefix": "Mrs",
+                                "lastName": "Simms",
+                                "givenName": "Skyla",
+                                "addressID": "55522"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "z2nhlC80nD5TxCHk",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 76.21  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "nE8jFMGyuHW20ClM",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 95.11  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "uy4iEMyUf7h7LgoH",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 30.31  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "DMXA0Y1v1MOx66TP",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 83.78  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "lAoToPksUpxV57Hi",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 17.24  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "cN66cjKI7iysttNz",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 81.19  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ZpircsNTLg14l0wv",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 20.55  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "A6mMRp7ll8IICHpu",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 87.89  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "rmTPnbspAYbRsx8M",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 74.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "AW1SGl7IAG76DmDk",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 30.78  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "8o1z2x263skc8O5m",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 23.21  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "1SD1iHgT7UIOfMDO",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 92.36  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "Ljau6nxVs3PlhJlU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 42.1  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "gj66hp1O2m5ML8wL",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 5.79  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LSf4xNjYK8AaqoAn",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 38.57  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "2YfKuzkWNmomCVVL",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.87  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "npnvnigG78hjwnSH",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 88.12  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "awOkeSoBdZceUGW4",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 79.38  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "c18AICW5oG3zKdBW",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 76.94  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "MZOseUcRvmrEYUcA",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 13.41  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "5iNj8xTRsQ1C3E5W",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.47  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "OD1q94UYeu3eFwBi",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 43.26  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "03/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "XBahCi8Q1BrSB54e",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 67.95  },
+                                    
+                                
+                                "customer":{
+                                "id": "3M2H3GQ3",
+                                "prefix": "Mr ",
+                                "lastName": "Bradley",
+                                "givenName": "Jeffrey",
+                                "addressID": "28352"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "Mo5bQ6IOqS4HHuz7",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 52.64  },
+                                    
+                                
+                                "customer":{
+                                "id": "L6FMZ456",
+                                "prefix": "Mr ",
+                                "lastName": "Fairburn",
+                                "givenName": "Roy",
+                                "addressID": "935367"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "BxEtT9bdDfsDaL26",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 47.84  },
+                                    
+                                
+                                "customer":{
+                                "id": "TFM8RYEL",
+                                "prefix": "Ms",
+                                "lastName": "Womack",
+                                "givenName": "Hollie",
+                                "addressID": "888727"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "r5CQWnYLlaO14ilf",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 99.74  },
+                                    
+                                
+                                "customer":{
+                                "id": "F4SVB54Y",
+                                "prefix": "Mr ",
+                                "lastName": "Patton",
+                                "givenName": "Carson",
+                                "addressID": "326414"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "qtlyhzOPN3kIDv5B",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 57.15  },
+                                    
+                                
+                                "customer":{
+                                "id": "AV0IQSHS",
+                                "prefix": "Mrs",
+                                "lastName": "David",
+                                "givenName": "Yasmin",
+                                "addressID": "965543"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "0mWVMDb2zZwynrtj",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 64.15  },
+                                    
+                                
+                                "customer":{
+                                "id": "VPZ1YWQQ",
+                                "prefix": "Miss",
+                                "lastName": "MacClellan",
+                                "givenName": "Cece",
+                                "addressID": "948508"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "04gJCGFY1a7sXwVB",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 15.98  },
+                                    
+                                
+                                "customer":{
+                                "id": "PZ4SXU06",
+                                "prefix": "Dr",
+                                "lastName": "Batts",
+                                "givenName": "Chandler",
+                                "addressID": "270744"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "ie4Xc6k7JfGZVWWp",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 55.34  },
+                                    
+                                
+                                "customer":{
+                                "id": "QO05YN1D",
+                                "prefix": "Mr ",
+                                "lastName": "Chancellor",
+                                "givenName": "Wilkie",
+                                "addressID": "886190"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "JMdYhX0rMSml6zcA",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 99.48  },
+                                    
+                                
+                                "customer":{
+                                "id": "CRQ3RNM4",
+                                "prefix": "Mrs",
+                                "lastName": "Lindon",
+                                "givenName": "Unique",
+                                "addressID": "823679"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "SOwbOA9jXD0w6Hqp",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 60.58  },
+                                    
+                                
+                                "customer":{
+                                "id": "1TY7KZTQ",
+                                "prefix": "Mrs",
+                                "lastName": "Oakley",
+                                "givenName": "Haley",
+                                "addressID": "165772"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "yiMxDnTWq2D8ue35",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 8.36  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "t0zZexnECNOWja8c",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 30.53  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "3UQXO3uNScFnMMaj",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 61.25  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "d0Dqa08VGQaNY25R",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 60.99  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LSlDRP6MqeTGqrVS",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 61.13  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "agacavfPckAusqHG",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 23.33  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "FSvJkTYfAM7cVwFi",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 68.86  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "326m6aAW6dKAWUc1",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 45.78  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "EOFKehe5tVK6CKzD",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 29.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "But37ZPqAsh0NsV0",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 73.36  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                         ]    
+                }
+                ,
+                {
+                    
+                "number": 1, "dates":[
+                    
+                    
+                        {
+                            
+                        "date_value": "01/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "xiFZUFOv8J8zKqyU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 19.76  },
+                                    
+                                
+                                "customer":{
+                                "id": "BQ0JG15U",
+                                "prefix": "Miss",
+                                "lastName": "Witherspoon",
+                                "givenName": "Wisdom",
+                                "addressID": "306679"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "7Yog0IVnlVbOGIQX",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 54.12  },
+                                    
+                                
+                                "customer":{
+                                "id": "4FI1TAJW",
+                                "prefix": "Mr ",
+                                "lastName": "Bellamy",
+                                "givenName": "Sawyer",
+                                "addressID": "792091"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "6vtTiqxOcrZn6DEU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 68.06  },
+                                    
+                                
+                                "customer":{
+                                "id": "EO1KDAFV",
+                                "prefix": "Mrs",
+                                "lastName": "MacConnell",
+                                "givenName": "Selina",
+                                "addressID": "62588"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "SgjnoLMH9VEVixHs",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 57.94  },
+                                    
+                                
+                                "customer":{
+                                "id": "OGUQVY70",
+                                "prefix": "Mrs",
+                                "lastName": "Wilton",
+                                "givenName": "Starla",
+                                "addressID": "483243"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "XhEO9gTFG8RUY3IU",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 1.42  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "KlWY6fCOZKdkJDsD",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 92.62  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "Kp7ZbWl1HwFWhbFZ",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 45.31  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "rvBkzjA7MvAyYS8q",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 36.29  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "02OcmusE2z7101nk",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 38.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "02/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "IX9UspYJgYTYwtbI",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 13.84  },
+                                    
+                                
+                                "customer":{
+                                "id": "A25S3UU6",
+                                "prefix": "Mrs",
+                                "lastName": "Tobias",
+                                "givenName": "Talia",
+                                "addressID": "790366"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "1Lng8B0uDphSQhu4",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 0.89  },
+                                    
+                                
+                                "customer":{
+                                "id": "QQASCC8J",
+                                "prefix": "Mrs",
+                                "lastName": "Dhuibh",
+                                "givenName": "Minta",
+                                "addressID": "331249"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "McnBd7VFUUqkBszp",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 80.21  },
+                                    
+                                
+                                "customer":{
+                                "id": "Z0A07AOV",
+                                "prefix": "Ms",
+                                "lastName": "Stringer",
+                                "givenName": "Coretta",
+                                "addressID": "64056"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "FdHLlG1RAcnSJf4p",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 43.2  },
+                                    
+                                
+                                "customer":{
+                                "id": "9J1R7LKH",
+                                "prefix": "Mr ",
+                                "lastName": "Simpson",
+                                "givenName": "Darcy",
+                                "addressID": "546250"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "JvVoaPj4lZyKiQuc",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 40.29  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "mKRBTHMdzeS2AlbE",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 8.35  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "SvnYTwn2eowMAEvL",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 76.04  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "w5IkrxUu6TXsAkaw",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 12.27  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "xE67z4a83j1aFEfN",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.98  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "PefmwmiklcrkeI5e",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 56.37  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "H5dyVQlkUp2p85Qd",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 64.5  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "LjmDkVnOFzaoJXTC",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 32.76  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                        ,
+                        {
+                            
+                        "date_value": "03/11/2019","transactions":[
+                            
+                            
+                                {                                    
+                                    
+                                "id": "9y56RANfMNM9KTkK",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 35.33  },
+                                    
+                                
+                                "customer":{
+                                "id": "NFP1RIH5",
+                                "prefix": "Mr ",
+                                "lastName": "Lyon",
+                                "givenName": "Laz",
+                                "addressID": "259820"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "MPRDuvVBW3EYul6K",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 34.12  },
+                                    
+                                
+                                "customer":{
+                                "id": "TUUSA0SI",
+                                "prefix": "Mr ",
+                                "lastName": "Scriven",
+                                "givenName": "Gib",
+                                "addressID": "86916"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "52m2IVzGHpcS2a2N",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 19.78  },
+                                    
+                                
+                                "customer":{
+                                "id": "2YOK85QF",
+                                "prefix": "Dr",
+                                "lastName": "Foss",
+                                "givenName": "Kaycee",
+                                "addressID": "513089"
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "U3nFii6UySqlCxb1",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 23.51  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "suY8CnWiIMtaggrw",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 66.15  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "83awZ7moVAnWROzt",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 7.69  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "mup7aknOPcslSgOs",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 51.13  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ,
+                                {                                    
+                                    
+                                "id": "2OtBDgddoUUpehCa",
+                                    
+                                    
+                                "value":{"currency": "gbp", "value": 97.36  },
+                                    
+                                
+                                "customer":{
+                                "id": "",
+                                "prefix": "",
+                                "lastName": "",
+                                "givenName": "",
+                                "addressID": ""
+                                
+                                }
+                                }
+                                ]
+                         }
+                         ]    
+                }
+                
+        ]
+    
